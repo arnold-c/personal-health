@@ -1,7 +1,14 @@
 ---
 title: "Personal Health"
-output: html_notebook
+output: 
+  html_notebook:
+    code_folding: hide
 ---
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(warning = FALSE, message = FALSE)
+```
+
 
 ```{r}
 library(tidyverse)
@@ -14,7 +21,7 @@ library(sfthemes)
 theme_set(theme_minimal())
 ```
 
-```{r}
+```{r, results='hide'}
 body_measures <- read_csv(
   here("data", "Measurement-Summary-2015-04-08-to-2021-05-17.csv")
   ) %>%
