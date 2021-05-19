@@ -1,0 +1,144 @@
+---
+title: "Personal Health"
+output: html_notebook
+---
+
+```{r}
+library(tidyverse)
+library(lubridate)
+library(plotly)
+library(here)
+library(janitor)
+library(sfthemes)
+
+theme_set(theme_minimal())
+```
+
+```{r}
+body_measures <- read_csv(
+  here("data", "Measurement-Summary-2015-04-08-to-2021-05-17.csv")
+  ) %>%
+  clean_names()
+
+nutrition <- read_csv(
+  here("data", "Nutrition-Summary-2015-04-08-to-2021-05-17.csv")
+  ) %>%
+  clean_names()
+
+exercise <- read_csv(
+  here("data", "Exercise-Summary-2015-04-08-to-2021-05-17.csv")
+  ) %>%
+  clean_names()
+```
+
+```{r}
+nutrition_totals <- nutrition %>% 
+  group_by(date) %>% 
+  summarise(across(calories:iron, sum))
+```
+
+```{r}
+exercise_totals <- exercise %>% 
+  group_by(date) %>% 
+  summarise(across(exercise_calories:exercise_minutes, sum))
+```
+
+```{r}
+all_totals <- body_measures %>% 
+  full_join(nutrition_totals, by = "date") %>% 
+  full_join(exercise_totals, by = "date") %>% 
+  rename(weight = weightkg) %>% 
+  mutate(
+    date = as.Date(date),
+    age_years = floor(
+      interval(as.Date("1993-07-16"), all_totals$date) / years(1)
+      ),
+    net_calories = calories - exercise_calories,
+    bmr_mifflin_st_joer = 10 * weight + 6.25 * 179 - 5 * age_years - 5,
+    calorie_delta = net_calories - bmr_mifflin_st_joer
+    ) %>%
+  mutate(
+    daily_7d_avg_weight = 
+      slider::slide_dbl(
+        weight, mean, .before = 7, .after = 0, .complete = FALSE, na.rm = TRUE
+        ),
+    daily_7d_avg_calories = 
+      slider::slide_dbl(
+        calories, mean, .before = 7, .after = 0, .complete = FALSE, na.rm = TRUE
+        ),
+    daily_7d_avg_net_calories = 
+      slider::slide_dbl(
+        net_calories, mean, .before = 7, .after = 0, .complete = FALSE, na.rm = TRUE
+        ),
+    daily_7d_avg_calorie_delta = 
+      slider::slide_dbl(
+        calorie_delta, mean, .before = 7, .after = 0, .complete = FALSE, na.rm = TRUE
+        )
+    ) %>% 
+  mutate(
+    across(
+      .cols = contains("7d_avg"),
+      .fns = ~if_else(.x == "NaN", NA_real_, .x)
+      )
+  )
+```
+
+```{r}
+weight_plot <- ggplot(all_totals, aes(x = date, y = weight)) +
+  geom_point(alpha = 0.3, size = 1.5) +
+  scale_x_date(
+    date_labels = "%d %b %Y",
+    limits = c(as.Date("2019-01-01"), NA)
+    ) +
+  geom_path(aes(x = date, y = daily_7d_avg_weight)) +
+  labs(
+    title = "Weight over time with 7d rolling average"
+  )
+
+ggplotly(weight_plot)
+```
+
+```{r}
+calories_plot <- ggplot(all_totals, aes(x = date, y = calories)) +
+  geom_point(alpha = 0.3, size = 1.5) +
+  scale_x_date(
+    date_labels = "%d %b %Y"
+    ) +
+  geom_line(aes(x = date, y = daily_7d_avg_calories), color = "black") +
+  geom_path(aes(x = date, y = bmr_mifflin_st_joer), color = "black") +
+  labs(
+    title = "Gross calories over time with 7d rolling average"
+  )
+
+ggplotly(calories_plot)
+```
+
+```{r}
+net_calories_plot <- ggplot(all_totals, aes(x = date, y = net_calories)) +
+  geom_point(alpha = 0.3, size = 1.5) +
+  scale_x_date(
+    date_labels = "%d %b %Y",
+    ) +
+  geom_line(aes(x = date, y = daily_7d_avg_net_calories), color = "black") +
+  geom_path(aes(x = date, y = bmr_mifflin_st_joer), color = "black") +
+  labs(
+    title = "Net calories over time with 7d rolling average"
+  )
+
+ggplotly(net_calories_plot)
+```
+
+```{r}
+calorie_delta_plot <- ggplot(all_totals, aes(x = date, y = calorie_delta)) +
+  geom_point(alpha = 0.3, size = 1.5) +
+  scale_x_date(
+    date_labels = "%d %b %Y",
+    limits = c(as.Date("2019-05-01"), NA)
+    ) +
+  geom_line(aes(x = date, y = daily_7d_avg_calorie_delta), color = "black") +
+  labs(
+    title = "Gross calories over time with 7d rolling average"
+  )
+
+ggplotly(calorie_delta_plot)
+```
