@@ -1,7 +1,7 @@
 ---
 title: "Personal Health"
 output: 
-  html_notebook:
+  html_document:
     code_folding: hide
 ---
 
@@ -9,89 +9,55 @@ output:
 knitr::opts_chunk$set(warning = FALSE, message = FALSE)
 ```
 
+# Cleaning
 
 ```{r}
 library(tidyverse)
 library(lubridate)
+library(fable)
+library(feasts)
+library(tsibble)
 library(plotly)
 library(here)
 library(janitor)
-library(sfthemes)
+library(highcharter)
 
 theme_set(theme_minimal())
 ```
 
-```{r, results='hide'}
-body_measures <- read_csv(
-  here("data", "Measurement-Summary-2015-04-08-to-2021-05-17.csv")
-  ) %>%
-  clean_names()
-
-nutrition <- read_csv(
-  here("data", "Nutrition-Summary-2015-04-08-to-2021-05-17.csv")
-  ) %>%
-  clean_names()
-
-exercise <- read_csv(
-  here("data", "Exercise-Summary-2015-04-08-to-2021-05-17.csv")
-  ) %>%
-  clean_names()
+```{r}
+tar_load(all_totals_ts)
+tar_load(all_totals_long_ts)
 ```
 
 ```{r}
-nutrition_totals <- nutrition %>% 
-  group_by(date) %>% 
-  summarise(across(calories:iron, sum))
+duplicates(all_totals_long_ts, index = date, key = Metric)
 ```
 
-```{r}
-exercise_totals <- exercise %>% 
-  group_by(date) %>% 
-  summarise(across(exercise_calories:exercise_minutes, sum))
-```
+# Univariable Plots Over Time
+## Weight
 
 ```{r}
-all_totals <- body_measures %>% 
-  full_join(nutrition_totals, by = "date") %>% 
-  full_join(exercise_totals, by = "date") %>% 
-  rename(weight = weightkg) %>% 
-  mutate(
-    date = as.Date(date),
-    age_years = floor(
-      interval(as.Date("1993-07-16"), all_totals$date) / years(1)
-      ),
-    net_calories = calories - exercise_calories,
-    bmr_mifflin_st_joer = 10 * weight + 6.25 * 179 - 5 * age_years - 5,
-    calorie_delta = net_calories - bmr_mifflin_st_joer
-    ) %>%
-  mutate(
-    daily_7d_avg_weight = 
-      slider::slide_dbl(
-        weight, mean, .before = 7, .after = 0, .complete = FALSE, na.rm = TRUE
-        ),
-    daily_7d_avg_calories = 
-      slider::slide_dbl(
-        calories, mean, .before = 7, .after = 0, .complete = FALSE, na.rm = TRUE
-        ),
-    daily_7d_avg_net_calories = 
-      slider::slide_dbl(
-        net_calories, mean, .before = 7, .after = 0, .complete = FALSE, na.rm = TRUE
-        ),
-    daily_7d_avg_calorie_delta = 
-      slider::slide_dbl(
-        calorie_delta, mean, .before = 7, .after = 0, .complete = FALSE, na.rm = TRUE
-        )
-    ) %>% 
-  mutate(
-    across(
-      .cols = contains("7d_avg"),
-      .fns = ~if_else(.x == "NaN", NA_real_, .x)
-      )
-  )
+hchart(
+  all_totals_ts,
+  "point",
+  hcaes(x = date, y = weight),
+  name = "weight",
+  showInLegend = TRUE
+) %>% 
+  hc_add_series(
+    all_totals_ts,
+    "spline",
+    hcaes(x = date, y = daily_7d_avg_weight),
+    name = "7d average weight",
+    showInLegend = TRUE
+  ) %>% 
+  hc_title(text = "Weight over time with 7d rolling average")
 ```
 
+
 ```{r}
-weight_plot <- ggplot(all_totals, aes(x = date, y = weight)) +
+weight_plot <- ggplot(all_totals_ts, aes(x = date, y = weight)) +
   geom_point(alpha = 0.3, size = 1.5) +
   scale_x_date(
     date_labels = "%d %b %Y",
@@ -105,14 +71,101 @@ weight_plot <- ggplot(all_totals, aes(x = date, y = weight)) +
 ggplotly(weight_plot)
 ```
 
+### Autocorrelation
+#### Single Values
+
 ```{r}
-calories_plot <- ggplot(all_totals, aes(x = date, y = calories)) +
+all_totals_ts %>% 
+  features(weight, unitroot_kpss)
+```
+
+```{r}
+all_totals_ts %>% 
+  features(weight, unitroot_ndiffs)
+```
+
+```{r}
+all_totals_ts %>% 
+  mutate(weight_diff = difference(weight)) %>% 
+  features(weight_diff, unitroot_kpss)
+```
+
+```{r}
+all_totals_ts %>% 
+  filter(date > "2020-08-04" & date < "2021-01-03") %>% 
+  tsibble::fill_gaps() %>% 
+  ACF(weight) %>% 
+  autoplot()
+```
+
+```{r}
+all_totals_ts %>% 
+  filter(date > "2020-08-04" & date < "2021-01-03") %>% 
+  mutate(weight_diff = difference(weight)) %>% 
+  tsibble::fill_gaps() %>% 
+  ACF(weight_diff) %>% 
+  autoplot()
+```
+
+#### Moving Averages
+
+
+```{r}
+all_totals_ts %>% 
+  features(daily_7d_avg_weight, unitroot_kpss)
+```
+
+```{r}
+all_totals_ts %>% 
+  features(daily_7d_avg_weight, unitroot_ndiffs)
+```
+
+```{r}
+all_totals_ts %>% 
+  mutate(
+    daily_7d_avg_weight_diff = difference(daily_7d_avg_weight)
+    ) %>% 
+  features(daily_7d_avg_weight_diff, unitroot_kpss)
+```
+
+```{r}
+all_totals_ts %>% 
+  filter(date > "2020-08-04" & date < "2021-01-03") %>% 
+  tsibble::fill_gaps() %>% 
+  ACF(daily_7d_avg_weight) %>% 
+  autoplot()
+```
+
+```{r}
+all_totals_ts %>% 
+  filter(date > "2020-08-04" & date < "2021-01-03") %>% 
+  mutate(
+    daily_7d_avg_weight_diff = difference(daily_7d_avg_weight)
+    ) %>% 
+  tsibble::fill_gaps() %>% 
+  ACF(daily_7d_avg_weight_diff) %>% 
+  autoplot()
+```
+
+```{r}
+all_totals_ts %>% 
+  mutate(
+    daily_7d_avg_weight_diff = difference(daily_7d_avg_weight)
+    ) %>% 
+  filter(date > "2020-08-04") %>% 
+  autoplot(daily_7d_avg_weight_diff)
+```
+
+## Gross Calories
+
+```{r}
+calories_plot <- ggplot(all_totals_ts, aes(x = date, y = calories)) +
   geom_point(alpha = 0.3, size = 1.5) +
   scale_x_date(
     date_labels = "%d %b %Y"
     ) +
   geom_line(aes(x = date, y = daily_7d_avg_calories), color = "black") +
-  geom_path(aes(x = date, y = bmr_mifflin_st_joer), color = "black") +
+  geom_path(aes(x = date, y = bmr_mifflin_st_joer), color = "dodgerblue") +
   labs(
     title = "Gross calories over time with 7d rolling average"
   )
@@ -120,14 +173,37 @@ calories_plot <- ggplot(all_totals, aes(x = date, y = calories)) +
 ggplotly(calories_plot)
 ```
 
+### Autocorrelation
+#### Single Values
+
 ```{r}
-net_calories_plot <- ggplot(all_totals, aes(x = date, y = net_calories)) +
+all_totals_ts %>% 
+  filter(date > "2020-08-04" & date < "2021-01-03") %>% 
+  tsibble::fill_gaps() %>% 
+  ACF(calories) %>% 
+  autoplot()
+```
+
+```{r}
+all_totals_ts %>% 
+  filter(date > "2020-08-04" & date < "2021-01-03") %>% 
+  tsibble::fill_gaps() %>% 
+  ACF(daily_7d_avg_calories) %>% 
+  autoplot()
+```
+
+#### Moving Averages
+
+## Net Calories
+
+```{r}
+net_calories_plot <- ggplot(all_totals_ts, aes(x = date, y = net_calories)) +
   geom_point(alpha = 0.3, size = 1.5) +
   scale_x_date(
     date_labels = "%d %b %Y",
     ) +
   geom_line(aes(x = date, y = daily_7d_avg_net_calories), color = "black") +
-  geom_path(aes(x = date, y = bmr_mifflin_st_joer), color = "black") +
+  geom_path(aes(x = date, y = bmr_mifflin_st_joer), color = "dodgerblue") +
   labs(
     title = "Net calories over time with 7d rolling average"
   )
@@ -135,8 +211,31 @@ net_calories_plot <- ggplot(all_totals, aes(x = date, y = net_calories)) +
 ggplotly(net_calories_plot)
 ```
 
+### Autocorrelation
+#### Single Values
+
 ```{r}
-calorie_delta_plot <- ggplot(all_totals, aes(x = date, y = calorie_delta)) +
+all_totals_ts %>% 
+  filter(date > "2020-08-04" & date < "2021-01-03") %>% 
+  tsibble::fill_gaps() %>% 
+  ACF(net_calories) %>% 
+  autoplot()
+```
+
+```{r}
+all_totals_ts %>% 
+  filter(date > "2020-08-04" & date < "2021-01-03") %>% 
+  tsibble::fill_gaps() %>% 
+  ACF(daily_7d_avg_net_calories) %>% 
+  autoplot()
+```
+
+#### Moving Averages
+
+## Calorie Delta
+
+```{r}
+calorie_delta_plot <- ggplot(all_totals_ts, aes(x = date, y = calorie_delta)) +
   geom_point(alpha = 0.3, size = 1.5) +
   scale_x_date(
     date_labels = "%d %b %Y",
@@ -148,4 +247,141 @@ calorie_delta_plot <- ggplot(all_totals, aes(x = date, y = calorie_delta)) +
   )
 
 ggplotly(calorie_delta_plot)
+```
+
+### Autocorrelation
+#### Single Values
+
+```{r}
+all_totals_ts %>% 
+  filter(date > "2020-08-04" & date < "2021-01-03") %>% 
+  tsibble::fill_gaps() %>% 
+  ACF(calorie_delta) %>% 
+  autoplot()
+```
+
+```{r}
+all_totals_ts %>% 
+  filter(date > "2020-08-04" & date < "2021-01-03") %>% 
+  tsibble::fill_gaps() %>% 
+  ACF(daily_7d_avg_calorie_delta) %>% 
+  autoplot()
+```
+
+#### Moving Averages
+
+
+# Golden Cheetah File Output
+
+Golden Cheetah requires particular headings for file imports, so let's create 
+them here.
+
+```{r}
+all_totals_ts %>% 
+  select(date, weight) %>% 
+  rename(weightkg = weight) %>% 
+  as_tibble() %>% 
+  mutate(date = as_datetime(date)) %>% 
+  filter(!is.na(weightkg)) %>% 
+  write_csv(here::here("out", "GC-weight.csv"))
+```
+
+
+# Regression
+## Weight vs Gross Calories
+
+```{r}
+all_totals_ts %>%   
+  filter(date > "2020-08-04" & date < "2021-01-03") %>% 
+  ggplot(aes(x = calories, y = weight)) +
+  geom_point() +
+  geom_smooth(method = "lm")
+```
+
+```{r}
+all_totals_ts %>% 
+  filter(date > "2020-08-04" & date < "2021-01-03") %>% 
+  model(TSLM(weight ~ calories)) %>% 
+  report()
+```
+
+```{r}
+all_totals_ts %>% 
+  filter(date > "2020-08-04" & date < "2021-01-03") %>% 
+  tsibble::fill_gaps() %>% 
+  CCF(calories, weight) %>% 
+  autoplot()
+```
+
+```{r}
+all_totals_ts %>% 
+  filter(date > "2020-08-04" & date < "2021-01-03") %>% 
+  CCF(daily_7d_avg_calories, daily_7d_avg_weight) %>% 
+  autoplot()
+```
+
+## Weight vs Net Calories
+
+
+```{r}
+all_totals_ts %>%   
+  filter(date > "2020-08-04" & date < "2021-01-03") %>% 
+  ggplot(aes(x = net_calories, y = weight)) +
+  geom_point() +
+  geom_smooth(method = "lm")
+```
+
+```{r}
+all_totals_ts %>% 
+  filter(date > "2020-08-04" & date < "2021-01-03") %>% 
+  model(TSLM(weight ~ net_calories)) %>% 
+  report()
+```
+
+```{r}
+all_totals_ts %>% 
+  filter(date > "2020-08-04" & date < "2021-01-03") %>% 
+  tsibble::fill_gaps() %>% 
+  CCF(net_calories, weight) %>% 
+  autoplot()
+```
+
+```{r}
+all_totals_ts %>% 
+  filter(date > "2020-08-04" & date < "2021-01-03") %>% 
+  CCF(daily_7d_avg_net_calories, daily_7d_avg_weight) %>% 
+  autoplot()
+```
+
+## Weight vs Calorie Delta
+
+
+```{r}
+all_totals_ts %>%   
+  filter(date > "2020-08-04" & date < "2021-01-03") %>% 
+  ggplot(aes(x = calorie_delta, y = weight)) +
+  geom_point() +
+  geom_smooth(method = "lm")
+```
+
+```{r}
+all_totals_ts %>% 
+  filter(date > "2020-08-04" & date < "2021-01-03") %>% 
+  model(TSLM(weight ~ calorie_delta)) %>% 
+  report()
+```
+
+```{r}
+all_totals_ts %>% 
+  filter(date > "2020-08-04" & date < "2021-01-03") %>% 
+  tsibble::fill_gaps() %>% 
+  CCF(calorie_delta, weight) %>% 
+  autoplot()
+```
+
+```{r}
+all_totals_ts %>% 
+  filter(date > "2020-08-04" & date < "2021-01-03") %>% 
+  CCF(daily_7d_avg_calorie_delta, daily_7d_avg_weight) %>% 
+  autoplot()
 ```

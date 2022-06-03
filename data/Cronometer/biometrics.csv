@@ -1,0 +1,2943 @@
+Day,Metric,Unit,Amount
+2016-12-01,"Heart Rate (Garmin)",bpm,161.0
+2016-12-02,"Heart Rate (Garmin)",bpm,162.0
+2016-12-04,"Heart Rate (Garmin)",bpm,160.0
+2016-12-06,"Heart Rate (Garmin)",bpm,154.0
+2016-12-07,"Heart Rate (Garmin)",bpm,156.0
+2016-12-12,"Weight (Garmin)",kg,76.3
+2016-12-12,"Heart Rate (Garmin)",bpm,160.0
+2016-12-13,"Heart Rate (Garmin)",bpm,160.0
+2016-12-14,"Sleep (Garmin)",hours,0.0
+2016-12-14,"Weight (Garmin)",kg,77.2
+2016-12-14,"Heart Rate (Garmin)",bpm,156.0
+2016-12-17,"Heart Rate (Garmin)",bpm,160.0
+2016-12-18,"Heart Rate (Garmin)",bpm,146.0
+2016-12-20,"Heart Rate (Garmin)",bpm,150.0
+2016-12-21,"Heart Rate (Garmin)",bpm,167.0
+2016-12-22,"Sleep (Garmin)",hours,0.0
+2016-12-23,"Sleep (Garmin)",hours,0.0
+2016-12-24,"Sleep (Garmin)",hours,0.0
+2016-12-25,"Sleep (Garmin)",hours,0.0
+2016-12-26,"Sleep (Garmin)",hours,0.0
+2016-12-27,"Sleep (Garmin)",hours,0.0
+2016-12-28,"Sleep (Garmin)",hours,0.0
+2016-12-28,"Heart Rate (Garmin)",bpm,139.0
+2016-12-29,"Sleep (Garmin)",hours,0.0
+2016-12-29,"Heart Rate (Garmin)",bpm,148.0
+2016-12-30,"Sleep (Garmin)",hours,0.0
+2016-12-30,"Heart Rate (Garmin)",bpm,139.0
+2016-12-31,"Sleep (Garmin)",hours,0.0
+2016-12-31,"Heart Rate (Garmin)",bpm,149.0
+2017-01-01,"Sleep (Garmin)",hours,0.0
+2017-01-02,"Weight (Garmin)",kg,77.2
+2017-01-04,"Sleep (Garmin)",hours,0.0
+2017-01-05,"Heart Rate (Garmin)",bpm,123.0
+2017-01-06,"Heart Rate (Garmin)",bpm,122.0
+2017-01-07,"Heart Rate (Garmin)",bpm,146.0
+2017-01-08,"Heart Rate (Garmin)",bpm,141.0
+2017-01-09,"Sleep (Garmin)",hours,0.0
+2017-01-09,"Heart Rate (Garmin)",bpm,160.0
+2017-01-10,"Heart Rate (Garmin)",bpm,145.0
+2017-01-11,"Heart Rate (Garmin)",bpm,136.0
+2017-01-11,"Weight (Garmin)",kg,77.2
+2017-01-12,"Sleep (Garmin)",hours,0.0
+2017-01-12,"Heart Rate (Garmin)",bpm,70.0
+2017-01-13,"Sleep (Garmin)",hours,0.0
+2017-01-13,"Heart Rate (Garmin)",bpm,63.0
+2017-01-14,"Heart Rate (Garmin)",bpm,134.0
+2017-01-15,"Heart Rate (Garmin)",bpm,162.0
+2017-01-16,"Heart Rate (Garmin)",bpm,159.0
+2017-01-17,"Sleep (Garmin)",hours,0.0
+2017-01-17,"Heart Rate (Garmin)",bpm,162.0
+2017-01-18,"Sleep (Garmin)",hours,0.0
+2017-01-18,"Heart Rate (Garmin)",bpm,159.0
+2017-01-19,"Heart Rate (Garmin)",bpm,57.0
+2017-01-20,"Heart Rate (Garmin)",bpm,61.0
+2017-01-21,"Heart Rate (Garmin)",bpm,141.0
+2017-01-22,"Heart Rate (Garmin)",bpm,133.0
+2017-01-23,"Sleep (Garmin)",hours,0.0
+2017-01-23,"Heart Rate (Garmin)",bpm,65.0
+2017-01-24,"Heart Rate (Garmin)",bpm,56.0
+2017-01-25,"Heart Rate (Garmin)",bpm,67.0
+2017-01-26,"Heart Rate (Garmin)",bpm,135.0
+2017-01-27,"Heart Rate (Garmin)",bpm,71.0
+2017-01-28,"Heart Rate (Garmin)",bpm,124.0
+2017-01-29,"Heart Rate (Garmin)",bpm,145.0
+2017-01-30,"Sleep (Garmin)",hours,0.0
+2017-01-30,"Heart Rate (Garmin)",bpm,160.0
+2017-01-31,"Sleep (Garmin)",hours,0.0
+2017-01-31,"Heart Rate (Garmin)",bpm,63.0
+2017-02-01,"Sleep (Garmin)",hours,0.0
+2017-02-01,"Heart Rate (Garmin)",bpm,119.0
+2017-02-02,"Heart Rate (Garmin)",bpm,163.0
+2017-02-03,"Heart Rate (Garmin)",bpm,65.0
+2017-02-04,"Sleep (Garmin)",hours,0.0
+2017-02-04,"Heart Rate (Garmin)",bpm,155.0
+2017-02-05,"Sleep (Garmin)",hours,0.0
+2017-02-05,"Heart Rate (Garmin)",bpm,164.0
+2017-02-06,"Sleep (Garmin)",hours,0.0
+2017-02-06,"Heart Rate (Garmin)",bpm,60.0
+2017-02-07,"Sleep (Garmin)",hours,0.0
+2017-02-07,"Heart Rate (Garmin)",bpm,66.0
+2017-02-08,"Heart Rate (Garmin)",bpm,149.0
+2017-02-09,"Sleep (Garmin)",hours,0.0
+2017-02-09,"Heart Rate (Garmin)",bpm,61.0
+2017-02-10,"Sleep (Garmin)",hours,0.0
+2017-02-10,"Heart Rate (Garmin)",bpm,152.0
+2017-02-11,"Heart Rate (Garmin)",bpm,57.0
+2017-02-12,"Heart Rate (Garmin)",bpm,150.0
+2017-02-13,"Sleep (Garmin)",hours,0.0
+2017-02-13,"Heart Rate (Garmin)",bpm,146.0
+2017-02-14,"Sleep (Garmin)",hours,0.0
+2017-02-14,"Heart Rate (Garmin)",bpm,143.0
+2017-02-15,"Sleep (Garmin)",hours,0.0
+2017-02-15,"Heart Rate (Garmin)",bpm,65.0
+2017-02-16,"Heart Rate (Garmin)",bpm,68.0
+2017-02-17,"Heart Rate (Garmin)",bpm,124.0
+2017-02-18,"Sleep (Garmin)",hours,0.0
+2017-02-18,"Heart Rate (Garmin)",bpm,156.0
+2017-02-19,"Sleep (Garmin)",hours,0.0
+2017-02-19,"Heart Rate (Garmin)",bpm,154.0
+2017-02-20,"Sleep (Garmin)",hours,0.0
+2017-02-20,"Heart Rate (Garmin)",bpm,145.0
+2017-02-21,"Sleep (Garmin)",hours,0.0
+2017-02-21,"Heart Rate (Garmin)",bpm,60.0
+2017-02-22,"Heart Rate (Garmin)",bpm,59.0
+2017-02-23,"Heart Rate (Garmin)",bpm,150.0
+2017-02-24,"Sleep (Garmin)",hours,0.0
+2017-02-24,"Heart Rate (Garmin)",bpm,151.0
+2017-02-25,"Sleep (Garmin)",hours,0.0
+2017-02-25,"Heart Rate (Garmin)",bpm,72.0
+2017-02-26,"Sleep (Garmin)",hours,0.0
+2017-02-26,"Heart Rate (Garmin)",bpm,66.0
+2017-02-27,"Sleep (Garmin)",hours,0.0
+2017-02-27,"Heart Rate (Garmin)",bpm,68.0
+2017-02-28,"Sleep (Garmin)",hours,0.0
+2017-02-28,"Heart Rate (Garmin)",bpm,58.0
+2017-03-01,"Sleep (Garmin)",hours,0.0
+2017-03-01,"Heart Rate (Garmin)",bpm,135.0
+2017-03-02,"Heart Rate (Garmin)",bpm,140.0
+2017-03-03,"Heart Rate (Garmin)",bpm,149.0
+2017-03-04,"Heart Rate (Garmin)",bpm,73.0
+2017-03-06,"Heart Rate (Garmin)",bpm,65.0
+2017-03-07,"Sleep (Garmin)",hours,0.0
+2017-03-07,"Heart Rate (Garmin)",bpm,61.0
+2017-03-08,"Weight (Garmin)",kg,77.2
+2017-03-08,"Heart Rate (Garmin)",bpm,155.0
+2017-03-09,"Sleep (Garmin)",hours,0.0
+2017-03-09,"Heart Rate (Garmin)",bpm,143.0
+2017-03-10,"Heart Rate (Garmin)",bpm,129.0
+2017-03-11,"Heart Rate (Garmin)",bpm,76.0
+2017-03-12,"Heart Rate (Garmin)",bpm,67.0
+2017-03-13,"Sleep (Garmin)",hours,0.0
+2017-03-13,"Heart Rate (Garmin)",bpm,61.0
+2017-03-14,"Heart Rate (Garmin)",bpm,75.0
+2017-03-15,"Heart Rate (Garmin)",bpm,163.0
+2017-03-16,"Heart Rate (Garmin)",bpm,155.0
+2017-03-17,"Heart Rate (Garmin)",bpm,66.0
+2017-03-18,"Heart Rate (Garmin)",bpm,147.0
+2017-03-19,"Heart Rate (Garmin)",bpm,72.0
+2017-03-20,"Heart Rate (Garmin)",bpm,166.0
+2017-03-21,"Heart Rate (Garmin)",bpm,144.0
+2017-03-22,"Heart Rate (Garmin)",bpm,148.0
+2017-03-23,"Heart Rate (Garmin)",bpm,145.0
+2017-03-24,"Heart Rate (Garmin)",bpm,56.0
+2017-03-25,"Heart Rate (Garmin)",bpm,148.0
+2017-03-26,"Heart Rate (Garmin)",bpm,146.0
+2017-03-27,"Heart Rate (Garmin)",bpm,75.0
+2017-03-28,"Weight (Garmin)",kg,77.2
+2017-03-28,"Heart Rate (Garmin)",bpm,131.0
+2017-03-29,"Sleep (Garmin)",hours,0.0
+2017-03-29,"Heart Rate (Garmin)",bpm,155.0
+2017-03-30,"Heart Rate (Garmin)",bpm,148.0
+2017-04-01,"Sleep (Garmin)",hours,0.0
+2017-04-01,"Heart Rate (Garmin)",bpm,156.0
+2017-04-02,"Sleep (Garmin)",hours,0.0
+2017-04-02,"Heart Rate (Garmin)",bpm,141.0
+2017-04-03,"Heart Rate (Garmin)",bpm,159.0
+2017-04-04,"Heart Rate (Garmin)",bpm,66.0
+2017-04-05,"Heart Rate (Garmin)",bpm,152.0
+2017-04-06,"Heart Rate (Garmin)",bpm,73.0
+2017-04-07,"Heart Rate (Garmin)",bpm,149.0
+2017-04-08,"Heart Rate (Garmin)",bpm,129.0
+2017-04-09,"Heart Rate (Garmin)",bpm,162.0
+2017-04-10,"Heart Rate (Garmin)",bpm,82.0
+2017-04-11,"Heart Rate (Garmin)",bpm,68.0
+2017-04-12,"Heart Rate (Garmin)",bpm,143.0
+2017-04-13,"Sleep (Garmin)",hours,0.0
+2017-04-13,"Heart Rate (Garmin)",bpm,126.0
+2017-04-14,"Heart Rate (Garmin)",bpm,156.0
+2017-04-15,"Heart Rate (Garmin)",bpm,127.0
+2017-04-16,"Heart Rate (Garmin)",bpm,133.0
+2017-04-17,"Heart Rate (Garmin)",bpm,58.0
+2017-04-18,"Heart Rate (Garmin)",bpm,73.0
+2017-04-19,"Heart Rate (Garmin)",bpm,143.0
+2017-04-20,"Heart Rate (Garmin)",bpm,143.0
+2017-04-21,"Heart Rate (Garmin)",bpm,138.0
+2017-04-22,"Heart Rate (Garmin)",bpm,147.0
+2017-04-23,"Heart Rate (Garmin)",bpm,141.0
+2017-04-24,"Heart Rate (Garmin)",bpm,154.0
+2017-04-25,"Heart Rate (Garmin)",bpm,64.0
+2017-04-26,"Heart Rate (Garmin)",bpm,152.0
+2017-04-27,"Heart Rate (Garmin)",bpm,62.0
+2017-04-28,"Heart Rate (Garmin)",bpm,60.0
+2017-04-29,"Sleep (Garmin)",hours,0.0
+2017-04-29,"Heart Rate (Garmin)",bpm,127.0
+2017-04-30,"Heart Rate (Garmin)",bpm,150.0
+2017-05-01,"Heart Rate (Garmin)",bpm,141.0
+2017-05-02,"Sleep (Garmin)",hours,0.0
+2017-05-02,"Heart Rate (Garmin)",bpm,67.0
+2017-05-03,"Sleep (Garmin)",hours,0.0
+2017-05-04,"Sleep (Garmin)",hours,0.0
+2017-05-04,"Heart Rate (Garmin)",bpm,126.0
+2017-05-06,"Sleep (Garmin)",hours,0.0
+2017-05-06,"Heart Rate (Garmin)",bpm,143.0
+2017-05-07,"Heart Rate (Garmin)",bpm,156.0
+2017-05-08,"Sleep (Garmin)",hours,0.0
+2017-05-08,"Heart Rate (Garmin)",bpm,130.0
+2017-05-09,"Sleep (Garmin)",hours,0.0
+2017-05-09,"Heart Rate (Garmin)",bpm,159.0
+2017-05-10,"Sleep (Garmin)",hours,0.0
+2017-05-10,"Heart Rate (Garmin)",bpm,56.0
+2017-05-10,"Heart Rate (Garmin)",bpm,159.0
+2017-05-11,"Heart Rate (Garmin)",bpm,67.0
+2017-05-12,"Heart Rate (Garmin)",bpm,59.0
+2017-05-13,"Sleep (Garmin)",hours,0.0
+2017-05-13,"Heart Rate (Garmin)",bpm,64.0
+2017-05-14,"Sleep (Garmin)",hours,0.0
+2017-05-14,"Heart Rate (Garmin)",bpm,141.0
+2017-05-15,"Sleep (Garmin)",hours,0.0
+2017-05-15,"Heart Rate (Garmin)",bpm,66.0
+2017-05-16,"Sleep (Garmin)",hours,0.0
+2017-05-16,"Heart Rate (Garmin)",bpm,159.0
+2017-05-17,"Sleep (Garmin)",hours,0.0
+2017-05-17,"Heart Rate (Garmin)",bpm,62.0
+2017-05-18,"Sleep (Garmin)",hours,0.0
+2017-05-18,"Heart Rate (Garmin)",bpm,74.0
+2017-05-19,"Sleep (Garmin)",hours,0.0
+2017-05-19,"Heart Rate (Garmin)",bpm,122.0
+2017-05-20,"Sleep (Garmin)",hours,0.0
+2017-05-20,"Heart Rate (Garmin)",bpm,129.0
+2017-05-21,"Heart Rate (Garmin)",bpm,149.0
+2017-05-22,"Sleep (Garmin)",hours,0.0
+2017-05-22,"Heart Rate (Garmin)",bpm,125.0
+2017-05-23,"Sleep (Garmin)",hours,0.0
+2017-05-24,"Sleep (Garmin)",hours,0.0
+2017-05-24,"Heart Rate (Garmin)",bpm,181.0
+2017-05-25,"Heart Rate (Garmin)",bpm,166.0
+2017-05-26,"Sleep (Garmin)",hours,0.0
+2017-05-26,"Heart Rate (Garmin)",bpm,154.0
+2017-05-27,"Heart Rate (Garmin)",bpm,178.0
+2017-05-28,"Heart Rate (Garmin)",bpm,119.0
+2017-05-29,"Sleep (Garmin)",hours,0.0
+2017-05-29,"Heart Rate (Garmin)",bpm,147.0
+2017-05-30,"Sleep (Garmin)",hours,0.0
+2017-05-31,"Heart Rate (Garmin)",bpm,137.0
+2017-06-01,"Sleep (Garmin)",hours,0.0
+2017-06-02,"Sleep (Garmin)",hours,0.0
+2017-06-03,"Heart Rate (Garmin)",bpm,144.0
+2017-06-03,"Weight (Garmin)",kg,76.0
+2017-06-05,"Heart Rate (Garmin)",bpm,147.0
+2017-06-06,"Heart Rate (Garmin)",bpm,157.0
+2017-06-07,"Sleep (Garmin)",hours,0.0
+2017-06-07,"Heart Rate (Garmin)",bpm,120.0
+2017-06-08,"Sleep (Garmin)",hours,0.0
+2017-06-08,"Heart Rate (Garmin)",bpm,162.0
+2017-06-10,"Heart Rate (Garmin)",bpm,143.0
+2017-06-11,"Heart Rate (Garmin)",bpm,161.0
+2017-06-14,"Heart Rate (Garmin)",bpm,149.0
+2017-06-15,"Sleep (Garmin)",hours,0.0
+2017-06-16,"Sleep (Garmin)",hours,0.0
+2017-06-17,"Sleep (Garmin)",hours,0.0
+2017-06-17,"Heart Rate (Garmin)",bpm,157.0
+2017-06-18,"Heart Rate (Garmin)",bpm,114.0
+2017-06-19,"Sleep (Garmin)",hours,0.0
+2017-06-20,"Sleep (Garmin)",hours,0.0
+2017-06-21,"Sleep (Garmin)",hours,0.0
+2017-06-22,"Sleep (Garmin)",hours,0.0
+2017-06-22,"Heart Rate (Garmin)",bpm,154.0
+2017-06-23,"Heart Rate (Garmin)",bpm,146.0
+2017-06-24,"Heart Rate (Garmin)",bpm,161.0
+2017-06-25,"Heart Rate (Garmin)",bpm,158.0
+2017-06-26,"Sleep (Garmin)",hours,0.0
+2017-06-28,"Sleep (Garmin)",hours,0.0
+2017-06-29,"Sleep (Garmin)",hours,0.0
+2017-06-30,"Sleep (Garmin)",hours,0.0
+2017-07-02,"Sleep (Garmin)",hours,0.0
+2017-07-03,"Sleep (Garmin)",hours,0.0
+2017-07-04,"Sleep (Garmin)",hours,0.0
+2017-07-05,"Sleep (Garmin)",hours,0.0
+2017-07-08,"Sleep (Garmin)",hours,0.0
+2017-07-09,"Sleep (Garmin)",hours,0.0
+2017-07-10,"Sleep (Garmin)",hours,0.0
+2017-07-11,"Sleep (Garmin)",hours,0.0
+2017-07-12,"Sleep (Garmin)",hours,0.0
+2017-07-15,"Heart Rate (Garmin)",bpm,181.0
+2017-07-24,"Heart Rate (Garmin)",bpm,164.0
+2017-07-31,"Heart Rate (Garmin)",bpm,162.0
+2017-08-05,"Heart Rate (Garmin)",bpm,155.0
+2017-08-06,"Heart Rate (Garmin)",bpm,154.0
+2017-08-07,"Heart Rate (Garmin)",bpm,122.0
+2017-08-12,"Heart Rate (Garmin)",bpm,151.0
+2017-08-14,"Heart Rate (Garmin)",bpm,173.0
+2017-08-15,"Heart Rate (Garmin)",bpm,140.0
+2017-08-21,"Heart Rate (Garmin)",bpm,160.0
+2017-08-24,"Heart Rate (Garmin)",bpm,164.0
+2017-08-26,"Heart Rate (Garmin)",bpm,132.0
+2017-08-27,"Heart Rate (Garmin)",bpm,148.0
+2017-08-28,"Heart Rate (Garmin)",bpm,149.0
+2017-08-30,"Heart Rate (Garmin)",bpm,161.0
+2017-09-10,"Heart Rate (Garmin)",bpm,168.0
+2017-09-13,"Heart Rate (Garmin)",bpm,145.0
+2017-09-17,"Sleep (Garmin)",hours,0.0
+2017-09-17,"Heart Rate (Garmin)",bpm,167.0
+2017-09-20,"Heart Rate (Garmin)",bpm,159.0
+2017-10-03,"Heart Rate (Garmin)",bpm,166.0
+2017-10-04,"Weight (Garmin)",kg,75.999
+2017-10-04,"Heart Rate (Garmin)",bpm,156.0
+2017-10-07,"Heart Rate (Garmin)",bpm,159.0
+2017-10-12,"Heart Rate (Garmin)",bpm,159.0
+2017-10-23,"Heart Rate (Garmin)",bpm,175.0
+2017-10-24,"Sleep (Garmin)",hours,0.0
+2017-10-26,"Heart Rate (Garmin)",bpm,162.0
+2017-10-28,"Sleep (Garmin)",hours,0.0
+2017-10-29,"Sleep (Garmin)",hours,0.0
+2017-10-30,"Sleep (Garmin)",hours,0.0
+2017-10-31,"Sleep (Garmin)",hours,0.0
+2017-11-01,"Sleep (Garmin)",hours,0.0
+2017-11-02,"Sleep (Garmin)",hours,0.0
+2017-11-02,"Heart Rate (Garmin)",bpm,164.0
+2017-11-03,"Sleep (Garmin)",hours,0.0
+2017-11-04,"Sleep (Garmin)",hours,0.0
+2017-11-05,"Sleep (Garmin)",hours,0.0
+2017-11-05,"Heart Rate (Garmin)",bpm,125.0
+2017-11-06,"Sleep (Garmin)",hours,0.0
+2017-11-07,"Sleep (Garmin)",hours,0.0
+2017-11-08,"Sleep (Garmin)",hours,0.0
+2017-11-09,"Sleep (Garmin)",hours,0.0
+2017-11-10,"Sleep (Garmin)",hours,0.0
+2017-11-11,"Sleep (Garmin)",hours,0.0
+2017-11-12,"Sleep (Garmin)",hours,0.0
+2017-11-13,"Sleep (Garmin)",hours,0.0
+2017-11-14,"Sleep (Garmin)",hours,0.0
+2017-11-16,"Sleep (Garmin)",hours,0.0
+2017-11-16,"Heart Rate (Garmin)",bpm,173.0
+2017-11-18,"Sleep (Garmin)",hours,0.0
+2017-11-19,"Weight (Garmin)",kg,75.999
+2017-11-19,"Heart Rate (Garmin)",bpm,171.0
+2017-11-20,"Heart Rate (Garmin)",bpm,138.0
+2017-11-21,"Heart Rate (Garmin)",bpm,133.0
+2017-11-24,"Weight (Garmin)",kg,75.999
+2017-11-24,"Heart Rate (Garmin)",bpm,170.0
+2017-11-25,"Sleep (Garmin)",hours,0.0
+2017-11-25,"Heart Rate (Garmin)",bpm,128.0
+2017-11-26,"Sleep (Garmin)",hours,0.0
+2017-11-27,"Sleep (Garmin)",hours,0.0
+2017-11-27,"Heart Rate (Garmin)",bpm,137.0
+2017-11-28,"Heart Rate (Garmin)",bpm,148.0
+2017-11-29,"Sleep (Garmin)",hours,0.0
+2017-11-29,"Heart Rate (Garmin)",bpm,132.0
+2017-11-30,"Heart Rate (Garmin)",bpm,137.0
+2017-12-02,"Heart Rate (Garmin)",bpm,149.0
+2017-12-03,"Heart Rate (Garmin)",bpm,145.0
+2017-12-07,"Heart Rate (Garmin)",bpm,151.0
+2017-12-15,"Heart Rate (Garmin)",bpm,167.0
+2017-12-19,"Sleep (Garmin)",hours,7.53333
+2017-12-20,"Sleep (Garmin)",hours,9.93333
+2017-12-21,"Sleep (Garmin)",hours,9.06667
+2017-12-22,"Sleep (Garmin)",hours,7.16667
+2017-12-23,"Sleep (Garmin)",hours,8.13333
+2017-12-23,"Heart Rate (Garmin)",bpm,162.0
+2017-12-24,"Sleep (Garmin)",hours,8.15
+2017-12-25,"Sleep (Garmin)",hours,6.7
+2017-12-25,"Heart Rate (Garmin)",bpm,161.0
+2017-12-27,"Sleep (Garmin)",hours,8.68333
+2017-12-28,"Heart Rate (Garmin)",bpm,164.0
+2017-12-29,"Sleep (Garmin)",hours,8.03333
+2017-12-29,"Heart Rate (Garmin)",bpm,155.0
+2017-12-30,"Sleep (Garmin)",hours,7.38333
+2017-12-30,"Heart Rate (Garmin)",bpm,159.0
+2017-12-31,"Sleep (Garmin)",hours,8.0
+2018-01-01,"Sleep (Garmin)",hours,0.0
+2018-01-03,"Sleep (Garmin)",hours,8.2
+2018-01-05,"Sleep (Garmin)",hours,10.0167
+2018-01-08,"Heart Rate (Garmin)",bpm,148.0
+2018-01-09,"Heart Rate (Garmin)",bpm,149.0
+2018-01-12,"Heart Rate (Garmin)",bpm,142.0
+2018-01-13,"Heart Rate (Garmin)",bpm,135.0
+2018-01-15,"Heart Rate (Garmin)",bpm,164.0
+2018-01-27,"Sleep (Garmin)",hours,9.73333
+2018-01-28,"Sleep (Garmin)",hours,5.91667
+2018-02-03,"Sleep (Garmin)",hours,10.35
+2018-02-05,"Sleep (Garmin)",hours,5.88333
+2018-02-07,"Sleep (Garmin)",hours,7.43333
+2018-02-08,"Sleep (Garmin)",hours,7.81667
+2018-02-09,"Sleep (Garmin)",hours,5.85
+2018-02-10,"Sleep (Garmin)",hours,8.81667
+2018-02-11,"Sleep (Garmin)",hours,8.0
+2018-02-12,"Sleep (Garmin)",hours,9.43333
+2018-02-13,"Sleep (Garmin)",hours,8.58333
+2018-02-14,"Sleep (Garmin)",hours,8.75
+2018-02-15,"Sleep (Garmin)",hours,8.85
+2018-02-16,"Sleep (Garmin)",hours,10.0167
+2018-02-17,"Sleep (Garmin)",hours,7.7
+2018-02-18,"Sleep (Garmin)",hours,9.45
+2018-02-19,"Sleep (Garmin)",hours,9.9
+2018-02-20,"Sleep (Garmin)",hours,9.85
+2018-02-20,"Heart Rate (Garmin)",bpm,161.0
+2018-02-21,"Heart Rate (Garmin)",bpm,170.0
+2018-02-23,"Heart Rate (Garmin)",bpm,166.0
+2018-02-24,"Sleep (Garmin)",hours,10.3667
+2018-02-24,"Heart Rate (Garmin)",bpm,142.0
+2018-02-25,"Sleep (Garmin)",hours,7.78333
+2018-02-26,"Heart Rate (Garmin)",bpm,168.0
+2018-03-01,"Sleep (Garmin)",hours,9.6
+2018-03-05,"Heart Rate (Garmin)",bpm,165.0
+2018-03-07,"Sleep (Garmin)",hours,9.06667
+2018-03-08,"Heart Rate (Garmin)",bpm,157.0
+2018-03-09,"Heart Rate (Garmin)",bpm,150.0
+2018-03-10,"Heart Rate (Garmin)",bpm,163.0
+2018-03-12,"Heart Rate (Garmin)",bpm,166.0
+2018-03-13,"Heart Rate (Garmin)",bpm,151.0
+2018-03-18,"Heart Rate (Garmin)",bpm,166.0
+2018-03-19,"Heart Rate (Garmin)",bpm,148.0
+2018-03-21,"Heart Rate (Garmin)",bpm,167.0
+2018-03-23,"Heart Rate (Garmin)",bpm,152.0
+2018-03-24,"Heart Rate (Garmin)",bpm,162.0
+2018-03-25,"Heart Rate (Garmin)",bpm,139.0
+2018-03-29,"Sleep (Garmin)",hours,7.38333
+2018-03-30,"Sleep (Garmin)",hours,9.95
+2018-03-30,"Heart Rate (Garmin)",bpm,150.0
+2018-04-01,"Sleep (Garmin)",hours,9.98333
+2018-04-02,"Sleep (Garmin)",hours,7.38333
+2018-04-02,"Heart Rate (Garmin)",bpm,158.0
+2018-04-03,"Sleep (Garmin)",hours,8.96667
+2018-04-04,"Sleep (Garmin)",hours,7.2
+2018-04-05,"Sleep (Garmin)",hours,8.7
+2018-04-07,"Sleep (Garmin)",hours,7.53333
+2018-04-08,"Sleep (Garmin)",hours,7.46667
+2018-04-10,"Heart Rate (Garmin)",bpm,160.0
+2018-04-13,"Sleep (Garmin)",hours,8.6
+2018-04-14,"Heart Rate (Garmin)",bpm,157.0
+2018-04-15,"Heart Rate (Garmin)",bpm,162.0
+2018-04-16,"Heart Rate (Garmin)",bpm,145.0
+2018-04-18,"Heart Rate (Garmin)",bpm,146.0
+2018-04-19,"Heart Rate (Garmin)",bpm,143.0
+2018-04-21,"Heart Rate (Garmin)",bpm,146.0
+2018-04-22,"Heart Rate (Garmin)",bpm,153.0
+2018-04-24,"Sleep (Garmin)",hours,6.16667
+2018-04-24,"Heart Rate (Garmin)",bpm,160.0
+2018-04-26,"Heart Rate (Garmin)",bpm,172.0
+2018-04-28,"Heart Rate (Garmin)",bpm,143.0
+2018-04-29,"Heart Rate (Garmin)",bpm,157.0
+2018-04-30,"Sleep (Garmin)",hours,11.3167
+2018-04-30,"Heart Rate (Garmin)",bpm,162.0
+2018-05-01,"Heart Rate (Garmin)",bpm,154.0
+2018-05-02,"Heart Rate (Garmin)",bpm,166.0
+2018-05-04,"Heart Rate (Garmin)",bpm,151.0
+2018-05-05,"Heart Rate (Garmin)",bpm,140.0
+2018-05-06,"Heart Rate (Garmin)",bpm,142.0
+2018-05-07,"Heart Rate (Garmin)",bpm,144.0
+2018-05-08,"Sleep (Garmin)",hours,8.32389
+2018-05-08,"Heart Rate (Garmin)",bpm,153.0
+2018-05-09,"Sleep (Garmin)",hours,11.0667
+2018-05-09,"Heart Rate (Garmin)",bpm,115.0
+2018-05-10,"Sleep (Garmin)",hours,11.15
+2018-05-10,"Heart Rate (Garmin)",bpm,165.0
+2018-05-11,"Sleep (Garmin)",hours,10.9833
+2018-05-12,"Heart Rate (Garmin)",bpm,152.0
+2018-05-13,"Sleep (Garmin)",hours,11.5667
+2018-05-14,"Sleep (Garmin)",hours,11.2333
+2018-05-14,"Heart Rate (Garmin)",bpm,150.0
+2018-05-15,"Sleep (Garmin)",hours,11.0167
+2018-05-16,"Sleep (Garmin)",hours,10.4833
+2018-05-16,"Heart Rate (Garmin)",bpm,165.0
+2018-05-17,"Sleep (Garmin)",hours,11.85
+2018-05-17,"Heart Rate (Garmin)",bpm,141.0
+2018-05-18,"Sleep (Garmin)",hours,11.7333
+2018-05-19,"Sleep (Garmin)",hours,10.9833
+2018-05-19,"Heart Rate (Garmin)",bpm,153.0
+2018-05-20,"Heart Rate (Garmin)",bpm,163.0
+2018-05-21,"Sleep (Garmin)",hours,9.56667
+2018-05-21,"Heart Rate (Garmin)",bpm,148.0
+2018-05-22,"Sleep (Garmin)",hours,8.45
+2018-05-23,"Heart Rate (Garmin)",bpm,168.0
+2018-05-24,"Sleep (Garmin)",hours,11.2667
+2018-05-25,"Sleep (Garmin)",hours,11.9833
+2018-05-26,"Sleep (Garmin)",hours,9.4
+2018-05-28,"Sleep (Garmin)",hours,10.2333
+2018-05-30,"Heart Rate (Garmin)",bpm,110.0
+2018-06-01,"Heart Rate (Garmin)",bpm,124.0
+2018-06-03,"Heart Rate (Garmin)",bpm,170.0
+2018-06-04,"Heart Rate (Garmin)",bpm,158.0
+2018-06-05,"Heart Rate (Garmin)",bpm,149.0
+2018-06-08,"Heart Rate (Garmin)",bpm,157.0
+2018-06-09,"Heart Rate (Garmin)",bpm,122.0
+2018-06-11,"Heart Rate (Garmin)",bpm,165.0
+2018-06-12,"Heart Rate (Garmin)",bpm,162.0
+2018-06-14,"Heart Rate (Garmin)",bpm,108.0
+2018-06-15,"Heart Rate (Garmin)",bpm,165.0
+2018-06-16,"Heart Rate (Garmin)",bpm,148.0
+2018-06-17,"Heart Rate (Garmin)",bpm,144.0
+2018-06-19,"Heart Rate (Garmin)",bpm,153.0
+2018-06-20,"Heart Rate (Garmin)",bpm,154.0
+2018-06-22,"Heart Rate (Garmin)",bpm,149.0
+2018-06-24,"Weight (Garmin)",kg,81.9
+2018-06-25,"Weight (Garmin)",kg,82.299
+2018-06-26,"Weight (Garmin)",kg,82.6
+2018-06-26,"Heart Rate (Garmin)",bpm,139.0
+2018-06-28,"Heart Rate (Garmin)",bpm,138.0
+2018-06-30,"Sleep (Garmin)",hours,5.83333
+2018-07-01,"Sleep (Garmin)",hours,8.75
+2018-07-04,"Weight (Garmin)",kg,82.1
+2018-07-04,"Heart Rate (Garmin)",bpm,143.0
+2018-07-05,"Heart Rate (Garmin)",bpm,157.0
+2018-07-09,"Heart Rate (Garmin)",bpm,146.0
+2018-07-10,"Heart Rate (Garmin)",bpm,160.0
+2018-07-12,"Heart Rate (Garmin)",bpm,155.0
+2018-07-14,"Heart Rate (Garmin)",bpm,142.0
+2018-07-15,"Heart Rate (Garmin)",bpm,122.0
+2018-07-17,"Heart Rate (Garmin)",bpm,117.0
+2018-07-18,"Weight (Garmin)",kg,81.6
+2018-07-18,"Heart Rate (Garmin)",bpm,136.0
+2018-07-19,"Heart Rate (Garmin)",bpm,142.0
+2018-07-21,"Heart Rate (Garmin)",bpm,139.0
+2018-07-22,"Heart Rate (Garmin)",bpm,161.0
+2018-07-23,"Heart Rate (Garmin)",bpm,144.0
+2018-07-24,"Heart Rate (Garmin)",bpm,136.0
+2018-07-26,"Heart Rate (Garmin)",bpm,162.0
+2018-07-27,"Sleep (Garmin)",hours,11.9333
+2018-07-28,"Sleep (Garmin)",hours,5.06667
+2018-07-29,"Heart Rate (Garmin)",bpm,130.0
+2018-07-30,"Sleep (Garmin)",hours,6.415
+2018-07-30,"Heart Rate (Garmin)",bpm,144.0
+2018-07-31,"Sleep (Garmin)",hours,7.33333
+2018-07-31,"Heart Rate (Garmin)",bpm,133.0
+2018-08-01,"Sleep (Garmin)",hours,9.67556
+2018-08-01,"Heart Rate (Garmin)",bpm,143.0
+2018-08-02,"Sleep (Garmin)",hours,7.1525
+2018-08-02,"Heart Rate (Garmin)",bpm,117.0
+2018-08-03,"Sleep (Garmin)",hours,10.3833
+2018-08-04,"Weight (Garmin)",kg,81.3
+2018-08-04,"Sleep (Garmin)",hours,6.66667
+2018-08-04,"Heart Rate (Garmin)",bpm,151.0
+2018-08-05,"Sleep (Garmin)",hours,8.41667
+2018-08-06,"Sleep (Garmin)",hours,7.61667
+2018-08-07,"Sleep (Garmin)",hours,6.3
+2018-08-08,"Sleep (Garmin)",hours,8.46667
+2018-08-08,"Heart Rate (Garmin)",bpm,148.0
+2018-08-09,"Sleep (Garmin)",hours,7.96667
+2018-08-10,"Sleep (Garmin)",hours,8.68333
+2018-08-10,"Heart Rate (Garmin)",bpm,150.0
+2018-08-11,"Sleep (Garmin)",hours,6.2
+2018-08-11,"Heart Rate (Garmin)",bpm,139.0
+2018-08-12,"Sleep (Garmin)",hours,10.0667
+2018-08-12,"Heart Rate (Garmin)",bpm,137.0
+2018-08-13,"Sleep (Garmin)",hours,8.28333
+2018-08-13,"Heart Rate (Garmin)",bpm,141.0
+2018-08-14,"Sleep (Garmin)",hours,6.9
+2018-08-15,"Sleep (Garmin)",hours,7.1
+2018-08-16,"Sleep (Garmin)",hours,8.16667
+2018-08-17,"Sleep (Garmin)",hours,8.05
+2018-08-18,"Sleep (Garmin)",hours,4.93333
+2018-08-19,"Sleep (Garmin)",hours,8.21667
+2018-08-20,"Sleep (Garmin)",hours,6.98333
+2018-08-21,"Sleep (Garmin)",hours,6.9
+2018-08-22,"Sleep (Garmin)",hours,6.71667
+2018-08-23,"Sleep (Garmin)",hours,7.43333
+2018-08-24,"Sleep (Garmin)",hours,5.83333
+2018-08-26,"Heart Rate (Garmin)",bpm,120.0
+2018-08-27,"Heart Rate (Garmin)",bpm,160.0
+2018-08-28,"Heart Rate (Garmin)",bpm,144.0
+2018-08-29,"Heart Rate (Garmin)",bpm,161.0
+2018-08-31,"Heart Rate (Garmin)",bpm,134.0
+2018-09-01,"Sleep (Garmin)",hours,9.61667
+2018-09-02,"Heart Rate (Garmin)",bpm,157.0
+2018-09-03,"Heart Rate (Garmin)",bpm,131.0
+2018-09-05,"Heart Rate (Garmin)",bpm,156.0
+2018-09-07,"Heart Rate (Garmin)",bpm,140.0
+2018-09-08,"Heart Rate (Garmin)",bpm,145.0
+2018-09-10,"Heart Rate (Garmin)",bpm,164.0
+2018-09-12,"Heart Rate (Garmin)",bpm,162.0
+2018-09-16,"Heart Rate (Garmin)",bpm,137.0
+2018-09-17,"Heart Rate (Garmin)",bpm,137.0
+2018-09-19,"Heart Rate (Garmin)",bpm,144.0
+2018-09-22,"Heart Rate (Garmin)",bpm,143.0
+2018-09-24,"Heart Rate (Garmin)",bpm,133.0
+2018-09-26,"Heart Rate (Garmin)",bpm,168.0
+2018-09-27,"Heart Rate (Garmin)",bpm,135.0
+2018-09-28,"Heart Rate (Garmin)",bpm,138.0
+2018-09-30,"Heart Rate (Garmin)",bpm,132.0
+2018-10-01,"Sleep (Garmin)",hours,9.0
+2018-10-03,"Heart Rate (Garmin)",bpm,141.0
+2018-10-05,"Sleep (Garmin)",hours,7.18472
+2018-10-05,"Heart Rate (Garmin)",bpm,136.0
+2018-10-08,"Heart Rate (Garmin)",bpm,152.0
+2018-10-10,"Heart Rate (Garmin)",bpm,138.0
+2018-10-12,"Heart Rate (Garmin)",bpm,141.0
+2018-10-17,"Heart Rate (Garmin)",bpm,139.0
+2018-10-19,"Heart Rate (Garmin)",bpm,131.0
+2018-10-22,"Heart Rate (Garmin)",bpm,153.0
+2018-10-24,"Sleep (Garmin)",hours,8.95
+2018-10-24,"Heart Rate (Garmin)",bpm,151.0
+2018-10-25,"Sleep (Garmin)",hours,7.0
+2018-10-26,"Sleep (Garmin)",hours,7.01667
+2018-10-27,"Sleep (Garmin)",hours,9.45
+2018-10-28,"Sleep (Garmin)",hours,7.13333
+2018-10-29,"Sleep (Garmin)",hours,9.1
+2018-10-29,"Heart Rate (Garmin)",bpm,172.0
+2018-10-30,"Sleep (Garmin)",hours,6.55
+2018-10-31,"Sleep (Garmin)",hours,10.25
+2018-11-01,"Sleep (Garmin)",hours,6.93333
+2018-11-02,"Sleep (Garmin)",hours,8.66667
+2018-11-03,"Sleep (Garmin)",hours,8.93333
+2018-11-04,"Heart Rate (Garmin)",bpm,166.0
+2018-11-05,"Sleep (Garmin)",hours,8.61667
+2018-11-06,"Sleep (Garmin)",hours,7.18333
+2018-11-07,"Sleep (Garmin)",hours,7.0
+2018-11-07,"Heart Rate (Garmin)",bpm,147.0
+2018-11-08,"Sleep (Garmin)",hours,7.71667
+2018-11-09,"Sleep (Garmin)",hours,6.33333
+2018-11-10,"Sleep (Garmin)",hours,8.85
+2018-11-11,"Sleep (Garmin)",hours,9.23333
+2018-11-12,"Sleep (Garmin)",hours,7.9
+2018-11-12,"Weight (Garmin)",kg,82.5
+2018-11-12,"Heart Rate (Garmin)",bpm,150.0
+2018-11-13,"Sleep (Garmin)",hours,7.85
+2018-11-14,"Sleep (Garmin)",hours,8.8
+2018-11-14,"Heart Rate (Garmin)",bpm,150.0
+2018-11-15,"Sleep (Garmin)",hours,7.18333
+2018-11-15,"Heart Rate (Garmin)",bpm,123.0
+2018-11-16,"Sleep (Garmin)",hours,6.63333
+2018-11-16,"Weight (Garmin)",kg,83.0
+2018-11-17,"Sleep (Garmin)",hours,8.36667
+2018-11-17,"Weight (Garmin)",kg,82.8
+2018-11-18,"Sleep (Garmin)",hours,8.43333
+2018-11-18,"Weight (Garmin)",kg,81.999
+2018-11-19,"Sleep (Garmin)",hours,7.31667
+2018-11-19,"Weight (Garmin)",kg,82.4
+2018-11-19,"Heart Rate (Garmin)",bpm,162.0
+2018-11-20,"Sleep (Garmin)",hours,5.83333
+2018-11-20,"Weight (Garmin)",kg,82.1
+2018-11-20,"Heart Rate (Garmin)",bpm,143.0
+2018-11-21,"Sleep (Garmin)",hours,10.4
+2018-11-21,"Weight (Garmin)",kg,81.999
+2018-11-21,"Heart Rate (Garmin)",bpm,148.0
+2018-11-22,"Sleep (Garmin)",hours,8.56667
+2018-11-22,"Weight (Garmin)",kg,82.499
+2018-11-23,"Weight (Garmin)",kg,82.699
+2018-11-24,"Weight (Garmin)",kg,82.6
+2018-11-25,"Weight (Garmin)",kg,83.299
+2018-11-27,"Weight (Garmin)",kg,83.2
+2018-11-28,"Weight (Garmin)",kg,82.299
+2018-11-29,"Weight (Garmin)",kg,83.2
+2018-11-30,"Weight (Garmin)",kg,83.299
+2018-12-01,"Weight (Garmin)",kg,82.8
+2018-12-01,"Heart Rate (Garmin)",bpm,159.0
+2018-12-02,"Weight (Garmin)",kg,82.499
+2018-12-03,"Weight (Garmin)",kg,82.899
+2018-12-03,"Heart Rate (Garmin)",bpm,159.0
+2018-12-04,"Weight (Garmin)",kg,82.1
+2018-12-04,"Heart Rate (Garmin)",bpm,158.0
+2018-12-05,"Weight (Garmin)",kg,82.4
+2018-12-06,"Weight (Garmin)",kg,81.7
+2018-12-07,"Weight (Garmin)",kg,82.1
+2018-12-08,"Weight (Garmin)",kg,81.999
+2018-12-08,"Heart Rate (Garmin)",bpm,156.0
+2018-12-09,"Heart Rate (Garmin)",bpm,176.0
+2018-12-10,"Weight (Garmin)",kg,81.9
+2018-12-11,"Weight (Garmin)",kg,82.2
+2018-12-12,"Weight (Garmin)",kg,82.299
+2018-12-13,"Weight (Garmin)",kg,82.499
+2018-12-13,"Heart Rate (Garmin)",bpm,139.0
+2018-12-15,"Heart Rate (Garmin)",bpm,169.0
+2018-12-17,"Weight (Garmin)",kg,83.5
+2018-12-18,"Weight (Garmin)",kg,83.099
+2018-12-19,"Weight (Garmin)",kg,82.8
+2018-12-19,"Heart Rate (Garmin)",bpm,152.0
+2018-12-20,"Weight (Garmin)",kg,82.2
+2018-12-22,"Sleep (Garmin)",hours,6.88333
+2018-12-23,"Sleep (Garmin)",hours,9.75
+2018-12-23,"Weight (Garmin)",kg,82.4
+2018-12-24,"Sleep (Garmin)",hours,7.03333
+2018-12-24,"Weight (Garmin)",kg,82.8
+2018-12-25,"Sleep (Garmin)",hours,7.53333
+2018-12-26,"Sleep (Garmin)",hours,8.16667
+2018-12-26,"Heart Rate (Garmin)",bpm,165.0
+2018-12-27,"Sleep (Garmin)",hours,8.45
+2018-12-28,"Sleep (Garmin)",hours,9.08333
+2018-12-29,"Sleep (Garmin)",hours,6.13333
+2018-12-29,"Heart Rate (Garmin)",bpm,127.0
+2018-12-30,"Sleep (Garmin)",hours,8.88333
+2019-01-01,"Weight (Garmin)",kg,81.399
+2019-01-02,"Weight (Garmin)",kg,81.9
+2019-01-03,"Weight (Garmin)",kg,80.6
+2019-01-05,"Weight (Garmin)",kg,81.799
+2019-01-06,"Weight (Garmin)",kg,81.5
+2019-01-07,"Weight (Garmin)",kg,81.599
+2019-01-08,"Weight (Garmin)",kg,81.7
+2019-01-09,"Weight (Garmin)",kg,81.999
+2019-01-10,"Sleep (Garmin)",hours,7.95
+2019-01-11,"Weight (Garmin)",kg,81.799
+2019-01-11,"Sleep (Garmin)",hours,8.08333
+2019-01-12,"Sleep (Garmin)",hours,7.93333
+2019-01-13,"Sleep (Garmin)",hours,9.13333
+2019-01-14,"Weight (Garmin)",kg,82.299
+2019-01-14,"Sleep (Garmin)",hours,8.08333
+2019-01-15,"Weight (Garmin)",kg,81.7
+2019-01-15,"Sleep (Garmin)",hours,11.4
+2019-01-16,"Sleep (Garmin)",hours,10.9833
+2019-01-17,"Sleep (Garmin)",hours,11.5667
+2019-01-18,"Weight (Garmin)",kg,81.1
+2019-01-18,"Sleep (Garmin)",hours,11.4833
+2019-01-19,"Sleep (Garmin)",hours,11.5667
+2019-01-20,"Sleep (Garmin)",hours,11.5667
+2019-01-21,"Weight (Garmin)",kg,81.799
+2019-01-21,"Sleep (Garmin)",hours,11.5667
+2019-01-22,"Weight (Garmin)",kg,81.9
+2019-01-22,"Sleep (Garmin)",hours,11.5667
+2019-01-23,"Weight (Garmin)",kg,81.3
+2019-01-23,"Sleep (Garmin)",hours,8.08333
+2019-01-23,"Heart Rate (Garmin)",bpm,146.0
+2019-01-24,"Weight (Garmin)",kg,80.9
+2019-01-24,"Sleep (Garmin)",hours,8.55
+2019-01-24,"Heart Rate (Garmin)",bpm,144.0
+2019-01-25,"Sleep (Garmin)",hours,11.5667
+2019-01-26,"Weight (Garmin)",kg,81.399
+2019-01-26,"Sleep (Garmin)",hours,11.5667
+2019-01-27,"Weight (Garmin)",kg,82.1
+2019-01-27,"Sleep (Garmin)",hours,9.81667
+2019-01-28,"Sleep (Garmin)",hours,11.5667
+2019-01-29,"Sleep (Garmin)",hours,11.4833
+2019-01-30,"Sleep (Garmin)",hours,11.5667
+2019-01-31,"Sleep (Garmin)",hours,11.5667
+2019-02-01,"Sleep (Garmin)",hours,11.5667
+2019-02-02,"Sleep (Garmin)",hours,11.5667
+2019-02-03,"Sleep (Garmin)",hours,11.5667
+2019-02-04,"Sleep (Garmin)",hours,11.5667
+2019-02-05,"Sleep (Garmin)",hours,8.48333
+2019-04-07,"Heart Rate (Garmin)",bpm,178.0
+2019-04-09,"Heart Rate (Garmin)",bpm,141.0
+2019-04-13,"Heart Rate (Garmin)",bpm,155.0
+2019-04-18,"Weight (Garmin)",kg,81.5
+2019-04-23,"Heart Rate (Garmin)",bpm,144.0
+2019-05-20,"Heart Rate (Garmin)",bpm,161.0
+2019-05-20,"Weight (Garmin)",kg,81.199
+2019-05-21,"Weight (Garmin)",kg,81.7
+2019-05-26,"Weight (Garmin)",kg,82.299
+2019-05-30,"Weight (Garmin)",kg,81.599
+2019-05-31,"Weight (Garmin)",kg,81.999
+2019-06-02,"Sleep (Garmin)",hours,11.4
+2019-06-02,"Weight (Garmin)",kg,82.4
+2019-06-03,"Weight (Garmin)",kg,82.6
+2019-06-05,"Sleep (Garmin)",hours,11.5667
+2019-06-05,"Weight (Garmin)",kg,83.5
+2019-06-06,"Sleep (Garmin)",hours,11.5667
+2019-06-07,"Sleep (Garmin)",hours,11.5667
+2019-06-07,"Weight (Garmin)",kg,83.999
+2019-06-08,"Sleep (Garmin)",hours,11.5667
+2019-06-08,"Heart Rate (Garmin)",bpm,127.0
+2019-06-09,"Weight (Garmin)",kg,83.2
+2019-06-16,"Sleep (Garmin)",hours,9.86667
+2019-06-17,"Sleep (Garmin)",hours,8.0
+2019-06-18,"Sleep (Garmin)",hours,9.36667
+2019-06-18,"Heart Rate (Garmin)",bpm,136.0
+2019-06-19,"Sleep (Garmin)",hours,7.78333
+2019-06-20,"Sleep (Garmin)",hours,8.88333
+2019-06-21,"Sleep (Garmin)",hours,8.66667
+2019-06-21,"Heart Rate (Garmin)",bpm,133.0
+2019-06-22,"Sleep (Garmin)",hours,7.21667
+2019-06-24,"Weight (Garmin)",kg,83.0
+2019-06-26,"Heart Rate (Garmin)",bpm,151.0
+2019-06-27,"Sleep (Garmin)",hours,11.5667
+2019-06-27,"Weight (Garmin)",kg,82.6
+2019-06-28,"Sleep (Garmin)",hours,7.96667
+2019-07-06,"Heart Rate (Garmin)",bpm,173.0
+2019-07-07,"Weight (Garmin)",kg,80.8
+2019-07-08,"Heart Rate (Garmin)",bpm,166.0
+2019-07-09,"Weight (Garmin)",kg,81.1
+2019-07-10,"Heart Rate (Garmin)",bpm,157.0
+2019-07-11,"Sleep (Garmin)",hours,12.4833
+2019-07-16,"Heart Rate (Garmin)",bpm,157.0
+2019-07-18,"Weight (Garmin)",kg,82.699
+2019-07-18,"Heart Rate (Garmin)",bpm,161.0
+2019-07-19,"Weight (Garmin)",kg,82.4
+2019-07-19,"Heart Rate (Garmin)",bpm,146.0
+2019-07-22,"Heart Rate (Garmin)",bpm,150.0
+2019-07-23,"Weight (Garmin)",kg,82.1
+2019-07-26,"Heart Rate (Garmin)",bpm,154.0
+2019-07-28,"Weight (Garmin)",kg,82.8
+2019-07-29,"Weight (Garmin)",kg,82.899
+2019-07-31,"Heart Rate (Garmin)",bpm,150.0
+2019-08-02,"Weight (Garmin)",kg,82.699
+2019-08-04,"Weight (Garmin)",kg,81.999
+2019-08-29,"Heart Rate (Garmin)",bpm,167.0
+2019-09-01,"Heart Rate (Garmin)",bpm,138.0
+2019-09-04,"Heart Rate (Garmin)",bpm,160.0
+2019-09-09,"Heart Rate (Garmin)",bpm,161.0
+2019-09-13,"Sleep (Garmin)",hours,11.0667
+2019-09-18,"Heart Rate (Garmin)",bpm,164.0
+2019-09-30,"Heart Rate (Garmin)",bpm,148.0
+2019-10-01,"Heart Rate (Garmin)",bpm,163.0
+2019-10-03,"Heart Rate (Garmin)",bpm,154.0
+2019-10-12,"Heart Rate (Garmin)",bpm,150.0
+2019-10-14,"Heart Rate (Garmin)",bpm,159.0
+2019-10-16,"Heart Rate (Garmin)",bpm,150.0
+2019-10-19,"Heart Rate (Garmin)",bpm,139.0
+2019-10-22,"Weight (Garmin)",kg,81.999
+2019-10-22,"Heart Rate (Garmin)",bpm,126.0
+2019-10-25,"Heart Rate (Garmin)",bpm,122.0
+2019-10-28,"Weight (Garmin)",kg,82.3
+2019-10-28,"Heart Rate (Garmin)",bpm,100.0
+2019-10-29,"Weight (Garmin)",kg,81.9
+2019-10-30,"Weight (Garmin)",kg,82.4
+2019-10-30,"Heart Rate (Garmin)",bpm,112.0
+2019-10-31,"Weight (Garmin)",kg,82.4
+2019-10-31,"Heart Rate (Garmin)",bpm,163.0
+2019-11-01,"Heart Rate (Garmin)",bpm,119.0
+2019-11-02,"Weight (Garmin)",kg,82.0
+2019-11-02,"Body Fat (Garmin)",%,0.0
+2019-11-03,"Weight (Garmin)",kg,82.8
+2019-11-03,"Body Fat (Garmin)",%,0.0
+2019-11-03,"Heart Rate (Garmin)",bpm,147.0
+2019-11-04,"Weight (Garmin)",kg,82.0
+2019-11-04,"Body Fat (Garmin)",%,0.0
+2019-11-04,"Heart Rate (Garmin)",bpm,125.0
+2019-11-05,"Weight (Garmin)",kg,82.0
+2019-11-05,"Body Fat (Garmin)",%,0.0
+2019-11-06,"Weight (Garmin)",kg,81.6
+2019-11-06,"Body Fat (Garmin)",%,0.0
+2019-11-06,"Heart Rate (Garmin)",bpm,96.0
+2019-11-07,"Weight (Garmin)",kg,81.8
+2019-11-07,"Body Fat (Garmin)",%,0.0
+2019-11-07,"Heart Rate (Garmin)",bpm,140.0
+2019-11-08,"Weight (Garmin)",kg,81.1
+2019-11-08,"Body Fat (Garmin)",%,0.0
+2019-11-09,"Weight (Garmin)",kg,82.0
+2019-11-09,"Body Fat (Garmin)",%,0.0
+2019-11-10,"Weight (Garmin)",kg,82.1
+2019-11-10,"Body Fat (Garmin)",%,0.0
+2019-11-10,"Heart Rate (Garmin)",bpm,160.0
+2019-11-11,"Weight (Garmin)",kg,81.7
+2019-11-11,"Body Fat (Garmin)",%,0.0
+2019-11-11,"Heart Rate (Garmin)",bpm,112.0
+2019-11-12,"Weight (Garmin)",kg,81.7
+2019-11-12,"Body Fat (Garmin)",%,0.0
+2019-11-13,"Weight (Garmin)",kg,81.3
+2019-11-13,"Body Fat (Garmin)",%,0.0
+2019-11-13,"Heart Rate (Garmin)",bpm,103.0
+2019-11-14,"Weight (Garmin)",kg,80.7
+2019-11-14,"Body Fat (Garmin)",%,0.0
+2019-11-15,"Weight (Garmin)",kg,81.5
+2019-11-15,"Body Fat (Garmin)",%,0.0
+2019-11-15,"Heart Rate (Garmin)",bpm,109.0
+2019-11-16,"Weight (Garmin)",kg,81.5
+2019-11-16,"Body Fat (Garmin)",%,0.0
+2019-11-16,"Heart Rate (Garmin)",bpm,151.0
+2019-11-17,"Weight (Garmin)",kg,81.8
+2019-11-17,"Body Fat (Garmin)",%,0.0
+2019-11-18,"Weight (Garmin)",kg,81.8
+2019-11-18,"Body Fat (Garmin)",%,0.0
+2019-11-18,"Heart Rate (Garmin)",bpm,115.0
+2019-11-19,"Weight (Garmin)",kg,81.8
+2019-11-19,"Body Fat (Garmin)",%,0.0
+2019-11-19,"Heart Rate (Garmin)",bpm,149.0
+2019-11-20,"Weight (Garmin)",kg,81.2
+2019-11-20,"Body Fat (Garmin)",%,0.0
+2019-11-20,"Heart Rate (Garmin)",bpm,123.0
+2019-11-21,"Weight (Garmin)",kg,82.0
+2019-11-21,"Body Fat (Garmin)",%,0.0
+2019-11-21,"Heart Rate (Garmin)",bpm,145.0
+2019-11-22,"Weight (Garmin)",kg,81.7
+2019-11-22,"Body Fat (Garmin)",%,0.0
+2019-11-22,"Heart Rate (Garmin)",bpm,112.0
+2019-11-23,"Weight (Garmin)",kg,81.0
+2019-11-23,"Body Fat (Garmin)",%,0.0
+2019-11-23,"Heart Rate (Garmin)",bpm,152.0
+2019-11-24,"Body Fat (Garmin)",%,0.0
+2019-11-24,"Weight (Garmin)",kg,81.0
+2019-11-25,"Weight (Garmin)",kg,81.2
+2019-11-25,"Body Fat (Garmin)",%,0.0
+2019-11-26,"Weight (Garmin)",kg,81.5
+2019-11-26,"Body Fat (Garmin)",%,0.0
+2019-11-26,"Heart Rate (Garmin)",bpm,125.0
+2019-11-27,"Weight (Garmin)",kg,81.8
+2019-11-27,"Body Fat (Garmin)",%,0.0
+2019-11-28,"Weight (Garmin)",kg,81.6
+2019-11-28,"Body Fat (Garmin)",%,0.0
+2019-11-28,"Heart Rate (Garmin)",bpm,120.0
+2019-11-29,"Weight (Garmin)",kg,81.4
+2019-11-29,"Body Fat (Garmin)",%,0.0
+2019-11-29,"Heart Rate (Garmin)",bpm,149.0
+2019-11-30,"Weight (Garmin)",kg,80.8
+2019-11-30,"Body Fat (Garmin)",%,0.0
+2019-12-01,"Weight (Garmin)",kg,80.8
+2019-12-01,"Body Fat (Garmin)",%,0.0
+2019-12-02,"Weight (Garmin)",kg,81.6
+2019-12-02,"Body Fat (Garmin)",%,0.0
+2019-12-03,"Weight (Garmin)",kg,81.7
+2019-12-03,"Body Fat (Garmin)",%,0.0
+2019-12-03,"Heart Rate (Garmin)",bpm,119.0
+2019-12-04,"Weight (Garmin)",kg,82.0
+2019-12-04,"Body Fat (Garmin)",%,0.0
+2019-12-05,"Weight (Garmin)",kg,81.8
+2019-12-05,"Body Fat (Garmin)",%,0.0
+2019-12-05,"Heart Rate (Garmin)",bpm,139.0
+2019-12-06,"Weight (Garmin)",kg,81.8
+2019-12-06,"Body Fat (Garmin)",%,0.0
+2019-12-07,"Sleep (Garmin)",hours,9.15
+2019-12-07,"Weight (Garmin)",kg,82.0
+2019-12-07,"Body Fat (Garmin)",%,0.0
+2019-12-08,"Weight (Garmin)",kg,81.6
+2019-12-08,"Body Fat (Garmin)",%,0.0
+2019-12-09,"Weight (Garmin)",kg,81.7
+2019-12-09,"Body Fat (Garmin)",%,0.0
+2019-12-10,"Weight (Garmin)",kg,81.9
+2019-12-10,"Body Fat (Garmin)",%,0.0
+2019-12-10,"Heart Rate (Garmin)",bpm,118.0
+2019-12-11,"Weight (Garmin)",kg,81.7
+2019-12-11,"Body Fat (Garmin)",%,0.0
+2019-12-12,"Weight (Garmin)",kg,82.1
+2019-12-12,"Body Fat (Garmin)",%,0.0
+2019-12-13,"Weight (Garmin)",kg,82.1
+2019-12-13,"Body Fat (Garmin)",%,0.0
+2019-12-14,"Weight (Garmin)",kg,80.7
+2019-12-14,"Body Fat (Garmin)",%,0.0
+2019-12-15,"Weight (Garmin)",kg,82.6
+2019-12-15,"Body Fat (Garmin)",%,0.0
+2019-12-16,"Weight (Garmin)",kg,81.2
+2019-12-16,"Body Fat (Garmin)",%,0.0
+2019-12-17,"Weight (Garmin)",kg,82.0
+2019-12-17,"Body Fat (Garmin)",%,0.0
+2019-12-18,"Weight (Garmin)",kg,81.9
+2019-12-18,"Body Fat (Garmin)",%,0.0
+2019-12-19,"Weight (Garmin)",kg,81.3
+2019-12-19,"Body Fat (Garmin)",%,0.0
+2019-12-25,"Heart Rate (Garmin)",bpm,141.0
+2020-01-05,"Weight (Garmin)",kg,77.0
+2020-01-06,"Weight (Garmin)",kg,81.4
+2020-01-06,"Body Fat (Garmin)",%,0.0
+2020-01-07,"Weight (Garmin)",kg,81.5
+2020-01-07,"Body Fat (Garmin)",%,0.0
+2020-01-08,"Weight (Garmin)",kg,81.0
+2020-01-08,"Body Fat (Garmin)",%,0.0
+2020-01-09,"Weight (Garmin)",kg,81.6
+2020-01-09,"Body Fat (Garmin)",%,0.0
+2020-01-10,"Weight (Garmin)",kg,82.2
+2020-01-10,"Body Fat (Garmin)",%,0.0
+2020-01-11,"Weight (Garmin)",kg,81.8
+2020-01-11,"Body Fat (Garmin)",%,0.0
+2020-01-12,"Weight (Garmin)",kg,81.7
+2020-01-12,"Body Fat (Garmin)",%,0.0
+2020-01-13,"Weight (Garmin)",kg,81.7
+2020-01-13,"Body Fat (Garmin)",%,0.0
+2020-01-14,"Weight (Garmin)",kg,82.0
+2020-01-15,"Weight (Garmin)",kg,81.3
+2020-01-15,"Body Fat (Garmin)",%,0.0
+2020-01-16,"Weight (Garmin)",kg,81.5
+2020-01-16,"Body Fat (Garmin)",%,0.0
+2020-01-17,"Weight (Garmin)",kg,81.4
+2020-01-17,"Body Fat (Garmin)",%,0.0
+2020-01-18,"Weight (Garmin)",kg,80.9
+2020-01-18,"Body Fat (Garmin)",%,0.0
+2020-01-19,"Weight (Garmin)",kg,82.3
+2020-01-19,"Body Fat (Garmin)",%,0.0
+2020-01-20,"Weight (Garmin)",kg,81.8
+2020-01-20,"Body Fat (Garmin)",%,0.0
+2020-01-21,"Weight (Garmin)",kg,82.2
+2020-01-21,"Body Fat (Garmin)",%,0.0
+2020-01-22,"Weight (Garmin)",kg,81.9
+2020-01-22,"Body Fat (Garmin)",%,0.0
+2020-01-23,"Weight (Garmin)",kg,81.8
+2020-01-23,"Body Fat (Garmin)",%,0.0
+2020-01-24,"Weight (Garmin)",kg,82.2
+2020-01-24,"Body Fat (Garmin)",%,0.0
+2020-01-27,"Heart Rate (Garmin)",bpm,72.0
+2020-01-27,"Body Fat (Garmin)",%,0.0
+2020-01-27,"Weight (Garmin)",kg,83.0
+2020-01-28,"Sleep (Garmin)",hours,8.4
+2020-01-28,"Weight (Garmin)",kg,82.1
+2020-01-28,"Heart Rate (Garmin)",bpm,164.0
+2020-01-29,"Sleep (Garmin)",hours,8.4
+2020-01-29,"Weight (Garmin)",kg,81.8
+2020-01-29,"Body Fat (Garmin)",%,0.0
+2020-01-29,"Heart Rate (Garmin)",bpm,96.0
+2020-01-30,"Sleep (Garmin)",hours,8.7
+2020-01-30,"Heart Rate (Garmin)",bpm,60.0
+2020-01-30,"Weight (Garmin)",kg,82.0
+2020-01-30,"Body Fat (Garmin)",%,0.0
+2020-01-31,"Heart Rate (Garmin)",bpm,60.0
+2020-01-31,"Sleep (Garmin)",hours,6.08333
+2020-01-31,"Weight (Garmin)",kg,82.5
+2020-01-31,"Body Fat (Garmin)",%,0.0
+2020-02-01,"Heart Rate (Garmin)",bpm,64.0
+2020-02-01,"Sleep (Garmin)",hours,16.3333
+2020-02-01,"Weight (Garmin)",kg,82.4
+2020-02-01,"Body Fat (Garmin)",%,0.0
+2020-02-02,"Heart Rate (Garmin)",bpm,63.0
+2020-02-02,"Sleep (Garmin)",hours,13.0
+2020-02-02,"Weight (Garmin)",kg,82.4
+2020-02-02,"Body Fat (Garmin)",%,0.0
+2020-02-03,"Heart Rate (Garmin)",bpm,59.0
+2020-02-03,"Sleep (Garmin)",hours,10.0833
+2020-02-03,"Weight (Garmin)",kg,82.5
+2020-02-03,"Body Fat (Garmin)",%,0.0
+2020-02-04,"Heart Rate (Garmin)",bpm,58.0
+2020-02-04,"Sleep (Garmin)",hours,8.58333
+2020-02-04,"Weight (Garmin)",kg,82.3
+2020-02-04,"Body Fat (Garmin)",%,0.0
+2020-02-05,"Heart Rate (Garmin)",bpm,59.0
+2020-02-05,"Sleep (Garmin)",hours,9.68333
+2020-02-05,"Weight (Garmin)",kg,82.4
+2020-02-05,"Body Fat (Garmin)",%,0.0
+2020-02-06,"Heart Rate (Garmin)",bpm,48.0
+2020-02-06,"Sleep (Garmin)",hours,7.3
+2020-02-06,"Weight (Garmin)",kg,81.8
+2020-02-06,"Body Fat (Garmin)",%,0.0
+2020-02-07,"Heart Rate (Garmin)",bpm,57.0
+2020-02-07,"Sleep (Garmin)",hours,5.68333
+2020-02-07,"Weight (Garmin)",kg,82.1
+2020-02-07,"Body Fat (Garmin)",%,0.0
+2020-02-08,"Heart Rate (Garmin)",bpm,59.0
+2020-02-08,"Sleep (Garmin)",hours,7.41667
+2020-02-08,"Weight (Garmin)",kg,82.8
+2020-02-08,"Body Fat (Garmin)",%,0.0
+2020-02-09,"Sleep (Garmin)",hours,10.7833
+2020-02-09,"Heart Rate (Garmin)",bpm,56.0
+2020-02-09,"Weight (Garmin)",kg,82.8
+2020-02-09,"Body Fat (Garmin)",%,0.0
+2020-02-10,"Sleep (Garmin)",hours,7.75
+2020-02-10,"Heart Rate (Garmin)",bpm,56.0
+2020-02-11,"Sleep (Garmin)",hours,7.26667
+2020-02-11,"Heart Rate (Garmin)",bpm,59.0
+2020-02-12,"Sleep (Garmin)",hours,7.73333
+2020-02-12,"Heart Rate (Garmin)",bpm,63.0
+2020-02-13,"Sleep (Garmin)",hours,10.9
+2020-02-13,"Heart Rate (Garmin)",bpm,57.0
+2020-02-13,"Weight (Garmin)",kg,81.9
+2020-02-13,"Body Fat (Garmin)",%,0.0
+2020-02-14,"Sleep (Garmin)",hours,9.76667
+2020-02-14,"Heart Rate (Garmin)",bpm,55.0
+2020-02-14,"Weight (Garmin)",kg,81.9
+2020-02-14,"Body Fat (Garmin)",%,0.0
+2020-02-15,"Heart Rate (Garmin)",bpm,57.0
+2020-02-15,"Sleep (Garmin)",hours,8.31667
+2020-02-15,"Weight (Garmin)",kg,81.2
+2020-02-15,"Body Fat (Garmin)",%,0.0
+2020-02-16,"Heart Rate (Garmin)",bpm,58.0
+2020-02-16,"Weight (Garmin)",kg,81.4
+2020-02-16,"Body Fat (Garmin)",%,0.0
+2020-02-17,"Heart Rate (Garmin)",bpm,64.0
+2020-02-17,"Weight (Garmin)",kg,82.2
+2020-02-17,"Body Fat (Garmin)",%,0.0
+2020-02-18,"Heart Rate (Garmin)",bpm,59.0
+2020-02-18,"Weight (Garmin)",kg,81.5
+2020-02-18,"Body Fat (Garmin)",%,0.0
+2020-02-19,"Heart Rate (Garmin)",bpm,58.0
+2020-02-19,"Weight (Garmin)",kg,81.4
+2020-02-19,"Body Fat (Garmin)",%,0.0
+2020-02-20,"Heart Rate (Garmin)",bpm,59.0
+2020-02-20,"Weight (Garmin)",kg,82.1
+2020-02-20,"Body Fat (Garmin)",%,0.0
+2020-02-21,"Heart Rate (Garmin)",bpm,58.0
+2020-02-22,"Heart Rate (Garmin)",bpm,53.0
+2020-02-23,"Heart Rate (Garmin)",bpm,54.0
+2020-02-24,"Heart Rate (Garmin)",bpm,59.0
+2020-02-25,"Heart Rate (Garmin)",bpm,58.0
+2020-02-26,"Heart Rate (Garmin)",bpm,56.0
+2020-02-27,"Heart Rate (Garmin)",bpm,58.0
+2020-02-28,"Heart Rate (Garmin)",bpm,61.0
+2020-02-29,"Heart Rate (Garmin)",bpm,57.0
+2020-03-01,"Heart Rate (Garmin)",bpm,63.0
+2020-03-01,"Sleep (Garmin)",hours,14.9
+2020-03-02,"Heart Rate (Garmin)",bpm,57.0
+2020-03-03,"Heart Rate (Garmin)",bpm,58.0
+2020-03-04,"Heart Rate (Garmin)",bpm,58.0
+2020-03-05,"Heart Rate (Garmin)",bpm,57.0
+2020-03-06,"Heart Rate (Garmin)",bpm,59.0
+2020-03-07,"Heart Rate (Garmin)",bpm,62.0
+2020-03-08,"Heart Rate (Garmin)",bpm,61.0
+2020-03-08,"Weight (Garmin)",kg,82.8
+2020-03-09,"Heart Rate (Garmin)",bpm,61.0
+2020-03-09,"Weight (Garmin)",kg,82.4
+2020-03-10,"Heart Rate (Garmin)",bpm,58.0
+2020-03-10,"Weight (Garmin)",kg,83.0
+2020-03-11,"Heart Rate (Garmin)",bpm,62.0
+2020-03-11,"Weight (Garmin)",kg,82.8
+2020-03-12,"Heart Rate (Garmin)",bpm,63.0
+2020-03-12,"Weight (Garmin)",kg,82.7
+2020-03-13,"Heart Rate (Garmin)",bpm,62.0
+2020-03-13,"Weight (Garmin)",kg,82.7
+2020-03-14,"Heart Rate (Garmin)",bpm,60.0
+2020-03-14,"Weight (Garmin)",kg,82.9
+2020-03-15,"Heart Rate (Garmin)",bpm,66.0
+2020-03-15,"Weight (Garmin)",kg,83.5
+2020-03-16,"Heart Rate (Garmin)",bpm,57.0
+2020-03-16,"Weight (Garmin)",kg,84.0
+2020-03-17,"Heart Rate (Garmin)",bpm,56.0
+2020-03-17,"Weight (Garmin)",kg,83.6
+2020-03-18,"Heart Rate (Garmin)",bpm,56.0
+2020-03-19,"Heart Rate (Garmin)",bpm,59.0
+2020-03-20,"Heart Rate (Garmin)",bpm,56.0
+2020-03-20,"Weight (Garmin)",kg,83.4
+2020-03-21,"Heart Rate (Garmin)",bpm,59.0
+2020-03-21,"Weight (Garmin)",kg,83.2
+2020-03-22,"Heart Rate (Garmin)",bpm,62.0
+2020-03-22,"Weight (Garmin)",kg,82.9
+2020-03-23,"Heart Rate (Garmin)",bpm,60.0
+2020-03-23,"Weight (Garmin)",kg,83.3
+2020-03-24,"Heart Rate (Garmin)",bpm,59.0
+2020-03-24,"Weight (Garmin)",kg,83.6
+2020-03-25,"Heart Rate (Garmin)",bpm,58.0
+2020-03-25,"Weight (Garmin)",kg,83.4
+2020-03-26,"Heart Rate (Garmin)",bpm,60.0
+2020-03-26,"Weight (Garmin)",kg,82.5
+2020-03-27,"Heart Rate (Garmin)",bpm,55.0
+2020-03-27,"Weight (Garmin)",kg,83.1
+2020-03-28,"Heart Rate (Garmin)",bpm,55.0
+2020-03-28,"Weight (Garmin)",kg,83.0
+2020-03-29,"Heart Rate (Garmin)",bpm,50.0
+2020-03-29,"Weight (Garmin)",kg,83.7
+2020-03-30,"Weight (Garmin)",kg,83.1
+2020-03-30,"Heart Rate (Garmin)",bpm,151.0
+2020-03-31,"Heart Rate (Garmin)",bpm,58.0
+2020-03-31,"Weight (Garmin)",kg,83.6
+2020-04-01,"Sleep (Garmin)",hours,8.96667
+2020-04-01,"Heart Rate (Garmin)",bpm,59.0
+2020-04-02,"Heart Rate (Garmin)",bpm,54.0
+2020-04-02,"Weight (Garmin)",kg,83.4
+2020-04-03,"Heart Rate (Garmin)",bpm,54.0
+2020-04-03,"Weight (Garmin)",kg,82.7
+2020-04-04,"Heart Rate (Garmin)",bpm,52.0
+2020-04-04,"Weight (Garmin)",kg,82.7
+2020-04-05,"Heart Rate (Garmin)",bpm,58.0
+2020-04-05,"Weight (Garmin)",kg,82.9
+2020-04-06,"Heart Rate (Garmin)",bpm,54.0
+2020-04-06,"Weight (Garmin)",kg,83.4
+2020-04-07,"Heart Rate (Garmin)",bpm,55.0
+2020-04-07,"Weight (Garmin)",kg,83.5
+2020-04-08,"Heart Rate (Garmin)",bpm,53.0
+2020-04-08,"Weight (Garmin)",kg,83.1
+2020-04-09,"Heart Rate (Garmin)",bpm,53.0
+2020-04-09,"Weight (Garmin)",kg,82.6
+2020-04-10,"Heart Rate (Garmin)",bpm,54.0
+2020-04-10,"Weight (Garmin)",kg,83.0
+2020-04-11,"Heart Rate (Garmin)",bpm,54.0
+2020-04-11,"Weight (Garmin)",kg,82.8
+2020-04-12,"Heart Rate (Garmin)",bpm,60.0
+2020-04-12,"Weight (Garmin)",kg,83.7
+2020-04-13,"Heart Rate (Garmin)",bpm,58.0
+2020-04-13,"Weight (Garmin)",kg,83.099
+2020-04-14,"Heart Rate (Garmin)",bpm,58.0
+2020-04-14,"Weight (Garmin)",kg,82.9
+2020-04-15,"Heart Rate (Garmin)",bpm,62.0
+2020-04-15,"Weight (Garmin)",kg,82.9
+2020-04-16,"Heart Rate (Garmin)",bpm,59.0
+2020-04-16,"Weight (Garmin)",kg,83.1
+2020-04-17,"Sleep (Garmin)",hours,8.93333
+2020-04-17,"Heart Rate (Garmin)",bpm,59.0
+2020-04-17,"Weight (Garmin)",kg,83.5
+2020-04-18,"Sleep (Garmin)",hours,9.33333
+2020-04-18,"Heart Rate (Garmin)",bpm,57.0
+2020-04-18,"Weight (Garmin)",kg,83.5
+2020-04-19,"Heart Rate (Garmin)",bpm,54.0
+2020-04-19,"Weight (Garmin)",kg,83.2
+2020-04-20,"Heart Rate (Garmin)",bpm,56.0
+2020-04-20,"Weight (Garmin)",kg,83.3
+2020-04-21,"Sleep (Garmin)",hours,5.95
+2020-04-21,"Heart Rate (Garmin)",bpm,61.0
+2020-04-21,"Weight (Garmin)",kg,83.1
+2020-04-22,"Heart Rate (Garmin)",bpm,62.0
+2020-04-22,"Sleep (Garmin)",hours,8.65
+2020-04-22,"Weight (Garmin)",kg,83.3
+2020-04-23,"Sleep (Garmin)",hours,7.51667
+2020-04-23,"Heart Rate (Garmin)",bpm,62.0
+2020-04-23,"Weight (Garmin)",kg,84.0
+2020-04-24,"Sleep (Garmin)",hours,5.81667
+2020-04-24,"Heart Rate (Garmin)",bpm,56.0
+2020-04-24,"Weight (Garmin)",kg,83.6
+2020-04-25,"Sleep (Garmin)",hours,8.98333
+2020-04-25,"Heart Rate (Garmin)",bpm,57.0
+2020-04-25,"Weight (Garmin)",kg,82.7
+2020-04-26,"Sleep (Garmin)",hours,10.0333
+2020-04-26,"Heart Rate (Garmin)",bpm,60.0
+2020-04-26,"Weight (Garmin)",kg,82.9
+2020-04-27,"Sleep (Garmin)",hours,11.55
+2020-04-27,"Heart Rate (Garmin)",bpm,60.0
+2020-04-27,"Weight (Garmin)",kg,83.3
+2020-04-28,"Sleep (Garmin)",hours,7.66667
+2020-04-28,"Heart Rate (Garmin)",bpm,57.0
+2020-04-28,"Weight (Garmin)",kg,83.3
+2020-04-29,"Sleep (Garmin)",hours,8.93333
+2020-04-29,"Heart Rate (Garmin)",bpm,54.0
+2020-04-29,"Weight (Garmin)",kg,82.7
+2020-04-30,"Heart Rate (Garmin)",bpm,56.0
+2020-04-30,"Sleep (Garmin)",hours,6.31667
+2020-04-30,"Weight (Garmin)",kg,82.3
+2020-05-01,"Heart Rate (Garmin)",bpm,53.0
+2020-05-01,"Sleep (Garmin)",hours,8.75
+2020-05-01,"Weight (Garmin)",kg,82.7
+2020-05-02,"Heart Rate (Garmin)",bpm,58.0
+2020-05-02,"Sleep (Garmin)",hours,9.85
+2020-05-02,"Weight (Garmin)",kg,82.3
+2020-05-03,"Heart Rate (Garmin)",bpm,57.0
+2020-05-03,"Sleep (Garmin)",hours,7.53333
+2020-05-03,"Weight (Garmin)",kg,82.7
+2020-05-04,"Heart Rate (Garmin)",bpm,64.0
+2020-05-04,"Sleep (Garmin)",hours,7.58333
+2020-05-04,"Weight (Garmin)",kg,82.5
+2020-05-05,"Heart Rate (Garmin)",bpm,60.0
+2020-05-05,"Sleep (Garmin)",hours,8.23333
+2020-05-05,"Weight (Garmin)",kg,83.1
+2020-05-06,"Heart Rate (Garmin)",bpm,56.0
+2020-05-06,"Sleep (Garmin)",hours,7.1
+2020-05-06,"Weight (Garmin)",kg,82.4
+2020-05-07,"Heart Rate (Garmin)",bpm,59.0
+2020-05-07,"Sleep (Garmin)",hours,8.4
+2020-05-07,"Weight (Garmin)",kg,82.5
+2020-05-08,"Heart Rate (Garmin)",bpm,57.0
+2020-05-08,"Sleep (Garmin)",hours,10.9
+2020-05-08,"Weight (Garmin)",kg,82.8
+2020-05-09,"Heart Rate (Garmin)",bpm,60.0
+2020-05-09,"Sleep (Garmin)",hours,8.46667
+2020-05-09,"Weight (Garmin)",kg,82.5
+2020-05-10,"Heart Rate (Garmin)",bpm,58.0
+2020-05-10,"Sleep (Garmin)",hours,11.0833
+2020-05-10,"Weight (Garmin)",kg,82.8
+2020-05-11,"Heart Rate (Garmin)",bpm,58.0
+2020-05-11,"Sleep (Garmin)",hours,8.66667
+2020-05-11,"Weight (Garmin)",kg,82.3
+2020-05-12,"Heart Rate (Garmin)",bpm,60.0
+2020-05-12,"Sleep (Garmin)",hours,7.5
+2020-05-12,"Weight (Garmin)",kg,82.0
+2020-05-13,"Sleep (Garmin)",hours,7.51667
+2020-05-13,"Heart Rate (Garmin)",bpm,58.0
+2020-05-13,"Weight (Garmin)",kg,81.9
+2020-05-14,"Sleep (Garmin)",hours,9.85
+2020-05-14,"Heart Rate (Garmin)",bpm,56.0
+2020-05-14,"Weight (Garmin)",kg,82.1
+2020-05-15,"Sleep (Garmin)",hours,10.1333
+2020-05-15,"Heart Rate (Garmin)",bpm,58.0
+2020-05-15,"Weight (Garmin)",kg,82.3
+2020-05-16,"Heart Rate (Garmin)",bpm,54.0
+2020-05-16,"Weight (Garmin)",kg,82.8
+2020-05-17,"Heart Rate (Garmin)",bpm,57.0
+2020-05-17,"Weight (Garmin)",kg,82.1
+2020-05-18,"Heart Rate (Garmin)",bpm,56.0
+2020-05-18,"Weight (Garmin)",kg,82.6
+2020-05-19,"Heart Rate (Garmin)",bpm,54.0
+2020-05-19,"Weight (Garmin)",kg,82.5
+2020-05-20,"Heart Rate (Garmin)",bpm,54.0
+2020-05-20,"Weight (Garmin)",kg,82.5
+2020-05-21,"Heart Rate (Garmin)",bpm,55.0
+2020-05-21,"Weight (Garmin)",kg,81.9
+2020-05-22,"Heart Rate (Garmin)",bpm,59.0
+2020-05-22,"Weight (Garmin)",kg,81.8
+2020-05-23,"Heart Rate (Garmin)",bpm,55.0
+2020-05-23,"Weight (Garmin)",kg,82.3
+2020-05-24,"Heart Rate (Garmin)",bpm,60.0
+2020-05-24,"Sleep (Garmin)",hours,0.0
+2020-05-24,"Weight (Garmin)",kg,81.3
+2020-05-25,"Heart Rate (Garmin)",bpm,58.0
+2020-05-25,"Sleep (Garmin)",hours,0.0
+2020-05-25,"Weight (Garmin)",kg,81.9
+2020-05-26,"Heart Rate (Garmin)",bpm,58.0
+2020-05-26,"Weight (Garmin)",kg,81.6
+2020-05-27,"Heart Rate (Garmin)",bpm,54.0
+2020-05-27,"Weight (Garmin)",kg,81.7
+2020-05-28,"Heart Rate (Garmin)",bpm,51.0
+2020-05-28,"Weight (Garmin)",kg,81.6
+2020-05-29,"Heart Rate (Garmin)",bpm,55.0
+2020-05-29,"Weight (Garmin)",kg,82.1
+2020-05-30,"Heart Rate (Garmin)",bpm,53.0
+2020-05-31,"Heart Rate (Garmin)",bpm,58.0
+2020-05-31,"Sleep (Garmin)",hours,0.0
+2020-05-31,"Weight (Garmin)",kg,81.9
+2020-06-01,"Sleep (Garmin)",hours,0.0
+2020-06-01,"Heart Rate (Garmin)",bpm,56.0
+2020-06-01,"Weight (Garmin)",kg,82.8
+2020-06-02,"Heart Rate (Garmin)",bpm,57.0
+2020-06-02,"Weight (Garmin)",kg,82.3
+2020-06-03,"Heart Rate (Garmin)",bpm,55.0
+2020-06-03,"Weight (Garmin)",kg,82.4
+2020-06-04,"Heart Rate (Garmin)",bpm,56.0
+2020-06-04,"Weight (Garmin)",kg,82.0
+2020-06-05,"Heart Rate (Garmin)",bpm,54.0
+2020-06-05,"Weight (Garmin)",kg,81.5
+2020-06-06,"Heart Rate (Garmin)",bpm,53.0
+2020-06-06,"Weight (Garmin)",kg,81.7
+2020-06-07,"Heart Rate (Garmin)",bpm,55.0
+2020-06-07,"Weight (Garmin)",kg,82.3
+2020-06-08,"Heart Rate (Garmin)",bpm,55.0
+2020-06-08,"Weight (Garmin)",kg,82.5
+2020-06-09,"Heart Rate (Garmin)",bpm,60.0
+2020-06-09,"Weight (Garmin)",kg,81.3
+2020-06-10,"Heart Rate (Garmin)",bpm,56.0
+2020-06-10,"Weight (Garmin)",kg,81.6
+2020-06-11,"Heart Rate (Garmin)",bpm,55.0
+2020-06-11,"Weight (Garmin)",kg,82.1
+2020-06-12,"Heart Rate (Garmin)",bpm,54.0
+2020-06-12,"Weight (Garmin)",kg,81.8
+2020-06-13,"Heart Rate (Garmin)",bpm,58.0
+2020-06-13,"Weight (Garmin)",kg,81.4
+2020-06-14,"Heart Rate (Garmin)",bpm,55.0
+2020-06-14,"Weight (Garmin)",kg,81.2
+2020-06-15,"Heart Rate (Garmin)",bpm,57.0
+2020-06-15,"Weight (Garmin)",kg,81.9
+2020-06-16,"Heart Rate (Garmin)",bpm,55.0
+2020-06-16,"Weight (Garmin)",kg,81.7
+2020-06-17,"Heart Rate (Garmin)",bpm,53.0
+2020-06-17,"Weight (Garmin)",kg,82.0
+2020-06-18,"Heart Rate (Garmin)",bpm,57.0
+2020-06-18,"Weight (Garmin)",kg,82.0
+2020-06-19,"Heart Rate (Garmin)",bpm,53.0
+2020-06-19,"Weight (Garmin)",kg,81.3
+2020-06-20,"Heart Rate (Garmin)",bpm,57.0
+2020-06-20,"Weight (Garmin)",kg,81.8
+2020-06-21,"Heart Rate (Garmin)",bpm,57.0
+2020-06-21,"Weight (Garmin)",kg,82.3
+2020-06-22,"Heart Rate (Garmin)",bpm,54.0
+2020-06-22,"Weight (Garmin)",kg,83.0
+2020-06-23,"Heart Rate (Garmin)",bpm,56.0
+2020-06-23,"Weight (Garmin)",kg,82.6
+2020-06-24,"Heart Rate (Garmin)",bpm,54.0
+2020-06-24,"Weight (Garmin)",kg,82.3
+2020-06-25,"Heart Rate (Garmin)",bpm,60.0
+2020-06-25,"Weight (Garmin)",kg,82.2
+2020-06-26,"Heart Rate (Garmin)",bpm,65.0
+2020-06-26,"Weight (Garmin)",kg,82.1
+2020-06-27,"Sleep (Garmin)",hours,0.0
+2020-06-27,"Heart Rate (Garmin)",bpm,58.0
+2020-06-27,"Weight (Garmin)",kg,82.0
+2020-06-28,"Sleep (Garmin)",hours,0.0
+2020-06-28,"Heart Rate (Garmin)",bpm,60.0
+2020-06-28,"Weight (Garmin)",kg,82.0
+2020-06-29,"Heart Rate (Garmin)",bpm,64.0
+2020-06-29,"Weight (Garmin)",kg,82.5
+2020-06-30,"Heart Rate (Garmin)",bpm,65.0
+2020-06-30,"Weight (Garmin)",kg,81.9
+2020-07-01,"Heart Rate (Garmin)",bpm,59.0
+2020-07-01,"Sleep (Garmin)",hours,10.0833
+2020-07-01,"Weight (Garmin)",kg,83.0
+2020-07-02,"Heart Rate (Garmin)",bpm,67.0
+2020-07-02,"Weight (Garmin)",kg,82.3
+2020-07-03,"Heart Rate (Garmin)",bpm,60.0
+2020-07-03,"Weight (Garmin)",kg,81.6
+2020-07-04,"Heart Rate (Garmin)",bpm,56.0
+2020-07-05,"Sleep (Garmin)",hours,0.0
+2020-07-05,"Heart Rate (Garmin)",bpm,59.0
+2020-07-05,"Weight (Garmin)",kg,81.9
+2020-07-06,"Heart Rate (Garmin)",bpm,60.0
+2020-07-06,"Weight (Garmin)",kg,81.9
+2020-07-07,"Heart Rate (Garmin)",bpm,57.0
+2020-07-07,"Weight (Garmin)",kg,82.2
+2020-07-08,"Sleep (Garmin)",hours,0.0
+2020-07-08,"Heart Rate (Garmin)",bpm,54.0
+2020-07-08,"Weight (Garmin)",kg,82.7
+2020-07-09,"Heart Rate (Garmin)",bpm,59.0
+2020-07-09,"Weight (Garmin)",kg,82.2
+2020-07-10,"Heart Rate (Garmin)",bpm,55.0
+2020-07-10,"Weight (Garmin)",kg,82.2
+2020-07-11,"Heart Rate (Garmin)",bpm,59.0
+2020-07-11,"Weight (Garmin)",kg,81.8
+2020-07-12,"Heart Rate (Garmin)",bpm,61.0
+2020-07-12,"Weight (Garmin)",kg,82.7
+2020-07-13,"Heart Rate (Garmin)",bpm,56.0
+2020-07-13,"Weight (Garmin)",kg,82.7
+2020-07-14,"Heart Rate (Garmin)",bpm,55.0
+2020-07-14,"Weight (Garmin)",kg,82.2
+2020-07-15,"Heart Rate (Garmin)",bpm,55.0
+2020-07-15,"Sleep (Garmin)",hours,6.95
+2020-07-15,"Weight (Garmin)",kg,82.3
+2020-07-16,"Heart Rate (Garmin)",bpm,37.0
+2020-07-16,"Sleep (Garmin)",hours,7.5
+2020-07-16,"Weight (Garmin)",kg,82.0
+2020-07-17,"Heart Rate (Garmin)",bpm,56.0
+2020-07-17,"Sleep (Garmin)",hours,8.91667
+2020-07-17,"Weight (Garmin)",kg,81.9
+2020-07-18,"Heart Rate (Garmin)",bpm,59.0
+2020-07-18,"Sleep (Garmin)",hours,6.81667
+2020-07-18,"Weight (Garmin)",kg,83.1
+2020-07-19,"Heart Rate (Garmin)",bpm,55.0
+2020-07-19,"Weight (Garmin)",kg,82.0
+2020-07-20,"Heart Rate (Garmin)",bpm,56.0
+2020-07-20,"Sleep (Garmin)",hours,0.0
+2020-07-20,"Weight (Garmin)",kg,83.1
+2020-07-21,"Heart Rate (Garmin)",bpm,54.0
+2020-07-21,"Weight (Garmin)",kg,82.5
+2020-07-22,"Heart Rate (Garmin)",bpm,59.0
+2020-07-23,"Heart Rate (Garmin)",bpm,58.0
+2020-07-24,"Heart Rate (Garmin)",bpm,54.0
+2020-07-25,"Heart Rate (Garmin)",bpm,54.0
+2020-07-26,"Heart Rate (Garmin)",bpm,57.0
+2020-07-27,"Heart Rate (Garmin)",bpm,53.0
+2020-07-27,"Weight (Garmin)",kg,82.6
+2020-07-28,"Heart Rate (Garmin)",bpm,56.0
+2020-07-28,"Weight (Garmin)",kg,83.0
+2020-07-29,"Sleep (Garmin)",hours,0.0
+2020-07-29,"Heart Rate (Garmin)",bpm,54.0
+2020-07-29,"Weight (Garmin)",kg,82.1
+2020-07-30,"Sleep (Garmin)",hours,0.0
+2020-07-30,"Heart Rate (Garmin)",bpm,58.0
+2020-07-30,"Weight (Garmin)",kg,81.9
+2020-07-31,"Heart Rate (Garmin)",bpm,50.0
+2020-07-31,"Sleep (Garmin)",hours,7.03333
+2020-07-31,"Weight (Garmin)",kg,82.4
+2020-08-01,"Heart Rate (Garmin)",bpm,52.0
+2020-08-01,"Sleep (Garmin)",hours,9.68333
+2020-08-01,"Weight (Garmin)",kg,82.5
+2020-08-02,"Heart Rate (Garmin)",bpm,55.0
+2020-08-02,"Sleep (Garmin)",hours,8.76667
+2020-08-02,"Weight (Garmin)",kg,82.0
+2020-08-03,"Heart Rate (Garmin)",bpm,52.0
+2020-08-03,"Sleep (Garmin)",hours,8.43333
+2020-08-03,"Weight (Garmin)",kg,81.8
+2020-08-04,"Heart Rate (Garmin)",bpm,55.0
+2020-08-04,"Weight (Garmin)",kg,82.0
+2020-08-05,"Heart Rate (Garmin)",bpm,53.0
+2020-08-05,"Sleep (Garmin)",hours,9.41667
+2020-08-05,"Weight (Garmin)",kg,81.8
+2020-08-06,"Heart Rate (Garmin)",bpm,57.0
+2020-08-06,"Sleep (Garmin)",hours,0.0
+2020-08-06,"Weight (Garmin)",kg,80.6
+2020-08-07,"Heart Rate (Garmin)",bpm,54.0
+2020-08-07,"Sleep (Garmin)",hours,7.83333
+2020-08-07,"Weight (Garmin)",kg,81.1
+2020-08-08,"Heart Rate (Garmin)",bpm,53.0
+2020-08-08,"Sleep (Garmin)",hours,0.0
+2020-08-08,"Weight (Garmin)",kg,81.9
+2020-08-09,"Heart Rate (Garmin)",bpm,58.0
+2020-08-09,"Sleep (Garmin)",hours,10.0333
+2020-08-09,"Weight (Garmin)",kg,81.7
+2020-08-10,"Sleep (Garmin)",hours,7.9
+2020-08-10,"Heart Rate (Garmin)",bpm,50.0
+2020-08-10,"Weight (Garmin)",kg,82.6
+2020-08-11,"Sleep (Garmin)",hours,9.13333
+2020-08-11,"Heart Rate (Garmin)",bpm,51.0
+2020-08-11,"Weight (Garmin)",kg,80.8
+2020-08-12,"Heart Rate (Garmin)",bpm,51.0
+2020-08-12,"Sleep (Garmin)",hours,9.86667
+2020-08-12,"Weight (Garmin)",kg,80.9
+2020-08-13,"Heart Rate (Garmin)",bpm,49.0
+2020-08-13,"Sleep (Garmin)",hours,8.36667
+2020-08-13,"Weight (Garmin)",kg,80.3
+2020-08-14,"Heart Rate (Garmin)",bpm,60.0
+2020-08-14,"Weight (Garmin)",kg,79.9
+2020-08-15,"Heart Rate (Garmin)",bpm,57.0
+2020-08-15,"Weight (Garmin)",kg,81.4
+2020-08-16,"Heart Rate (Garmin)",bpm,56.0
+2020-08-16,"Weight (Garmin)",kg,82.1
+2020-08-17,"Heart Rate (Garmin)",bpm,53.0
+2020-08-17,"Weight (Garmin)",kg,81.6
+2020-08-18,"Sleep (Garmin)",hours,0.0
+2020-08-18,"Heart Rate (Garmin)",bpm,55.0
+2020-08-18,"Weight (Garmin)",kg,81.1
+2020-08-19,"Heart Rate (Garmin)",bpm,53.0
+2020-08-19,"Weight (Garmin)",kg,81.8
+2020-08-20,"Sleep (Garmin)",hours,0.0
+2020-08-20,"Weight (Garmin)",kg,81.7
+2020-08-20,"Heart Rate (Garmin)",bpm,160.0
+2020-08-21,"Sleep (Garmin)",hours,0.0
+2020-08-21,"Heart Rate (Garmin)",bpm,64.0
+2020-08-21,"Weight (Garmin)",kg,81.6
+2020-08-22,"Sleep (Garmin)",hours,0.0
+2020-08-22,"Heart Rate (Garmin)",bpm,62.0
+2020-08-22,"Weight (Garmin)",kg,80.9
+2020-08-23,"Sleep (Garmin)",hours,0.0
+2020-08-23,"Heart Rate (Garmin)",bpm,57.0
+2020-08-23,"Weight (Garmin)",kg,80.4
+2020-08-24,"Sleep (Garmin)",hours,0.0
+2020-08-24,"Heart Rate (Garmin)",bpm,60.0
+2020-08-24,"Weight (Garmin)",kg,79.9
+2020-08-25,"Sleep (Garmin)",hours,8.06667
+2020-08-25,"Heart Rate (Garmin)",bpm,55.0
+2020-08-25,"Weight (Garmin)",kg,79.8
+2020-08-26,"Heart Rate (Garmin)",bpm,55.0
+2020-08-26,"Weight (Garmin)",kg,79.5
+2020-08-27,"Heart Rate (Garmin)",bpm,58.0
+2020-08-28,"Sleep (Garmin)",hours,6.5
+2020-08-28,"Heart Rate (Garmin)",bpm,62.0
+2020-08-28,"Weight (Garmin)",kg,80.3
+2020-08-29,"Heart Rate (Garmin)",bpm,58.0
+2020-08-29,"Weight (Garmin)",kg,80.1
+2020-08-30,"Sleep (Garmin)",hours,0.0
+2020-08-30,"Heart Rate (Garmin)",bpm,59.0
+2020-08-30,"Weight (Garmin)",kg,80.5
+2020-08-31,"Heart Rate (Garmin)",bpm,56.0
+2020-09-01,"Sleep (Garmin)",hours,7.8
+2020-09-01,"Heart Rate (Garmin)",bpm,57.0
+2020-09-02,"Heart Rate (Garmin)",bpm,57.0
+2020-09-02,"Weight (Garmin)",kg,79.8
+2020-09-03,"Sleep (Garmin)",hours,9.05
+2020-09-03,"Heart Rate (Garmin)",bpm,56.0
+2020-09-03,"Weight (Garmin)",kg,79.9
+2020-09-04,"Heart Rate (Garmin)",bpm,55.0
+2020-09-04,"Weight (Garmin)",kg,80.0
+2020-09-05,"Heart Rate (Garmin)",bpm,53.0
+2020-09-05,"Weight (Garmin)",kg,80.3
+2020-09-06,"Heart Rate (Garmin)",bpm,56.0
+2020-09-06,"Weight (Garmin)",kg,80.0
+2020-09-07,"Heart Rate (Garmin)",bpm,55.0
+2020-09-07,"Weight (Garmin)",kg,80.5
+2020-09-08,"Heart Rate (Garmin)",bpm,57.0
+2020-09-09,"Heart Rate (Garmin)",bpm,55.0
+2020-09-09,"Sleep (Garmin)",hours,7.85
+2020-09-09,"Weight (Garmin)",kg,81.1
+2020-09-10,"Heart Rate (Garmin)",bpm,59.0
+2020-09-10,"Sleep (Garmin)",hours,7.86667
+2020-09-11,"Heart Rate (Garmin)",bpm,58.0
+2020-09-11,"Weight (Garmin)",kg,82.2
+2020-09-12,"Heart Rate (Garmin)",bpm,52.0
+2020-09-13,"Heart Rate (Garmin)",bpm,55.0
+2020-09-13,"Weight (Garmin)",kg,81.1
+2020-09-14,"Sleep (Garmin)",hours,10.6833
+2020-09-14,"Heart Rate (Garmin)",bpm,56.0
+2020-09-14,"Weight (Garmin)",kg,80.9
+2020-09-15,"Sleep (Garmin)",hours,7.21667
+2020-09-15,"Heart Rate (Garmin)",bpm,51.0
+2020-09-15,"Weight (Garmin)",kg,80.6
+2020-09-16,"Sleep (Garmin)",hours,9.3
+2020-09-16,"Heart Rate (Garmin)",bpm,50.0
+2020-09-16,"Weight (Garmin)",kg,79.9
+2020-09-17,"Sleep (Garmin)",hours,8.5
+2020-09-17,"Heart Rate (Garmin)",bpm,60.0
+2020-09-17,"Weight (Garmin)",kg,79.8
+2020-09-18,"Heart Rate (Garmin)",bpm,55.0
+2020-09-18,"Sleep (Garmin)",hours,7.2
+2020-09-18,"Weight (Garmin)",kg,80.9
+2020-09-19,"Sleep (Garmin)",hours,9.23333
+2020-09-19,"Heart Rate (Garmin)",bpm,58.0
+2020-09-19,"Weight (Garmin)",kg,80.2
+2020-09-20,"Sleep (Garmin)",hours,11.2833
+2020-09-20,"Heart Rate (Garmin)",bpm,58.0
+2020-09-20,"Weight (Garmin)",kg,79.8
+2020-09-21,"Sleep (Garmin)",hours,7.7
+2020-09-21,"Heart Rate (Garmin)",bpm,53.0
+2020-09-21,"Weight (Garmin)",kg,80.7
+2020-09-22,"Sleep (Garmin)",hours,6.25
+2020-09-22,"Heart Rate (Garmin)",bpm,53.0
+2020-09-22,"Weight (Garmin)",kg,80.7
+2020-09-23,"Sleep (Garmin)",hours,10.3167
+2020-09-23,"Heart Rate (Garmin)",bpm,51.0
+2020-09-23,"Weight (Garmin)",kg,81.2
+2020-09-24,"Sleep (Garmin)",hours,7.31667
+2020-09-24,"Heart Rate (Garmin)",bpm,56.0
+2020-09-24,"Weight (Garmin)",kg,81.0
+2020-09-25,"Sleep (Garmin)",hours,6.96667
+2020-09-25,"Heart Rate (Garmin)",bpm,50.0
+2020-09-25,"Weight (Garmin)",kg,80.4
+2020-09-26,"Sleep (Garmin)",hours,8.01667
+2020-09-26,"Heart Rate (Garmin)",bpm,51.0
+2020-09-26,"Weight (Garmin)",kg,79.6
+2020-09-27,"Heart Rate (Garmin)",bpm,55.0
+2020-09-27,"Weight (Garmin)",kg,80.1
+2020-09-28,"Sleep (Garmin)",hours,8.33333
+2020-09-28,"Heart Rate (Garmin)",bpm,53.0
+2020-09-28,"Weight (Garmin)",kg,81.6
+2020-09-29,"Heart Rate (Garmin)",bpm,61.0
+2020-09-30,"Heart Rate (Garmin)",bpm,59.0
+2020-09-30,"Weight (Garmin)",kg,82.6
+2020-10-01,"Sleep (Garmin)",hours,8.93333
+2020-10-01,"Heart Rate (Garmin)",bpm,57.0
+2020-10-01,"Weight (Garmin)",kg,82.3
+2020-10-02,"Sleep (Garmin)",hours,9.28333
+2020-10-02,"Heart Rate (Garmin)",bpm,58.0
+2020-10-02,"Weight (Garmin)",kg,81.6
+2020-10-03,"Sleep (Garmin)",hours,7.95
+2020-10-03,"Heart Rate (Garmin)",bpm,58.0
+2020-10-03,"Weight (Garmin)",kg,81.3
+2020-10-04,"Sleep (Garmin)",hours,11.3333
+2020-10-04,"Heart Rate (Garmin)",bpm,62.0
+2020-10-04,"Weight (Garmin)",kg,81.4
+2020-10-05,"Heart Rate (Garmin)",bpm,60.0
+2020-10-05,"Weight (Garmin)",kg,82.2
+2020-10-06,"Heart Rate (Garmin)",bpm,60.0
+2020-10-06,"Weight (Garmin)",kg,82.4
+2020-10-07,"Heart Rate (Garmin)",bpm,58.0
+2020-10-07,"Weight (Garmin)",kg,82.3
+2020-10-08,"Sleep (Garmin)",hours,7.46667
+2020-10-08,"Heart Rate (Garmin)",bpm,57.0
+2020-10-09,"Sleep (Garmin)",hours,8.18333
+2020-10-09,"Heart Rate (Garmin)",bpm,58.0
+2020-10-10,"Heart Rate (Garmin)",bpm,58.0
+2020-10-10,"Sleep (Garmin)",hours,9.25
+2020-10-10,"Weight (Garmin)",kg,82.0
+2020-10-11,"Sleep (Garmin)",hours,11.2833
+2020-10-11,"Heart Rate (Garmin)",bpm,59.0
+2020-10-11,"Weight (Garmin)",kg,81.6
+2020-10-12,"Heart Rate (Garmin)",bpm,58.0
+2020-10-12,"Sleep (Garmin)",hours,8.16667
+2020-10-12,"Weight (Garmin)",kg,82.6
+2020-10-13,"Heart Rate (Garmin)",bpm,54.0
+2020-10-13,"Sleep (Garmin)",hours,7.36667
+2020-10-13,"Weight (Garmin)",kg,83.6
+2020-10-14,"Heart Rate (Garmin)",bpm,57.0
+2020-10-14,"Sleep (Garmin)",hours,9.38333
+2020-10-14,"Weight (Garmin)",kg,82.6
+2020-10-15,"Heart Rate (Garmin)",bpm,60.0
+2020-10-15,"Sleep (Garmin)",hours,9.21667
+2020-10-15,"Weight (Garmin)",kg,83.0
+2020-10-16,"Heart Rate (Garmin)",bpm,60.0
+2020-10-16,"Sleep (Garmin)",hours,8.18333
+2020-10-16,"Weight (Garmin)",kg,82.7
+2020-10-17,"Heart Rate (Garmin)",bpm,56.0
+2020-10-17,"Sleep (Garmin)",hours,8.55
+2020-10-18,"Heart Rate (Garmin)",bpm,62.0
+2020-10-18,"Sleep (Garmin)",hours,8.33333
+2020-10-18,"Weight (Garmin)",kg,82.5
+2020-10-19,"Sleep (Garmin)",hours,7.31667
+2020-10-19,"Heart Rate (Garmin)",bpm,59.0
+2020-10-19,"Weight (Garmin)",kg,83.1
+2020-10-20,"Sleep (Garmin)",hours,10.1167
+2020-10-20,"Heart Rate (Garmin)",bpm,57.0
+2020-10-21,"Sleep (Garmin)",hours,9.76667
+2020-10-21,"Heart Rate (Garmin)",bpm,60.0
+2020-10-21,"Weight (Garmin)",kg,82.5
+2020-10-22,"Heart Rate (Garmin)",bpm,59.0
+2020-10-22,"Sleep (Garmin)",hours,9.95
+2020-10-22,"Weight (Garmin)",kg,82.9
+2020-10-23,"Heart Rate (Garmin)",bpm,59.0
+2020-10-23,"Sleep (Garmin)",hours,8.31667
+2020-10-23,"Weight (Garmin)",kg,84.2
+2020-10-24,"Heart Rate (Garmin)",bpm,60.0
+2020-10-24,"Sleep (Garmin)",hours,8.98333
+2020-10-24,"Weight (Garmin)",kg,82.6
+2020-10-25,"Heart Rate (Garmin)",bpm,60.0
+2020-10-25,"Sleep (Garmin)",hours,11.35
+2020-10-25,"Weight (Garmin)",kg,81.6
+2020-10-26,"Heart Rate (Garmin)",bpm,58.0
+2020-10-26,"Sleep (Garmin)",hours,0.0
+2020-10-26,"Weight (Garmin)",kg,82.0
+2020-10-27,"Sleep (Garmin)",hours,10.1167
+2020-10-27,"Heart Rate (Garmin)",bpm,61.0
+2020-10-27,"Weight (Garmin)",kg,83.0
+2020-10-28,"Sleep (Garmin)",hours,10.3667
+2020-10-28,"Heart Rate (Garmin)",bpm,62.0
+2020-10-28,"Weight (Garmin)",kg,83.9
+2020-10-29,"Sleep (Garmin)",hours,8.31667
+2020-10-29,"Heart Rate (Garmin)",bpm,58.0
+2020-10-29,"Weight (Garmin)",kg,84.1
+2020-10-30,"Heart Rate (Garmin)",bpm,58.0
+2020-10-30,"Sleep (Garmin)",hours,6.58333
+2020-10-30,"Weight (Garmin)",kg,83.7
+2020-10-31,"Sleep (Garmin)",hours,8.7
+2020-10-31,"Heart Rate (Garmin)",bpm,59.0
+2020-11-01,"Heart Rate (Garmin)",bpm,60.0
+2020-11-01,"Sleep (Garmin)",hours,11.3
+2020-11-02,"Sleep (Garmin)",hours,7.85
+2020-11-02,"Heart Rate (Garmin)",bpm,56.0
+2020-11-02,"Weight (Garmin)",kg,82.7
+2020-11-03,"Sleep (Garmin)",hours,7.28333
+2020-11-03,"Heart Rate (Garmin)",bpm,61.0
+2020-11-03,"Weight (Garmin)",kg,82.6
+2020-11-04,"Sleep (Garmin)",hours,6.95
+2020-11-04,"Heart Rate (Garmin)",bpm,60.0
+2020-11-04,"Weight (Garmin)",kg,82.7
+2020-11-05,"Sleep (Garmin)",hours,9.9
+2020-11-05,"Heart Rate (Garmin)",bpm,58.0
+2020-11-05,"Weight (Garmin)",kg,82.9
+2020-11-06,"Sleep (Garmin)",hours,8.68333
+2020-11-06,"Heart Rate (Garmin)",bpm,59.0
+2020-11-06,"Weight (Garmin)",kg,83.3
+2020-11-07,"Sleep (Garmin)",hours,9.18333
+2020-11-07,"Heart Rate (Garmin)",bpm,64.0
+2020-11-07,"Weight (Garmin)",kg,83.2
+2020-11-08,"Sleep (Garmin)",hours,6.03333
+2020-11-08,"Heart Rate (Garmin)",bpm,63.0
+2020-11-08,"Weight (Garmin)",kg,82.9
+2020-11-09,"Sleep (Garmin)",hours,6.35
+2020-11-09,"Heart Rate (Garmin)",bpm,58.0
+2020-11-09,"Weight (Garmin)",kg,84.2
+2020-11-10,"Sleep (Garmin)",hours,9.36667
+2020-11-10,"Heart Rate (Garmin)",bpm,60.0
+2020-11-10,"Weight (Garmin)",kg,84.2
+2020-11-11,"Sleep (Garmin)",hours,8.8
+2020-11-11,"Heart Rate (Garmin)",bpm,57.0
+2020-11-11,"Weight (Garmin)",kg,83.7
+2020-11-12,"Heart Rate (Garmin)",bpm,56.0
+2020-11-12,"Weight (Garmin)",kg,84.1
+2020-11-13,"Heart Rate (Garmin)",bpm,60.0
+2020-11-13,"Weight (Garmin)",kg,83.5
+2020-11-14,"Heart Rate (Garmin)",bpm,54.0
+2020-11-15,"Heart Rate (Garmin)",bpm,57.0
+2020-11-15,"Weight (Garmin)",kg,84.1
+2020-11-16,"Heart Rate (Garmin)",bpm,61.0
+2020-11-16,"Weight (Garmin)",kg,84.4
+2020-11-17,"Weight (Garmin)",kg,84.7
+2020-11-17,"Heart Rate (Garmin)",bpm,159.0
+2020-11-18,"Heart Rate (Garmin)",bpm,62.0
+2020-11-18,"Weight (Garmin)",kg,83.7
+2020-11-19,"Heart Rate (Garmin)",bpm,60.0
+2020-11-19,"Weight (Garmin)",kg,83.1
+2020-11-20,"Heart Rate (Garmin)",bpm,58.0
+2020-11-20,"Weight (Garmin)",kg,83.0
+2020-11-21,"Heart Rate (Garmin)",bpm,58.0
+2020-11-21,"Weight (Garmin)",kg,83.0
+2020-11-22,"Heart Rate (Garmin)",bpm,58.0
+2020-11-23,"Heart Rate (Garmin)",bpm,58.0
+2020-11-23,"Weight (Garmin)",kg,84.0
+2020-11-24,"Heart Rate (Garmin)",bpm,55.0
+2020-11-25,"Heart Rate (Garmin)",bpm,55.0
+2020-11-25,"Weight (Garmin)",kg,83.2
+2020-11-26,"Heart Rate (Garmin)",bpm,59.0
+2020-11-26,"Weight (Garmin)",kg,83.7
+2020-11-27,"Heart Rate (Garmin)",bpm,126.0
+2020-11-28,"Heart Rate (Garmin)",bpm,60.0
+2020-11-29,"Heart Rate (Garmin)",bpm,136.0
+2020-11-30,"Weight (Garmin)",kg,84.6
+2020-11-30,"Heart Rate (Garmin)",bpm,139.0
+2020-12-01,"Heart Rate (Garmin)",bpm,60.0
+2020-12-01,"Weight (Garmin)",kg,85.0
+2020-12-02,"Weight (Garmin)",kg,83.3
+2020-12-02,"Heart Rate (Garmin)",bpm,155.0
+2020-12-03,"Heart Rate (Garmin)",bpm,57.0
+2020-12-03,"Weight (Garmin)",kg,83.7
+2020-12-04,"Heart Rate (Garmin)",bpm,57.0
+2020-12-05,"Heart Rate (Garmin)",bpm,161.0
+2020-12-06,"Heart Rate (Garmin)",bpm,58.0
+2020-12-07,"Heart Rate (Garmin)",bpm,55.0
+2020-12-08,"Heart Rate (Garmin)",bpm,58.0
+2020-12-09,"Heart Rate (Garmin)",bpm,150.0
+2020-12-10,"Heart Rate (Garmin)",bpm,55.0
+2020-12-11,"Heart Rate (Garmin)",bpm,59.0
+2020-12-12,"Heart Rate (Garmin)",bpm,58.0
+2020-12-13,"Heart Rate (Garmin)",bpm,58.0
+2020-12-14,"Heart Rate (Garmin)",bpm,58.0
+2020-12-15,"Heart Rate (Garmin)",bpm,100.0
+2020-12-16,"Heart Rate (Garmin)",bpm,142.0
+2020-12-17,"Heart Rate (Garmin)",bpm,60.0
+2020-12-18,"Heart Rate (Garmin)",bpm,56.0
+2020-12-19,"Heart Rate (Garmin)",bpm,62.0
+2020-12-20,"Heart Rate (Garmin)",bpm,59.0
+2020-12-21,"Heart Rate (Garmin)",bpm,57.0
+2020-12-22,"Heart Rate (Garmin)",bpm,55.0
+2020-12-22,"Sleep (Garmin)",hours,9.0
+2020-12-23,"Heart Rate (Garmin)",bpm,55.0
+2020-12-23,"Sleep (Garmin)",hours,7.71667
+2020-12-24,"Heart Rate (Garmin)",bpm,62.0
+2020-12-24,"Sleep (Garmin)",hours,9.03333
+2020-12-25,"Heart Rate (Garmin)",bpm,62.0
+2020-12-25,"Sleep (Garmin)",hours,8.55
+2020-12-26,"Heart Rate (Garmin)",bpm,63.0
+2020-12-26,"Sleep (Garmin)",hours,10.2
+2020-12-27,"Heart Rate (Garmin)",bpm,60.0
+2020-12-27,"Sleep (Garmin)",hours,10.4333
+2020-12-28,"Sleep (Garmin)",hours,6.68333
+2020-12-28,"Heart Rate (Garmin)",bpm,58.0
+2020-12-29,"Heart Rate (Garmin)",bpm,62.0
+2020-12-29,"Sleep (Garmin)",hours,7.48333
+2020-12-30,"Heart Rate (Garmin)",bpm,58.0
+2020-12-30,"Sleep (Garmin)",hours,11.1
+2020-12-31,"Sleep (Garmin)",hours,9.93333
+2020-12-31,"Heart Rate (Garmin)",bpm,164.0
+2021-01-01,"Heart Rate (Garmin)",bpm,62.0
+2021-01-01,"Sleep (Garmin)",hours,8.36667
+2021-01-02,"Heart Rate (Garmin)",bpm,59.0
+2021-01-03,"Heart Rate (Garmin)",bpm,60.0
+2021-01-04,"Heart Rate (Garmin)",bpm,56.0
+2021-01-05,"Heart Rate (Garmin)",bpm,56.0
+2021-01-06,"Heart Rate (Garmin)",bpm,148.0
+2021-01-07,"Heart Rate (Garmin)",bpm,58.0
+2021-01-07,"Weight (Garmin)",kg,83.7
+2021-01-08,"Heart Rate (Garmin)",bpm,60.0
+2021-01-09,"Heart Rate (Garmin)",bpm,140.0
+2021-01-10,"Heart Rate (Garmin)",bpm,57.0
+2021-01-11,"Sleep (Garmin)",hours,8.61667
+2021-01-11,"Heart Rate (Garmin)",bpm,60.0
+2021-01-12,"Sleep (Garmin)",hours,9.96667
+2021-01-12,"Heart Rate (Garmin)",bpm,59.0
+2021-01-13,"Heart Rate (Garmin)",bpm,59.0
+2021-01-13,"Sleep (Garmin)",hours,10.3333
+2021-01-14,"Heart Rate (Garmin)",bpm,61.0
+2021-01-14,"Sleep (Garmin)",hours,10.7167
+2021-01-15,"Heart Rate (Garmin)",bpm,61.0
+2021-01-15,"Sleep (Garmin)",hours,7.88333
+2021-01-16,"Sleep (Garmin)",hours,8.33333
+2021-01-16,"Heart Rate (Garmin)",bpm,58.0
+2021-01-17,"Heart Rate (Garmin)",bpm,61.0
+2021-01-17,"Sleep (Garmin)",hours,7.5
+2021-01-18,"Heart Rate (Garmin)",bpm,63.0
+2021-01-18,"Sleep (Garmin)",hours,8.06667
+2021-01-19,"Heart Rate (Garmin)",bpm,59.0
+2021-01-19,"Sleep (Garmin)",hours,9.16667
+2021-01-20,"Heart Rate (Garmin)",bpm,59.0
+2021-01-20,"Sleep (Garmin)",hours,7.35
+2021-01-21,"Sleep (Garmin)",hours,8.01667
+2021-01-21,"Heart Rate (Garmin)",bpm,152.0
+2021-01-22,"Heart Rate (Garmin)",bpm,62.0
+2021-01-22,"Sleep (Garmin)",hours,11.2
+2021-01-23,"Heart Rate (Garmin)",bpm,54.0
+2021-01-23,"Sleep (Garmin)",hours,10.8333
+2021-01-24,"Sleep (Garmin)",hours,10.7167
+2021-01-24,"Heart Rate (Garmin)",bpm,59.0
+2021-01-25,"Heart Rate (Garmin)",bpm,59.0
+2021-01-25,"Sleep (Garmin)",hours,6.8
+2021-01-26,"Heart Rate (Garmin)",bpm,61.0
+2021-01-26,"Sleep (Garmin)",hours,8.06667
+2021-01-27,"Heart Rate (Garmin)",bpm,61.0
+2021-01-27,"Sleep (Garmin)",hours,8.13333
+2021-01-28,"Heart Rate (Garmin)",bpm,59.0
+2021-01-28,"Sleep (Garmin)",hours,11.9
+2021-01-29,"Heart Rate (Garmin)",bpm,57.0
+2021-01-29,"Sleep (Garmin)",hours,8.63333
+2021-01-30,"Heart Rate (Garmin)",bpm,58.0
+2021-01-30,"Sleep (Garmin)",hours,12.1833
+2021-01-31,"Heart Rate (Garmin)",bpm,56.0
+2021-01-31,"Sleep (Garmin)",hours,9.48333
+2021-02-01,"Sleep (Garmin)",hours,10.2833
+2021-02-01,"Heart Rate (Garmin)",bpm,143.0
+2021-02-02,"Heart Rate (Garmin)",bpm,59.0
+2021-02-02,"Sleep (Garmin)",hours,7.93333
+2021-02-03,"Heart Rate (Garmin)",bpm,63.0
+2021-02-03,"Sleep (Garmin)",hours,10.6667
+2021-02-04,"Sleep (Garmin)",hours,9.06667
+2021-02-04,"Heart Rate (Garmin)",bpm,59.0
+2021-02-05,"Heart Rate (Garmin)",bpm,56.0
+2021-02-05,"Sleep (Garmin)",hours,10.05
+2021-02-06,"Heart Rate (Garmin)",bpm,59.0
+2021-02-06,"Sleep (Garmin)",hours,8.51667
+2021-02-07,"Sleep (Garmin)",hours,10.4
+2021-02-07,"Heart Rate (Garmin)",bpm,62.0
+2021-02-08,"Sleep (Garmin)",hours,10.2
+2021-02-08,"Heart Rate (Garmin)",bpm,65.0
+2021-02-09,"Sleep (Garmin)",hours,9.35
+2021-02-09,"Heart Rate (Garmin)",bpm,59.0
+2021-02-10,"Heart Rate (Garmin)",bpm,59.0
+2021-02-11,"Heart Rate (Garmin)",bpm,65.0
+2021-02-12,"Sleep (Garmin)",hours,9.21667
+2021-02-12,"Heart Rate (Garmin)",bpm,68.0
+2021-02-13,"Heart Rate (Garmin)",bpm,65.0
+2021-02-14,"Heart Rate (Garmin)",bpm,66.0
+2021-02-15,"Heart Rate (Garmin)",bpm,61.0
+2021-02-16,"Heart Rate (Garmin)",bpm,62.0
+2021-02-17,"Heart Rate (Garmin)",bpm,62.0
+2021-02-18,"Heart Rate (Garmin)",bpm,63.0
+2021-02-19,"Heart Rate (Garmin)",bpm,61.0
+2021-02-20,"Weight (Garmin)",kg,83.9
+2021-02-20,"Heart Rate (Garmin)",bpm,131.0
+2021-02-21,"Heart Rate (Garmin)",bpm,67.0
+2021-02-21,"Weight (Garmin)",kg,84.3
+2021-02-22,"Heart Rate (Garmin)",bpm,60.0
+2021-02-23,"Heart Rate (Garmin)",bpm,61.0
+2021-02-23,"Weight (Garmin)",kg,83.9
+2021-02-24,"Heart Rate (Garmin)",bpm,61.0
+2021-02-24,"Weight (Garmin)",kg,84.3
+2021-02-25,"Heart Rate (Garmin)",bpm,58.0
+2021-02-25,"Weight (Garmin)",kg,85.5
+2021-02-26,"Heart Rate (Garmin)",bpm,61.0
+2021-02-27,"Heart Rate (Garmin)",bpm,59.0
+2021-02-28,"Heart Rate (Garmin)",bpm,61.0
+2021-03-01,"Sleep (Garmin)",hours,7.25
+2021-03-01,"Heart Rate (Garmin)",bpm,61.0
+2021-03-02,"Sleep (Garmin)",hours,7.38333
+2021-03-02,"Heart Rate (Garmin)",bpm,61.0
+2021-03-03,"Sleep (Garmin)",hours,6.38333
+2021-03-03,"Heart Rate (Garmin)",bpm,58.0
+2021-03-04,"Sleep (Garmin)",hours,6.73333
+2021-03-04,"Heart Rate (Garmin)",bpm,57.0
+2021-03-05,"Sleep (Garmin)",hours,7.55
+2021-03-05,"Heart Rate (Garmin)",bpm,57.0
+2021-03-06,"Sleep (Garmin)",hours,7.28333
+2021-03-06,"Heart Rate (Garmin)",bpm,162.0
+2021-03-07,"Heart Rate (Garmin)",bpm,62.0
+2021-03-08,"Heart Rate (Garmin)",bpm,60.0
+2021-03-09,"Heart Rate (Garmin)",bpm,123.0
+2021-03-10,"Heart Rate (Garmin)",bpm,163.0
+2021-03-11,"Heart Rate (Garmin)",bpm,139.0
+2021-03-12,"Heart Rate (Garmin)",bpm,64.0
+2021-03-13,"Heart Rate (Garmin)",bpm,61.0
+2021-03-13,"Weight (Garmin)",kg,84.6
+2021-03-14,"Heart Rate (Garmin)",bpm,60.0
+2021-03-15,"Heart Rate (Garmin)",bpm,58.0
+2021-03-16,"Sleep (Garmin)",hours,0.0
+2021-03-16,"Heart Rate (Garmin)",bpm,60.0
+2021-03-17,"Sleep (Garmin)",hours,0.0
+2021-03-17,"Heart Rate (Garmin)",bpm,60.0
+2021-03-18,"Heart Rate (Garmin)",bpm,61.0
+2021-03-19,"Heart Rate (Garmin)",bpm,61.0
+2021-03-20,"Heart Rate (Garmin)",bpm,156.0
+2021-03-21,"Heart Rate (Garmin)",bpm,57.0
+2021-03-22,"Heart Rate (Garmin)",bpm,64.0
+2021-03-23,"Heart Rate (Garmin)",bpm,65.0
+2021-03-24,"Heart Rate (Garmin)",bpm,62.0
+2021-03-25,"Heart Rate (Garmin)",bpm,63.0
+2021-03-26,"Heart Rate (Garmin)",bpm,62.0
+2021-03-27,"Heart Rate (Garmin)",bpm,126.0
+2021-03-28,"Heart Rate (Garmin)",bpm,60.0
+2021-03-29,"Heart Rate (Garmin)",bpm,58.0
+2021-03-30,"Heart Rate (Garmin)",bpm,60.0
+2021-03-31,"Heart Rate (Garmin)",bpm,62.0
+2021-04-01,"Sleep (Garmin)",hours,8.65
+2021-04-01,"Heart Rate (Garmin)",bpm,60.0
+2021-04-02,"Heart Rate (Garmin)",bpm,62.0
+2021-04-03,"Heart Rate (Garmin)",bpm,64.0
+2021-04-04,"Sleep (Garmin)",hours,7.9
+2021-04-04,"Heart Rate (Garmin)",bpm,91.0
+2021-04-05,"Sleep (Garmin)",hours,9.38333
+2021-04-05,"Heart Rate (Garmin)",bpm,64.0
+2021-04-06,"Sleep (Garmin)",hours,9.25
+2021-04-06,"Heart Rate (Garmin)",bpm,166.0
+2021-04-07,"Heart Rate (Garmin)",bpm,62.0
+2021-04-08,"Heart Rate (Garmin)",bpm,162.0
+2021-04-09,"Heart Rate (Garmin)",bpm,62.0
+2021-04-10,"Heart Rate (Garmin)",bpm,158.0
+2021-04-11,"Sleep (Garmin)",hours,8.31667
+2021-04-11,"Heart Rate (Garmin)",bpm,62.0
+2021-04-12,"Sleep (Garmin)",hours,10.9
+2021-04-12,"Heart Rate (Garmin)",bpm,62.0
+2021-04-13,"Heart Rate (Garmin)",bpm,57.0
+2021-04-14,"Heart Rate (Garmin)",bpm,54.0
+2021-04-15,"Heart Rate (Garmin)",bpm,58.0
+2021-04-16,"Heart Rate (Garmin)",bpm,61.0
+2021-04-17,"Heart Rate (Garmin)",bpm,58.0
+2021-04-18,"Heart Rate (Garmin)",bpm,63.0
+2021-04-19,"Heart Rate (Garmin)",bpm,60.0
+2021-04-20,"Heart Rate (Garmin)",bpm,58.0
+2021-04-21,"Heart Rate (Garmin)",bpm,58.0
+2021-04-21,"Sleep (Garmin)",hours,7.51667
+2021-04-22,"Heart Rate (Garmin)",bpm,66.0
+2021-04-22,"Sleep (Garmin)",hours,9.91667
+2021-04-23,"Sleep (Garmin)",hours,9.88333
+2021-04-23,"Heart Rate (Garmin)",bpm,61.0
+2021-04-24,"Heart Rate (Garmin)",bpm,63.0
+2021-04-24,"Sleep (Garmin)",hours,9.23333
+2021-04-25,"Heart Rate (Garmin)",bpm,62.0
+2021-04-25,"Sleep (Garmin)",hours,8.83333
+2021-04-26,"Sleep (Garmin)",hours,7.88333
+2021-04-26,"Heart Rate (Garmin)",bpm,60.0
+2021-04-27,"Heart Rate (Garmin)",bpm,64.0
+2021-04-28,"Heart Rate (Garmin)",bpm,65.0
+2021-04-29,"Heart Rate (Garmin)",bpm,65.0
+2021-04-30,"Heart Rate (Garmin)",bpm,65.0
+2021-05-01,"Sleep (Garmin)",hours,8.6
+2021-05-01,"Heart Rate (Garmin)",bpm,66.0
+2021-05-02,"Sleep (Garmin)",hours,7.01667
+2021-05-02,"Heart Rate (Garmin)",bpm,62.0
+2021-05-03,"Heart Rate (Garmin)",bpm,65.0
+2021-05-03,"Sleep (Garmin)",hours,9.6
+2021-05-03,"Weight (Garmin)",kg,86.2
+2021-05-04,"Heart Rate (Garmin)",bpm,65.0
+2021-05-04,"Sleep (Garmin)",hours,7.05
+2021-05-04,"Weight (Garmin)",kg,86.2
+2021-05-05,"Heart Rate (Garmin)",bpm,66.0
+2021-05-05,"Sleep (Garmin)",hours,7.73333
+2021-05-05,"Weight (Garmin)",kg,86.1
+2021-05-06,"Heart Rate (Garmin)",bpm,61.0
+2021-05-06,"Sleep (Garmin)",hours,8.58333
+2021-05-06,"Weight (Garmin)",kg,86.8
+2021-05-07,"Sleep (Garmin)",hours,8.43333
+2021-05-07,"Heart Rate (Garmin)",bpm,58.0
+2021-05-07,"Weight (Garmin)",kg,86.3
+2021-05-08,"Heart Rate (Garmin)",bpm,61.0
+2021-05-08,"Sleep (Garmin)",hours,9.53333
+2021-05-08,"Weight (Garmin)",kg,85.5
+2021-05-09,"Sleep (Garmin)",hours,8.8
+2021-05-09,"Heart Rate (Garmin)",bpm,58.0
+2021-05-09,"Weight (Garmin)",kg,85.5
+2021-05-10,"Heart Rate (Garmin)",bpm,58.0
+2021-05-10,"Sleep (Garmin)",hours,7.63333
+2021-05-10,"Weight (Garmin)",kg,85.9
+2021-05-11,"Heart Rate (Garmin)",bpm,59.0
+2021-05-11,"Sleep (Garmin)",hours,3.33333
+2021-05-11,"Weight (Garmin)",kg,85.8
+2021-05-12,"Sleep (Garmin)",hours,8.7
+2021-05-12,"Heart Rate (Garmin)",bpm,59.0
+2021-05-12,"Weight (Garmin)",kg,85.5
+2021-05-13,"Heart Rate (Garmin)",bpm,58.0
+2021-05-13,"Sleep (Garmin)",hours,5.36667
+2021-05-13,"Weight (Garmin)",kg,85.4
+2021-05-14,"Sleep (Garmin)",hours,7.6
+2021-05-14,"Heart Rate (Garmin)",bpm,62.0
+2021-05-14,"Weight (Garmin)",kg,85.2
+2021-05-15,"Heart Rate (Garmin)",bpm,57.0
+2021-05-15,"Sleep (Garmin)",hours,8.2
+2021-05-15,"Weight (Garmin)",kg,85.5
+2021-05-16,"Weight",kg,85.0
+2021-05-16,"Heart Rate (Garmin)",bpm,54.0
+2021-05-16,"Sleep (Garmin)",hours,6.41667
+2021-05-16,"Weight (Garmin)",kg,85.2
+2021-05-17,"Heart Rate (Garmin)",bpm,52.0
+2021-05-17,"Sleep (Garmin)",hours,9.48333
+2021-05-17,"Weight (Garmin)",kg,85.1
+2021-05-18,"Heart Rate (Garmin)",bpm,54.0
+2021-05-18,"Sleep (Garmin)",hours,8.4
+2021-05-18,"Weight (Garmin)",kg,84.7
+2021-05-19,"Heart Rate (Garmin)",bpm,53.0
+2021-05-19,"Sleep (Garmin)",hours,6.6
+2021-05-19,"Weight (Garmin)",kg,84.1
+2021-05-20,"Sleep (Garmin)",hours,8.33333
+2021-05-20,"Heart Rate (Garmin)",bpm,52.0
+2021-05-20,"Weight (Garmin)",kg,84.8
+2021-05-21,"Sleep (Garmin)",hours,7.28333
+2021-05-21,"Heart Rate (Garmin)",bpm,51.0
+2021-05-21,"Weight (Garmin)",kg,84.6
+2021-05-22,"Heart Rate (Garmin)",bpm,54.0
+2021-05-22,"Sleep (Garmin)",hours,8.15
+2021-05-22,"Weight (Garmin)",kg,85.3
+2021-05-23,"Sleep (Garmin)",hours,7.71667
+2021-05-23,"Heart Rate (Garmin)",bpm,53.0
+2021-05-23,"Weight (Garmin)",kg,85.4
+2021-05-24,"Heart Rate (Garmin)",bpm,49.0
+2021-05-24,"Sleep (Garmin)",hours,7.26667
+2021-05-24,"Weight (Garmin)",kg,85.4
+2021-05-25,"Sleep (Garmin)",hours,0.25
+2021-05-25,"Heart Rate (Garmin)",bpm,49.0
+2021-05-25,"Weight (Garmin)",kg,84.6
+2021-05-26,"Heart Rate (Garmin)",bpm,53.0
+2021-05-26,"Sleep (Garmin)",hours,8.11667
+2021-05-26,"Weight (Garmin)",kg,85.0
+2021-05-27,"Heart Rate (Garmin)",bpm,50.0
+2021-05-27,"Sleep (Garmin)",hours,7.6
+2021-05-27,"Weight (Garmin)",kg,84.6
+2021-05-28,"Heart Rate (Garmin)",bpm,53.0
+2021-05-28,"Sleep (Garmin)",hours,9.36667
+2021-05-28,"Weight (Garmin)",kg,84.6
+2021-05-29,"Sleep (Garmin)",hours,8.86667
+2021-05-29,"Heart Rate (Garmin)",bpm,50.0
+2021-05-29,"Weight (Garmin)",kg,84.8
+2021-05-30,"Heart Rate (Garmin)",bpm,52.0
+2021-05-30,"Sleep (Garmin)",hours,7.21667
+2021-05-30,"Weight (Garmin)",kg,85.4
+2021-05-31,"Sleep (Garmin)",hours,9.0
+2021-05-31,"Heart Rate (Garmin)",bpm,58.0
+2021-05-31,"Weight (Garmin)",kg,84.4
+2021-06-01,"Sleep (Garmin)",hours,2.88333
+2021-06-01,"Heart Rate (Garmin)",bpm,57.0
+2021-06-01,"Weight (Garmin)",kg,84.8
+2021-06-02,"Heart Rate (Garmin)",bpm,58.0
+2021-06-02,"Sleep (Garmin)",hours,5.88333
+2021-06-02,"Weight (Garmin)",kg,84.4
+2021-06-03,"Sleep (Garmin)",hours,7.98333
+2021-06-03,"Heart Rate (Garmin)",bpm,56.0
+2021-06-03,"Weight (Garmin)",kg,84.6
+2021-06-04,"Sleep (Garmin)",hours,6.58333
+2021-06-04,"Heart Rate (Garmin)",bpm,57.0
+2021-06-04,"Weight (Garmin)",kg,84.6
+2021-06-05,"Heart Rate (Garmin)",bpm,57.0
+2021-06-05,"Sleep (Garmin)",hours,8.8
+2021-06-05,"Weight (Garmin)",kg,85.0
+2021-06-06,"Sleep (Garmin)",hours,10.7833
+2021-06-06,"Heart Rate (Garmin)",bpm,58.0
+2021-06-06,"Weight (Garmin)",kg,84.6
+2021-06-07,"Sleep (Garmin)",hours,7.48333
+2021-06-07,"Heart Rate (Garmin)",bpm,58.0
+2021-06-07,"Weight (Garmin)",kg,84.5
+2021-06-08,"Heart Rate (Garmin)",bpm,56.0
+2021-06-08,"Sleep (Garmin)",hours,8.58333
+2021-06-09,"Heart Rate (Garmin)",bpm,55.0
+2021-06-09,"Sleep (Garmin)",hours,6.71667
+2021-06-10,"Heart Rate (Garmin)",bpm,63.0
+2021-06-10,"Sleep (Garmin)",hours,8.41667
+2021-06-11,"Heart Rate (Garmin)",bpm,64.0
+2021-06-11,"Sleep (Garmin)",hours,6.81667
+2021-06-12,"Sleep (Garmin)",hours,8.86667
+2021-06-12,"Heart Rate (Garmin)",bpm,59.0
+2021-06-12,"Weight (Garmin)",kg,84.7
+2021-06-13,"Heart Rate (Garmin)",bpm,55.0
+2021-06-13,"Sleep (Garmin)",hours,5.58333
+2021-06-13,"Weight (Garmin)",kg,85.2
+2021-06-14,"Heart Rate (Garmin)",bpm,51.0
+2021-06-14,"Sleep (Garmin)",hours,10.8333
+2021-06-14,"Weight (Garmin)",kg,83.9
+2021-06-15,"Sleep (Garmin)",hours,6.06667
+2021-06-15,"Heart Rate (Garmin)",bpm,56.0
+2021-06-15,"Weight (Garmin)",kg,84.0
+2021-06-16,"Heart Rate (Garmin)",bpm,62.0
+2021-06-16,"Sleep (Garmin)",hours,6.06667
+2021-06-16,"Weight (Garmin)",kg,85.5
+2021-06-17,"Heart Rate (Garmin)",bpm,59.0
+2021-06-17,"Sleep (Garmin)",hours,8.96667
+2021-06-17,"Weight (Garmin)",kg,85.6
+2021-06-18,"Heart Rate (Garmin)",bpm,57.0
+2021-06-18,"Sleep (Garmin)",hours,10.35
+2021-06-18,"Weight (Garmin)",kg,85.7
+2021-06-19,"Heart Rate (Garmin)",bpm,56.0
+2021-06-19,"Sleep (Garmin)",hours,8.26667
+2021-06-19,"Weight (Garmin)",kg,85.0
+2021-06-20,"Heart Rate (Garmin)",bpm,58.0
+2021-06-20,"Sleep (Garmin)",hours,7.93333
+2021-06-21,"Heart Rate (Garmin)",bpm,58.0
+2021-06-21,"Sleep (Garmin)",hours,8.3
+2021-06-21,"Weight (Garmin)",kg,85.3
+2021-06-22,"Heart Rate (Garmin)",bpm,57.0
+2021-06-22,"Sleep (Garmin)",hours,8.13333
+2021-06-22,"Weight (Garmin)",kg,85.1
+2021-06-23,"Heart Rate (Garmin)",bpm,57.0
+2021-06-23,"Sleep (Garmin)",hours,6.91667
+2021-06-23,"Weight (Garmin)",kg,85.4
+2021-06-24,"Heart Rate (Garmin)",bpm,58.0
+2021-06-24,"Sleep (Garmin)",hours,8.18333
+2021-06-24,"Weight (Garmin)",kg,85.1
+2021-06-25,"Sleep (Garmin)",hours,5.68333
+2021-06-25,"Heart Rate (Garmin)",bpm,58.0
+2021-06-25,"Weight (Garmin)",kg,85.6
+2021-06-26,"Heart Rate (Garmin)",bpm,57.0
+2021-06-26,"Sleep (Garmin)",hours,8.48333
+2021-06-26,"Weight (Garmin)",kg,85.8
+2021-06-27,"Sleep (Garmin)",hours,6.63333
+2021-06-27,"Heart Rate (Garmin)",bpm,56.0
+2021-06-27,"Weight (Garmin)",kg,85.1
+2021-06-28,"Sleep (Garmin)",hours,8.5
+2021-06-28,"Heart Rate (Garmin)",bpm,53.0
+2021-06-28,"Weight (Garmin)",kg,85.3
+2021-06-29,"Sleep (Garmin)",hours,10.9333
+2021-06-29,"Heart Rate (Garmin)",bpm,56.0
+2021-06-29,"Weight (Garmin)",kg,84.3
+2021-06-30,"Sleep (Garmin)",hours,7.46667
+2021-06-30,"Heart Rate (Garmin)",bpm,58.0
+2021-06-30,"Weight (Garmin)",kg,85.2
+2021-07-01,"Heart Rate (Garmin)",bpm,60.0
+2021-07-01,"Sleep (Garmin)",hours,6.33333
+2021-07-01,"Weight (Garmin)",kg,85.4
+2021-07-02,"Sleep (Garmin)",hours,7.78333
+2021-07-02,"Heart Rate (Garmin)",bpm,60.0
+2021-07-02,"Weight (Garmin)",kg,85.0
+2021-07-03,"Heart Rate (Garmin)",bpm,59.0
+2021-07-03,"Sleep (Garmin)",hours,8.03333
+2021-07-04,"Heart Rate (Garmin)",bpm,60.0
+2021-07-04,"Sleep (Garmin)",hours,8.13333
+2021-07-05,"Heart Rate (Garmin)",bpm,57.0
+2021-07-05,"Sleep (Garmin)",hours,7.9
+2021-07-05,"Weight (Garmin)",kg,85.2
+2021-07-06,"Heart Rate (Garmin)",bpm,51.0
+2021-07-06,"Sleep (Garmin)",hours,7.33333
+2021-07-07,"Sleep (Garmin)",hours,6.15
+2021-07-07,"Heart Rate (Garmin)",bpm,51.0
+2021-07-07,"Weight (Garmin)",kg,84.9
+2021-07-08,"Sleep (Garmin)",hours,6.58333
+2021-07-08,"Heart Rate (Garmin)",bpm,52.0
+2021-07-08,"Weight (Garmin)",kg,84.3
+2021-07-09,"Sleep (Garmin)",hours,8.83333
+2021-07-09,"Heart Rate (Garmin)",bpm,53.0
+2021-07-09,"Weight (Garmin)",kg,84.4
+2021-07-10,"Sleep (Garmin)",hours,9.46667
+2021-07-10,"Heart Rate (Garmin)",bpm,64.0
+2021-07-10,"Weight (Garmin)",kg,83.7
+2021-07-11,"Heart Rate (Garmin)",bpm,60.0
+2021-07-11,"Sleep (Garmin)",hours,7.55
+2021-07-11,"Weight (Garmin)",kg,84.2
+2021-07-12,"Sleep (Garmin)",hours,8.66667
+2021-07-12,"Heart Rate (Garmin)",bpm,56.0
+2021-07-12,"Weight (Garmin)",kg,85.0
+2021-07-13,"Sleep (Garmin)",hours,8.55
+2021-07-13,"Heart Rate (Garmin)",bpm,57.0
+2021-07-13,"Weight (Garmin)",kg,84.8
+2021-07-14,"Sleep (Garmin)",hours,7.91667
+2021-07-14,"Heart Rate (Garmin)",bpm,55.0
+2021-07-15,"Heart Rate (Garmin)",bpm,52.0
+2021-07-15,"Sleep (Garmin)",hours,6.68333
+2021-07-16,"Heart Rate (Garmin)",bpm,53.0
+2021-07-16,"Sleep (Garmin)",hours,7.9
+2021-07-16,"Weight (Garmin)",kg,84.7
+2021-07-17,"Heart Rate (Garmin)",bpm,57.0
+2021-07-17,"Sleep (Garmin)",hours,11.1667
+2021-07-18,"Sleep (Garmin)",hours,5.01667
+2021-07-18,"Heart Rate (Garmin)",bpm,60.0
+2021-07-19,"Sleep (Garmin)",hours,7.3
+2021-07-19,"Heart Rate (Garmin)",bpm,57.0
+2021-07-20,"Sleep (Garmin)",hours,7.95
+2021-07-20,"Heart Rate (Garmin)",bpm,59.0
+2021-07-21,"Sleep (Garmin)",hours,8.5
+2021-07-21,"Heart Rate (Garmin)",bpm,59.0
+2021-07-22,"Heart Rate (Garmin)",bpm,57.0
+2021-07-22,"Sleep (Garmin)",hours,8.5
+2021-07-23,"Sleep (Garmin)",hours,9.18333
+2021-07-23,"Heart Rate (Garmin)",bpm,62.0
+2021-07-24,"Sleep (Garmin)",hours,5.5
+2021-07-24,"Heart Rate (Garmin)",bpm,61.0
+2021-07-25,"Heart Rate (Garmin)",bpm,63.0
+2021-07-25,"Sleep (Garmin)",hours,8.16667
+2021-07-26,"Heart Rate (Garmin)",bpm,59.0
+2021-07-26,"Sleep (Garmin)",hours,7.3
+2021-07-27,"Heart Rate (Garmin)",bpm,59.0
+2021-07-27,"Sleep (Garmin)",hours,7.73333
+2021-07-28,"Heart Rate (Garmin)",bpm,56.0
+2021-07-28,"Sleep (Garmin)",hours,4.75
+2021-07-29,"Sleep (Garmin)",hours,6.53333
+2021-07-29,"Heart Rate (Garmin)",bpm,55.0
+2021-07-30,"Sleep (Garmin)",hours,6.68333
+2021-07-30,"Heart Rate (Garmin)",bpm,57.0
+2021-07-31,"Heart Rate (Garmin)",bpm,61.0
+2021-07-31,"Sleep (Garmin)",hours,8.13333
+2021-08-01,"Sleep (Garmin)",hours,9.38333
+2021-08-01,"Heart Rate (Garmin)",bpm,61.0
+2021-08-02,"Sleep (Garmin)",hours,7.06667
+2021-08-02,"Heart Rate (Garmin)",bpm,64.0
+2021-08-03,"Heart Rate (Garmin)",bpm,66.0
+2021-08-03,"Sleep (Garmin)",hours,8.1
+2021-08-04,"Heart Rate (Garmin)",bpm,62.0
+2021-08-04,"Sleep (Garmin)",hours,6.91667
+2021-08-05,"Heart Rate (Garmin)",bpm,59.0
+2021-08-05,"Sleep (Garmin)",hours,6.58333
+2021-08-06,"Sleep (Garmin)",hours,6.66667
+2021-08-06,"Heart Rate (Garmin)",bpm,59.0
+2021-08-07,"Sleep (Garmin)",hours,9.08333
+2021-08-07,"Heart Rate (Garmin)",bpm,60.0
+2021-08-08,"Heart Rate (Garmin)",bpm,56.0
+2021-08-08,"Sleep (Garmin)",hours,10.5667
+2021-08-09,"Heart Rate (Garmin)",bpm,59.0
+2021-08-09,"Sleep (Garmin)",hours,7.15
+2021-08-10,"Sleep (Garmin)",hours,5.18333
+2021-08-10,"Heart Rate (Garmin)",bpm,56.0
+2021-08-11,"Sleep (Garmin)",hours,6.18333
+2021-08-11,"Heart Rate (Garmin)",bpm,57.0
+2021-08-12,"Sleep (Garmin)",hours,9.18333
+2021-08-12,"Heart Rate (Garmin)",bpm,60.0
+2021-08-13,"Sleep (Garmin)",hours,8.13333
+2021-08-13,"Heart Rate (Garmin)",bpm,57.0
+2021-08-14,"Heart Rate (Garmin)",bpm,63.0
+2021-08-14,"Sleep (Garmin)",hours,8.16667
+2021-08-15,"Heart Rate (Garmin)",bpm,60.0
+2021-08-15,"Sleep (Garmin)",hours,7.91667
+2021-08-16,"Heart Rate (Garmin)",bpm,56.0
+2021-08-16,"Sleep (Garmin)",hours,6.86667
+2021-08-17,"Sleep (Garmin)",hours,10.55
+2021-08-17,"Heart Rate (Garmin)",bpm,56.0
+2021-08-18,"Heart Rate (Garmin)",bpm,58.0
+2021-08-18,"Sleep (Garmin)",hours,7.85
+2021-08-19,"Sleep (Garmin)",hours,8.71667
+2021-08-19,"Heart Rate (Garmin)",bpm,53.0
+2021-08-20,"Heart Rate (Garmin)",bpm,57.0
+2021-08-20,"Sleep (Garmin)",hours,6.76667
+2021-08-21,"Heart Rate (Garmin)",bpm,65.0
+2021-08-21,"Sleep (Garmin)",hours,6.98333
+2021-08-22,"Sleep (Garmin)",hours,8.33333
+2021-08-22,"Heart Rate (Garmin)",bpm,61.0
+2021-08-23,"Sleep (Garmin)",hours,5.31667
+2021-08-23,"Heart Rate (Garmin)",bpm,60.0
+2021-08-24,"Heart Rate (Garmin)",bpm,63.0
+2021-08-24,"Sleep (Garmin)",hours,7.4
+2021-08-25,"Sleep (Garmin)",hours,6.41667
+2021-08-25,"Heart Rate (Garmin)",bpm,62.0
+2021-08-26,"Sleep (Garmin)",hours,8.75
+2021-08-26,"Heart Rate (Garmin)",bpm,60.0
+2021-08-26,"Weight (Garmin)",kg,85.5
+2021-08-27,"Sleep (Garmin)",hours,8.21667
+2021-08-27,"Heart Rate (Garmin)",bpm,64.0
+2021-08-27,"Weight (Garmin)",kg,84.7
+2021-08-28,"Heart Rate (Garmin)",bpm,62.0
+2021-08-28,"Sleep (Garmin)",hours,7.35
+2021-08-28,"Weight (Garmin)",kg,85.6
+2021-08-29,"Heart Rate (Garmin)",bpm,58.0
+2021-08-29,"Sleep (Garmin)",hours,9.55
+2021-08-29,"Weight (Garmin)",kg,85.6
+2021-08-30,"Heart Rate (Garmin)",bpm,56.0
+2021-08-30,"Sleep (Garmin)",hours,9.31667
+2021-08-31,"Sleep (Garmin)",hours,0.0
+2021-08-31,"Heart Rate (Garmin)",bpm,60.0
+2021-09-01,"Sleep (Garmin)",hours,4.71667
+2021-09-01,"Heart Rate (Garmin)",bpm,60.0
+2021-09-02,"Sleep (Garmin)",hours,6.95
+2021-09-02,"Heart Rate (Garmin)",bpm,58.0
+2021-09-03,"Heart Rate (Garmin)",bpm,58.0
+2021-09-03,"Sleep (Garmin)",hours,6.01667
+2021-09-03,"Weight (Garmin)",kg,86.2
+2021-09-04,"Sleep (Garmin)",hours,0.0
+2021-09-04,"Heart Rate (Garmin)",bpm,65.0
+2021-09-05,"Heart Rate (Garmin)",bpm,66.0
+2021-09-05,"Sleep (Garmin)",hours,0.0
+2021-09-06,"Sleep (Garmin)",hours,13.4
+2021-09-06,"Heart Rate (Garmin)",bpm,62.0
+2021-09-07,"Heart Rate (Garmin)",bpm,59.0
+2021-09-07,"Sleep (Garmin)",hours,9.46667
+2021-09-08,"Heart Rate (Garmin)",bpm,57.0
+2021-09-08,"Sleep (Garmin)",hours,9.71667
+2021-09-09,"Sleep (Garmin)",hours,6.68333
+2021-09-09,"Heart Rate (Garmin)",bpm,57.0
+2021-09-10,"Heart Rate (Garmin)",bpm,65.0
+2021-09-10,"Sleep (Garmin)",hours,8.58333
+2021-09-11,"Sleep (Garmin)",hours,10.7333
+2021-09-11,"Heart Rate (Garmin)",bpm,57.0
+2021-09-12,"Sleep (Garmin)",hours,8.55
+2021-09-12,"Heart Rate (Garmin)",bpm,65.0
+2021-09-13,"Heart Rate (Garmin)",bpm,58.0
+2021-09-13,"Sleep (Garmin)",hours,7.26667
+2021-09-14,"Sleep (Garmin)",hours,9.11667
+2021-09-14,"Heart Rate (Garmin)",bpm,56.0
+2021-09-14,"Weight (Garmin)",kg,86.3
+2021-09-15,"Heart Rate (Garmin)",bpm,59.0
+2021-09-15,"Sleep (Garmin)",hours,11.7
+2021-09-15,"Weight (Garmin)",kg,86.5
+2021-09-16,"Sleep (Garmin)",hours,7.38333
+2021-09-16,"Heart Rate (Garmin)",bpm,57.0
+2021-09-16,"Weight (Garmin)",kg,86.1
+2021-09-17,"Sleep (Garmin)",hours,8.56667
+2021-09-17,"Heart Rate (Garmin)",bpm,62.0
+2021-09-17,"Weight (Garmin)",kg,85.9
+2021-09-18,"Sleep (Garmin)",hours,9.0
+2021-09-18,"Heart Rate (Garmin)",bpm,59.0
+2021-09-18,"Weight (Garmin)",kg,86.6
+2021-09-19,"Heart Rate (Garmin)",bpm,60.0
+2021-09-19,"Sleep (Garmin)",hours,9.46667
+2021-09-19,"Weight (Garmin)",kg,86.6
+2021-09-20,"Sleep (Garmin)",hours,7.96667
+2021-09-20,"Heart Rate (Garmin)",bpm,52.0
+2021-09-20,"Weight (Garmin)",kg,86.6
+2021-09-21,"Heart Rate (Garmin)",bpm,54.0
+2021-09-21,"Sleep (Garmin)",hours,7.46667
+2021-09-21,"Weight (Garmin)",kg,86.9
+2021-09-22,"Sleep (Garmin)",hours,8.03333
+2021-09-22,"Heart Rate (Garmin)",bpm,51.0
+2021-09-22,"Weight (Garmin)",kg,86.3
+2021-09-23,"Sleep (Garmin)",hours,7.46667
+2021-09-23,"Heart Rate (Garmin)",bpm,53.0
+2021-09-23,"Weight (Garmin)",kg,86.3
+2021-09-24,"Sleep (Garmin)",hours,6.93333
+2021-09-24,"Heart Rate (Garmin)",bpm,60.0
+2021-09-24,"Weight (Garmin)",kg,85.9
+2021-09-25,"Heart Rate (Garmin)",bpm,65.0
+2021-09-25,"Sleep (Garmin)",hours,8.71667
+2021-09-26,"Sleep (Garmin)",hours,4.6
+2021-09-26,"Heart Rate (Garmin)",bpm,56.0
+2021-09-27,"Sleep (Garmin)",hours,8.05
+2021-09-27,"Heart Rate (Garmin)",bpm,56.0
+2021-09-28,"Sleep (Garmin)",hours,6.78333
+2021-09-28,"Heart Rate (Garmin)",bpm,56.0
+2021-09-28,"Weight (Garmin)",kg,85.5
+2021-09-29,"Heart Rate (Garmin)",bpm,57.0
+2021-09-29,"Sleep (Garmin)",hours,5.8
+2021-09-29,"Weight (Garmin)",kg,85.7
+2021-09-30,"Heart Rate (Garmin)",bpm,56.0
+2021-09-30,"Sleep (Garmin)",hours,8.26667
+2021-09-30,"Weight (Garmin)",kg,86.0
+2021-10-01,"Heart Rate (Garmin)",bpm,62.0
+2021-10-01,"Sleep (Garmin)",hours,8.31667
+2021-10-01,"Weight (Garmin)",kg,85.3
+2021-10-02,"Heart Rate (Garmin)",bpm,56.0
+2021-10-02,"Sleep (Garmin)",hours,10.1667
+2021-10-02,"Weight (Garmin)",kg,85.5
+2021-10-03,"Sleep (Garmin)",hours,10.2167
+2021-10-03,"Heart Rate (Garmin)",bpm,55.0
+2021-10-04,"Heart Rate (Garmin)",bpm,51.0
+2021-10-04,"Sleep (Garmin)",hours,7.63333
+2021-10-05,"Heart Rate (Garmin)",bpm,54.0
+2021-10-05,"Sleep (Garmin)",hours,6.7
+2021-10-06,"Sleep (Garmin)",hours,8.08333
+2021-10-06,"Heart Rate (Garmin)",bpm,56.0
+2021-10-07,"Sleep (Garmin)",hours,8.23333
+2021-10-07,"Heart Rate (Garmin)",bpm,58.0
+2021-10-08,"Sleep (Garmin)",hours,7.95
+2021-10-08,"Heart Rate (Garmin)",bpm,54.0
+2021-10-09,"Sleep (Garmin)",hours,7.25
+2021-10-10,"Heart Rate (Garmin)",bpm,61.0
+2021-10-10,"Sleep (Garmin)",hours,6.06667
+2021-10-11,"Sleep (Garmin)",hours,7.55
+2021-10-11,"Heart Rate (Garmin)",bpm,60.0
+2021-10-12,"Sleep (Garmin)",hours,9.7
+2021-10-12,"Heart Rate (Garmin)",bpm,62.0
+2021-10-12,"Weight (Garmin)",kg,87.0
+2021-10-13,"Heart Rate (Garmin)",bpm,59.0
+2021-10-13,"Sleep (Garmin)",hours,4.93333
+2021-10-13,"Weight (Garmin)",kg,86.0
+2021-10-14,"Sleep (Garmin)",hours,20.4
+2021-10-14,"Heart Rate (Garmin)",bpm,55.0
+2021-10-14,"Weight (Garmin)",kg,85.9
+2021-10-15,"Sleep (Garmin)",hours,4.61667
+2021-10-15,"Heart Rate (Garmin)",bpm,57.0
+2021-10-15,"Weight (Garmin)",kg,86.4
+2021-10-16,"Sleep (Garmin)",hours,9.83333
+2021-10-16,"Heart Rate (Garmin)",bpm,53.0
+2021-10-16,"Weight (Garmin)",kg,85.4
+2021-10-17,"Sleep (Garmin)",hours,11.3333
+2021-10-17,"Heart Rate (Garmin)",bpm,56.0
+2021-10-17,"Weight (Garmin)",kg,85.4
+2021-10-18,"Sleep (Garmin)",hours,6.93333
+2021-10-18,"Heart Rate (Garmin)",bpm,52.0
+2021-10-18,"Weight (Garmin)",kg,85.8
+2021-10-19,"Sleep (Garmin)",hours,7.86667
+2021-10-19,"Heart Rate (Garmin)",bpm,55.0
+2021-10-19,"Weight (Garmin)",kg,85.5
+2021-10-20,"Sleep (Garmin)",hours,6.4
+2021-10-20,"Heart Rate (Garmin)",bpm,53.0
+2021-10-20,"Weight (Garmin)",kg,86.5
+2021-10-21,"Heart Rate (Garmin)",bpm,54.0
+2021-10-21,"Sleep (Garmin)",hours,6.05
+2021-10-22,"Sleep (Garmin)",hours,7.01667
+2021-10-22,"Heart Rate (Garmin)",bpm,56.0
+2021-10-22,"Weight (Garmin)",kg,85.4
+2021-10-23,"Heart Rate (Garmin)",bpm,57.0
+2021-10-23,"Sleep (Garmin)",hours,8.68333
+2021-10-23,"Weight (Garmin)",kg,85.1
+2021-10-24,"Heart Rate (Garmin)",bpm,56.0
+2021-10-24,"Sleep (Garmin)",hours,7.96667
+2021-10-24,"Weight (Garmin)",kg,85.2
+2021-10-25,"Sleep (Garmin)",hours,7.06667
+2021-10-25,"Heart Rate (Garmin)",bpm,58.0
+2021-10-25,"Weight (Garmin)",kg,85.0
+2021-10-26,"Heart Rate (Garmin)",bpm,59.0
+2021-10-26,"Sleep (Garmin)",hours,6.41667
+2021-10-26,"Weight (Garmin)",kg,84.8
+2021-10-27,"Sleep (Garmin)",hours,7.93333
+2021-10-27,"Heart Rate (Garmin)",bpm,54.0
+2021-10-27,"Weight (Garmin)",kg,85.2
+2021-10-28,"Heart Rate (Garmin)",bpm,59.0
+2021-10-28,"Sleep (Garmin)",hours,7.11667
+2021-10-28,"Weight (Garmin)",kg,84.5
+2021-10-29,"Sleep (Garmin)",hours,6.51667
+2021-10-29,"Heart Rate (Garmin)",bpm,58.0
+2021-10-29,"Weight (Garmin)",kg,84.4
+2021-10-30,"Heart Rate (Garmin)",bpm,55.0
+2021-10-30,"Sleep (Garmin)",hours,6.63333
+2021-10-30,"Weight (Garmin)",kg,84.6
+2021-10-31,"Sleep (Garmin)",hours,8.48333
+2021-10-31,"Heart Rate (Garmin)",bpm,59.0
+2021-10-31,"Weight (Garmin)",kg,83.9
+2021-11-01,"Sleep (Garmin)",hours,8.18333
+2021-11-01,"Heart Rate (Garmin)",bpm,55.0
+2021-11-01,"Weight (Garmin)",kg,83.9
+2021-11-02,"Sleep (Garmin)",hours,5.66667
+2021-11-02,"Heart Rate (Garmin)",bpm,52.0
+2021-11-02,"Weight (Garmin)",kg,84.9
+2021-11-03,"Heart Rate (Garmin)",bpm,53.0
+2021-11-03,"Sleep (Garmin)",hours,6.03333
+2021-11-03,"Weight (Garmin)",kg,84.4
+2021-11-04,"Heart Rate (Garmin)",bpm,57.0
+2021-11-04,"Sleep (Garmin)",hours,6.86667
+2021-11-04,"Weight (Garmin)",kg,83.8
+2021-11-05,"Heart Rate (Garmin)",bpm,55.0
+2021-11-05,"Sleep (Garmin)",hours,7.81667
+2021-11-05,"Weight (Garmin)",kg,84.7
+2021-11-06,"Sleep (Garmin)",hours,7.85
+2021-11-06,"Heart Rate (Garmin)",bpm,57.0
+2021-11-06,"Weight (Garmin)",kg,85.0
+2021-11-07,"Sleep (Garmin)",hours,7.0
+2021-11-07,"Heart Rate (Garmin)",bpm,57.0
+2021-11-07,"Weight (Garmin)",kg,85.1
+2021-11-08,"Sleep (Garmin)",hours,7.06667
+2021-11-08,"Heart Rate (Garmin)",bpm,53.0
+2021-11-08,"Weight (Garmin)",kg,84.6
+2021-11-09,"Heart Rate (Garmin)",bpm,56.0
+2021-11-09,"Sleep (Garmin)",hours,8.6
+2021-11-10,"Heart Rate (Garmin)",bpm,59.0
+2021-11-10,"Sleep (Garmin)",hours,7.76667
+2021-11-10,"Weight (Garmin)",kg,84.7
+2021-11-11,"Heart Rate (Garmin)",bpm,56.0
+2021-11-11,"Sleep (Garmin)",hours,10.65
+2021-11-11,"Weight (Garmin)",kg,84.6
+2021-11-12,"Heart Rate (Garmin)",bpm,56.0
+2021-11-12,"Sleep (Garmin)",hours,7.65
+2021-11-12,"Weight (Garmin)",kg,84.3
+2021-11-13,"Sleep (Garmin)",hours,7.28333
+2021-11-13,"Heart Rate (Garmin)",bpm,59.0
+2021-11-14,"Sleep (Garmin)",hours,8.06667
+2021-11-14,"Heart Rate (Garmin)",bpm,54.0
+2021-11-15,"Sleep (Garmin)",hours,6.35
+2021-11-15,"Heart Rate (Garmin)",bpm,54.0
+2021-11-15,"Weight (Garmin)",kg,84.6
+2021-11-16,"Sleep (Garmin)",hours,7.73333
+2021-11-16,"Heart Rate (Garmin)",bpm,55.0
+2021-11-16,"Weight (Garmin)",kg,85.1
+2021-11-17,"Sleep (Garmin)",hours,9.08333
+2021-11-17,"Heart Rate (Garmin)",bpm,58.0
+2021-11-17,"Weight (Garmin)",kg,85.1
+2021-11-18,"Heart Rate (Garmin)",bpm,57.0
+2021-11-18,"Sleep (Garmin)",hours,7.38333
+2021-11-18,"Weight (Garmin)",kg,85.3
+2021-11-19,"Heart Rate (Garmin)",bpm,64.0
+2021-11-19,"Sleep (Garmin)",hours,6.93333
+2021-11-19,"Weight (Garmin)",kg,84.7
+2021-11-20,"Heart Rate (Garmin)",bpm,58.0
+2021-11-20,"Sleep (Garmin)",hours,8.43333
+2021-11-20,"Weight (Garmin)",kg,84.6
+2021-11-21,"Sleep (Garmin)",hours,10.9667
+2021-11-21,"Heart Rate (Garmin)",bpm,52.0
+2021-11-21,"Weight (Garmin)",kg,85.0
+2021-11-22,"Sleep (Garmin)",hours,8.98333
+2021-11-22,"Heart Rate (Garmin)",bpm,50.0
+2021-11-23,"Heart Rate (Garmin)",bpm,50.0
+2021-11-23,"Sleep (Garmin)",hours,7.73333
+2021-11-24,"Heart Rate (Garmin)",bpm,59.0
+2021-11-24,"Sleep (Garmin)",hours,8.46667
+2021-11-25,"Heart Rate (Garmin)",bpm,58.0
+2021-11-25,"Sleep (Garmin)",hours,7.63333
+2021-11-26,"Sleep (Garmin)",hours,8.46667
+2021-11-26,"Heart Rate (Garmin)",bpm,59.0
+2021-11-27,"Sleep (Garmin)",hours,11.5333
+2021-11-27,"Heart Rate (Garmin)",bpm,57.0
+2021-11-28,"Heart Rate (Garmin)",bpm,57.0
+2021-11-28,"Sleep (Garmin)",hours,7.71667
+2021-11-29,"Heart Rate (Garmin)",bpm,55.0
+2021-11-29,"Sleep (Garmin)",hours,8.45
+2021-11-30,"Sleep (Garmin)",hours,6.51667
+2021-11-30,"Heart Rate (Garmin)",bpm,57.0
+2021-11-30,"Weight (Garmin)",kg,85.5
+2021-12-01,"Heart Rate (Garmin)",bpm,53.0
+2021-12-01,"Sleep (Garmin)",hours,9.11667
+2021-12-01,"Weight (Garmin)",kg,85.9
+2021-12-02,"Heart Rate (Garmin)",bpm,53.0
+2021-12-02,"Sleep (Garmin)",hours,6.05
+2021-12-02,"Weight (Garmin)",kg,85.8
+2021-12-03,"Heart Rate (Garmin)",bpm,56.0
+2021-12-03,"Sleep (Garmin)",hours,7.31667
+2021-12-04,"Heart Rate (Garmin)",bpm,54.0
+2021-12-04,"Sleep (Garmin)",hours,9.45
+2021-12-04,"Weight (Garmin)",kg,84.9
+2021-12-05,"Sleep (Garmin)",hours,8.36667
+2021-12-05,"Heart Rate (Garmin)",bpm,55.0
+2021-12-05,"Weight (Garmin)",kg,85.3
+2021-12-06,"Sleep (Garmin)",hours,8.6
+2021-12-06,"Heart Rate (Garmin)",bpm,57.0
+2021-12-06,"Weight (Garmin)",kg,85.3
+2021-12-07,"Sleep (Garmin)",hours,7.46667
+2021-12-07,"Heart Rate (Garmin)",bpm,59.0
+2021-12-07,"Weight (Garmin)",kg,85.7
+2021-12-08,"Sleep (Garmin)",hours,8.4
+2021-12-08,"Heart Rate (Garmin)",bpm,58.0
+2021-12-08,"Weight (Garmin)",kg,85.3
+2021-12-09,"Heart Rate (Garmin)",bpm,52.0
+2021-12-09,"Sleep (Garmin)",hours,9.03333
+2021-12-10,"Heart Rate (Garmin)",bpm,59.0
+2021-12-10,"Sleep (Garmin)",hours,6.05
+2021-12-10,"Weight (Garmin)",kg,85.0
+2021-12-11,"Sleep (Garmin)",hours,7.5
+2021-12-11,"Heart Rate (Garmin)",bpm,54.0
+2021-12-12,"Sleep (Garmin)",hours,8.66667
+2021-12-12,"Heart Rate (Garmin)",bpm,58.0
+2021-12-13,"Sleep (Garmin)",hours,8.43333
+2021-12-13,"Heart Rate (Garmin)",bpm,55.0
+2021-12-14,"Sleep (Garmin)",hours,8.26667
+2021-12-14,"Heart Rate (Garmin)",bpm,58.0
+2021-12-15,"Sleep (Garmin)",hours,6.35
+2021-12-15,"Heart Rate (Garmin)",bpm,56.0
+2021-12-16,"Sleep (Garmin)",hours,8.91667
+2021-12-16,"Heart Rate (Garmin)",bpm,55.0
+2021-12-17,"Heart Rate (Garmin)",bpm,55.0
+2021-12-17,"Sleep (Garmin)",hours,7.76667
+2021-12-18,"Heart Rate (Garmin)",bpm,55.0
+2021-12-18,"Sleep (Garmin)",hours,7.0
+2021-12-19,"Sleep (Garmin)",hours,9.35
+2021-12-19,"Heart Rate (Garmin)",bpm,59.0
+2021-12-20,"Heart Rate (Garmin)",bpm,56.0
+2021-12-20,"Sleep (Garmin)",hours,9.06667
+2021-12-21,"Heart Rate (Garmin)",bpm,58.0
+2021-12-21,"Sleep (Garmin)",hours,8.83333
+2021-12-22,"Sleep (Garmin)",hours,9.5
+2021-12-22,"Heart Rate (Garmin)",bpm,52.0
+2021-12-22,"Weight (Garmin)",kg,85.0
+2021-12-23,"Heart Rate (Garmin)",bpm,55.0
+2021-12-23,"Sleep (Garmin)",hours,8.65
+2021-12-24,"Heart Rate (Garmin)",bpm,56.0
+2021-12-24,"Sleep (Garmin)",hours,5.25
+2021-12-25,"Heart Rate (Garmin)",bpm,60.0
+2021-12-25,"Sleep (Garmin)",hours,8.78333
+2021-12-26,"Heart Rate (Garmin)",bpm,54.0
+2021-12-26,"Sleep (Garmin)",hours,8.61667
+2021-12-27,"Sleep (Garmin)",hours,6.45
+2021-12-27,"Heart Rate (Garmin)",bpm,56.0
+2021-12-28,"Sleep (Garmin)",hours,7.53333
+2021-12-28,"Heart Rate (Garmin)",bpm,54.0
+2021-12-28,"Weight (Garmin)",kg,84.7
+2021-12-29,"Sleep (Garmin)",hours,6.76667
+2021-12-29,"Heart Rate (Garmin)",bpm,60.0
+2021-12-30,"Sleep (Garmin)",hours,6.06667
+2021-12-30,"Heart Rate (Garmin)",bpm,57.0
+2021-12-31,"Heart Rate (Garmin)",bpm,54.0
+2021-12-31,"Sleep (Garmin)",hours,5.03333
+2021-12-31,"Weight (Garmin)",kg,85.4
+2022-01-01,"Sleep (Garmin)",hours,7.65
+2022-01-01,"Heart Rate (Garmin)",bpm,61.0
+2022-01-01,"Weight (Garmin)",kg,85.0
+2022-01-02,"Sleep (Garmin)",hours,8.86667
+2022-01-02,"Heart Rate (Garmin)",bpm,55.0
+2022-01-02,"Weight (Garmin)",kg,85.8
+2022-01-03,"Sleep (Garmin)",hours,8.11667
+2022-01-03,"Heart Rate (Garmin)",bpm,60.0
+2022-01-04,"Heart Rate (Garmin)",bpm,60.0
+2022-01-04,"Sleep (Garmin)",hours,9.2
+2022-01-05,"Heart Rate (Garmin)",bpm,57.0
+2022-01-05,"Sleep (Garmin)",hours,7.41667
+2022-01-06,"Heart Rate (Garmin)",bpm,56.0
+2022-01-06,"Sleep (Garmin)",hours,9.2
+2022-01-07,"Sleep (Garmin)",hours,6.03333
+2022-01-07,"Heart Rate (Garmin)",bpm,58.0
+2022-01-08,"Sleep (Garmin)",hours,10.55
+2022-01-08,"Heart Rate (Garmin)",bpm,59.0
+2022-01-09,"Sleep (Garmin)",hours,9.26667
+2022-01-09,"Heart Rate (Garmin)",bpm,59.0
+2022-01-10,"Sleep (Garmin)",hours,6.41667
+2022-01-10,"Heart Rate (Garmin)",bpm,56.0
+2022-01-11,"Heart Rate (Garmin)",bpm,57.0
+2022-01-11,"Sleep (Garmin)",hours,8.5
+2022-01-11,"Weight (Garmin)",kg,84.9
+2022-01-12,"Sleep (Garmin)",hours,7.21667
+2022-01-12,"Heart Rate (Garmin)",bpm,56.0
+2022-01-12,"Weight (Garmin)",kg,85.6
+2022-01-13,"Sleep (Garmin)",hours,10.0
+2022-01-13,"Heart Rate (Garmin)",bpm,56.0
+2022-01-13,"Weight (Garmin)",kg,85.3
+2022-01-14,"Heart Rate (Garmin)",bpm,58.0
+2022-01-14,"Sleep (Garmin)",hours,8.9
+2022-01-14,"Weight (Garmin)",kg,85.7
+2022-01-15,"Sleep (Garmin)",hours,9.51667
+2022-01-15,"Heart Rate (Garmin)",bpm,55.0
+2022-01-16,"Heart Rate (Garmin)",bpm,58.0
+2022-01-16,"Sleep (Garmin)",hours,9.2
+2022-01-16,"Weight (Garmin)",kg,85.9
+2022-01-17,"Heart Rate (Garmin)",bpm,54.0
+2022-01-17,"Sleep (Garmin)",hours,10.2333
+2022-01-17,"Weight (Garmin)",kg,86.2
+2022-01-18,"Sleep (Garmin)",hours,7.05
+2022-01-18,"Heart Rate (Garmin)",bpm,54.0
+2022-01-18,"Weight (Garmin)",kg,86.9
+2022-01-19,"Sleep (Garmin)",hours,7.66667
+2022-01-19,"Heart Rate (Garmin)",bpm,59.0
+2022-01-19,"Weight (Garmin)",kg,86.1
+2022-01-20,"Heart Rate (Garmin)",bpm,56.0
+2022-01-20,"Sleep (Garmin)",hours,9.13333
+2022-01-20,"Weight (Garmin)",kg,85.9
+2022-01-21,"Sleep (Garmin)",hours,6.0
+2022-01-21,"Heart Rate (Garmin)",bpm,59.0
+2022-01-21,"Weight (Garmin)",kg,85.7
+2022-01-22,"Sleep (Garmin)",hours,10.75
+2022-01-22,"Heart Rate (Garmin)",bpm,57.0
+2022-01-22,"Weight (Garmin)",kg,85.4
+2022-01-23,"Sleep (Garmin)",hours,7.51667
+2022-01-23,"Heart Rate (Garmin)",bpm,60.0
+2022-01-23,"Weight (Garmin)",kg,85.9
+2022-01-24,"Sleep (Garmin)",hours,6.96667
+2022-01-24,"Heart Rate (Garmin)",bpm,57.0
+2022-01-24,"Weight (Garmin)",kg,85.5
+2022-01-25,"Sleep (Garmin)",hours,9.05
+2022-01-25,"Heart Rate (Garmin)",bpm,53.0
+2022-01-25,"Weight (Garmin)",kg,85.4
+2022-01-26,"Heart Rate (Garmin)",bpm,56.0
+2022-01-26,"Sleep (Garmin)",hours,8.61667
+2022-01-26,"Weight (Garmin)",kg,85.4
+2022-01-27,"Sleep (Garmin)",hours,7.75
+2022-01-27,"Heart Rate (Garmin)",bpm,52.0
+2022-01-27,"Weight (Garmin)",kg,84.8
+2022-01-28,"Sleep (Garmin)",hours,4.3
+2022-01-28,"Heart Rate (Garmin)",bpm,54.0
+2022-01-28,"Weight (Garmin)",kg,85.0
+2022-01-29,"Heart Rate (Garmin)",bpm,52.0
+2022-01-29,"Sleep (Garmin)",hours,10.25
+2022-01-29,"Weight (Garmin)",kg,85.1
+2022-01-30,"Heart Rate (Garmin)",bpm,55.0
+2022-01-30,"Sleep (Garmin)",hours,9.95
+2022-01-30,"Weight (Garmin)",kg,85.1
+2022-01-31,"Heart Rate (Garmin)",bpm,57.0
+2022-01-31,"Sleep (Garmin)",hours,8.66667
+2022-01-31,"Weight (Garmin)",kg,84.9
+2022-02-01,"Sleep (Garmin)",hours,7.23333
+2022-02-01,"Heart Rate (Garmin)",bpm,57.0
+2022-02-02,"Sleep (Garmin)",hours,8.48333
+2022-02-02,"Heart Rate (Garmin)",bpm,54.0
+2022-02-02,"Weight (Garmin)",kg,84.6
+2022-02-03,"Heart Rate (Garmin)",bpm,55.0
+2022-02-03,"Sleep (Garmin)",hours,8.88333
+2022-02-03,"Weight (Garmin)",kg,84.8
+2022-02-04,"Sleep (Garmin)",hours,8.53333
+2022-02-04,"Heart Rate (Garmin)",bpm,52.0
+2022-02-04,"Weight (Garmin)",kg,84.7
+2022-02-05,"Sleep (Garmin)",hours,8.6
+2022-02-05,"Heart Rate (Garmin)",bpm,52.0
+2022-02-05,"Weight (Garmin)",kg,84.4
+2022-02-06,"Sleep (Garmin)",hours,6.16667
+2022-02-06,"Heart Rate (Garmin)",bpm,56.0
+2022-02-06,"Weight (Garmin)",kg,84.0
+2022-02-07,"Heart Rate (Garmin)",bpm,55.0
+2022-02-07,"Sleep (Garmin)",hours,9.33333
+2022-02-07,"Weight (Garmin)",kg,84.4
+2022-02-08,"Sleep (Garmin)",hours,6.98333
+2022-02-08,"Heart Rate (Garmin)",bpm,58.0
+2022-02-08,"Weight (Garmin)",kg,85.6
+2022-02-09,"Sleep (Garmin)",hours,8.45
+2022-02-09,"Heart Rate (Garmin)",bpm,54.0
+2022-02-09,"Weight (Garmin)",kg,85.7
+2022-02-10,"Heart Rate (Garmin)",bpm,54.0
+2022-02-10,"Sleep (Garmin)",hours,9.88333
+2022-02-10,"Weight (Garmin)",kg,85.0
+2022-02-11,"Heart Rate (Garmin)",bpm,57.0
+2022-02-11,"Sleep (Garmin)",hours,7.38333
+2022-02-11,"Weight (Garmin)",kg,85.1
+2022-02-12,"Heart Rate (Garmin)",bpm,58.0
+2022-02-12,"Sleep (Garmin)",hours,9.3
+2022-02-12,"Weight (Garmin)",kg,84.7
+2022-02-13,"Heart Rate (Garmin)",bpm,56.0
+2022-02-13,"Sleep (Garmin)",hours,4.56667
+2022-02-13,"Weight (Garmin)",kg,84.6
+2022-02-14,"Sleep (Garmin)",hours,4.95
+2022-02-14,"Heart Rate (Garmin)",bpm,57.0
+2022-02-14,"Weight (Garmin)",kg,85.2
+2022-02-15,"Heart Rate (Garmin)",bpm,58.0
+2022-02-15,"Sleep (Garmin)",hours,3.7
+2022-02-15,"Weight (Garmin)",kg,85.4
+2022-02-16,"Heart Rate (Garmin)",bpm,56.0
+2022-02-16,"Sleep (Garmin)",hours,5.78333
+2022-02-16,"Weight (Garmin)",kg,85.4
+2022-02-17,"Heart Rate (Garmin)",bpm,55.0
+2022-02-17,"Sleep (Garmin)",hours,8.93333
+2022-02-17,"Weight (Garmin)",kg,85.5
+2022-02-18,"Heart Rate (Garmin)",bpm,55.0
+2022-02-18,"Sleep (Garmin)",hours,10.1667
+2022-02-18,"Weight (Garmin)",kg,84.8
+2022-02-19,"Sleep (Garmin)",hours,6.7
+2022-02-19,"Heart Rate (Garmin)",bpm,59.0
+2022-02-19,"Weight (Garmin)",kg,85.6
+2022-02-20,"Sleep (Garmin)",hours,4.63333
+2022-02-20,"Heart Rate (Garmin)",bpm,58.0
+2022-02-21,"Sleep (Garmin)",hours,7.5
+2022-02-21,"Heart Rate (Garmin)",bpm,51.0
+2022-02-21,"Weight (Garmin)",kg,85.7
+2022-02-22,"Heart Rate (Garmin)",bpm,53.0
+2022-02-22,"Sleep (Garmin)",hours,7.81667
+2022-02-22,"Weight (Garmin)",kg,84.5
+2022-02-23,"Sleep (Garmin)",hours,5.85
+2022-02-23,"Heart Rate (Garmin)",bpm,50.0
+2022-02-23,"Weight (Garmin)",kg,85.3
+2022-02-24,"Sleep (Garmin)",hours,7.51667
+2022-02-24,"Heart Rate (Garmin)",bpm,58.0
+2022-02-25,"Heart Rate (Garmin)",bpm,60.0
+2022-02-25,"Sleep (Garmin)",hours,10.7667
+2022-02-25,"Weight (Garmin)",kg,85.0
+2022-02-26,"Heart Rate (Garmin)",bpm,55.0
+2022-02-26,"Sleep (Garmin)",hours,8.53333
+2022-02-26,"Weight (Garmin)",kg,84.4
+2022-02-27,"Heart Rate (Garmin)",bpm,57.0
+2022-02-27,"Sleep (Garmin)",hours,6.96667
+2022-02-27,"Weight (Garmin)",kg,84.4
+2022-02-28,"Sleep (Garmin)",hours,5.16667
+2022-02-28,"Heart Rate (Garmin)",bpm,55.0
+2022-02-28,"Weight (Garmin)",kg,85.4
+2022-03-01,"Sleep (Garmin)",hours,8.56667
+2022-03-01,"Heart Rate (Garmin)",bpm,60.0
+2022-03-01,"Weight (Garmin)",kg,85.1
+2022-03-02,"Heart Rate (Garmin)",bpm,55.0
+2022-03-02,"Sleep (Garmin)",hours,8.05
+2022-03-02,"Weight (Garmin)",kg,84.8
+2022-03-03,"Sleep (Garmin)",hours,7.83333
+2022-03-03,"Heart Rate (Garmin)",bpm,57.0
+2022-03-04,"Heart Rate (Garmin)",bpm,58.0
+2022-03-04,"Sleep (Garmin)",hours,5.4
+2022-03-04,"Weight (Garmin)",kg,84.5
+2022-03-05,"Heart Rate (Garmin)",bpm,56.0
+2022-03-05,"Sleep (Garmin)",hours,8.35
+2022-03-06,"Heart Rate (Garmin)",bpm,54.0
+2022-03-06,"Sleep (Garmin)",hours,8.13333
+2022-03-07,"Heart Rate (Garmin)",bpm,58.0
+2022-03-07,"Sleep (Garmin)",hours,5.63333
+2022-03-08,"Sleep (Garmin)",hours,7.73333
+2022-03-08,"Heart Rate (Garmin)",bpm,54.0
+2022-03-09,"Sleep (Garmin)",hours,8.11667
+2022-03-09,"Heart Rate (Garmin)",bpm,59.0
+2022-03-10,"Heart Rate (Garmin)",bpm,57.0
+2022-03-10,"Sleep (Garmin)",hours,3.58333
+2022-03-11,"Heart Rate (Garmin)",bpm,56.0
+2022-03-11,"Sleep (Garmin)",hours,8.98333
+2022-03-12,"Sleep (Garmin)",hours,9.21667
+2022-03-12,"Heart Rate (Garmin)",bpm,51.0
+2022-03-13,"Heart Rate (Garmin)",bpm,54.0
+2022-03-13,"Sleep (Garmin)",hours,8.71667
+2022-03-14,"Heart Rate (Garmin)",bpm,54.0
+2022-03-14,"Sleep (Garmin)",hours,6.78333
+2022-03-15,"Sleep (Garmin)",hours,6.55
+2022-03-15,"Heart Rate (Garmin)",bpm,57.0
+2022-03-16,"Heart Rate (Garmin)",bpm,56.0
+2022-03-16,"Sleep (Garmin)",hours,7.91667
+2022-03-16,"Weight (Garmin)",kg,83.6
+2022-03-17,"Sleep (Garmin)",hours,7.38333
+2022-03-17,"Heart Rate (Garmin)",bpm,58.0
+2022-03-18,"Heart Rate (Garmin)",bpm,54.0
+2022-03-18,"Sleep (Garmin)",hours,7.68333
+2022-03-18,"Weight (Garmin)",kg,84.4
+2022-03-19,"Sleep (Garmin)",hours,0.0
+2022-03-19,"Heart Rate (Garmin)",bpm,55.0
+2022-03-19,"Weight (Garmin)",kg,82.9
+2022-03-20,"Sleep (Garmin)",hours,9.48333
+2022-03-20,"Heart Rate (Garmin)",bpm,54.0
+2022-03-20,"Weight (Garmin)",kg,82.7
+2022-03-21,"Heart Rate (Garmin)",bpm,53.0
+2022-03-21,"Sleep (Garmin)",hours,6.98333
+2022-03-21,"Weight (Garmin)",kg,83.8
+2022-03-22,"Sleep (Garmin)",hours,7.36667
+2022-03-22,"Heart Rate (Garmin)",bpm,54.0
+2022-03-23,"Sleep (Garmin)",hours,6.4
+2022-03-23,"Heart Rate (Garmin)",bpm,59.0
+2022-03-23,"Weight (Garmin)",kg,83.9
+2022-03-24,"Heart Rate (Garmin)",bpm,53.0
+2022-03-24,"Sleep (Garmin)",hours,8.98333
+2022-03-24,"Weight (Garmin)",kg,83.9
+2022-03-25,"Heart Rate (Garmin)",bpm,53.0
+2022-03-25,"Sleep (Garmin)",hours,7.93333
+2022-03-25,"Weight (Garmin)",kg,83.2
+2022-03-26,"Heart Rate (Garmin)",bpm,52.0
+2022-03-26,"Sleep (Garmin)",hours,8.95
+2022-03-26,"Weight (Garmin)",kg,82.7
+2022-03-27,"Sleep (Garmin)",hours,10.65
+2022-03-27,"Heart Rate (Garmin)",bpm,54.0
+2022-03-27,"Weight (Garmin)",kg,83.3
+2022-03-28,"Sleep (Garmin)",hours,6.01667
+2022-03-28,"Heart Rate (Garmin)",bpm,53.0
+2022-03-28,"Weight (Garmin)",kg,83.5
+2022-03-29,"Sleep (Garmin)",hours,7.33333
+2022-03-29,"Heart Rate (Garmin)",bpm,61.0
+2022-03-30,"Heart Rate (Garmin)",bpm,55.0
+2022-03-30,"Sleep (Garmin)",hours,0.983333
+2022-03-30,"Weight (Garmin)",kg,84.1
+2022-03-31,"Heart Rate (Garmin)",bpm,55.0
+2022-03-31,"Sleep (Garmin)",hours,10.2667
+2022-03-31,"Weight (Garmin)",kg,83.1
+2022-04-01,"Sleep (Garmin)",hours,7.85
+2022-04-01,"Heart Rate (Garmin)",bpm,55.0
+2022-04-01,"Weight (Garmin)",kg,82.8
+2022-04-02,"Heart Rate (Garmin)",bpm,59.0
+2022-04-02,"Sleep (Garmin)",hours,9.95
+2022-04-02,"Weight (Garmin)",kg,82.7
+2022-04-03,"Heart Rate (Garmin)",bpm,53.0
+2022-04-03,"Sleep (Garmin)",hours,9.78333
+2022-04-03,"Weight (Garmin)",kg,82.8
+2022-04-04,"Sleep (Garmin)",hours,8.26667
+2022-04-04,"Heart Rate (Garmin)",bpm,50.0
+2022-04-04,"Weight (Garmin)",kg,82.6
+2022-04-05,"Heart Rate (Garmin)",bpm,54.0
+2022-04-05,"Sleep (Garmin)",hours,7.45
+2022-04-05,"Weight (Garmin)",kg,82.5
+2022-04-06,"Sleep (Garmin)",hours,8.11667
+2022-04-06,"Heart Rate (Garmin)",bpm,55.0
+2022-04-06,"Weight (Garmin)",kg,82.7
+2022-04-07,"Heart Rate (Garmin)",bpm,49.0
+2022-04-07,"Sleep (Garmin)",hours,2.91667
+2022-04-07,"Weight (Garmin)",kg,82.7
+2022-04-08,"Sleep (Garmin)",hours,9.31667
+2022-04-08,"Heart Rate (Garmin)",bpm,49.0
+2022-04-08,"Weight (Garmin)",kg,82.6
+2022-04-09,"Heart Rate (Garmin)",bpm,47.0
+2022-04-09,"Sleep (Garmin)",hours,8.38333
+2022-04-09,"Weight (Garmin)",kg,82.6
+2022-04-10,"Heart Rate (Garmin)",bpm,55.0
+2022-04-10,"Sleep (Garmin)",hours,10.45
+2022-04-10,"Weight (Garmin)",kg,82.4
+2022-04-11,"Heart Rate (Garmin)",bpm,49.0
+2022-04-11,"Sleep (Garmin)",hours,8.71667
+2022-04-11,"Weight (Garmin)",kg,82.5
+2022-04-12,"Heart Rate (Garmin)",bpm,54.0
+2022-04-12,"Sleep (Garmin)",hours,8.16667
+2022-04-12,"Weight (Garmin)",kg,81.5
+2022-04-13,"Sleep (Garmin)",hours,8.33333
+2022-04-13,"Heart Rate (Garmin)",bpm,47.0
+2022-04-13,"Weight (Garmin)",kg,81.5
+2022-04-14,"Heart Rate (Garmin)",bpm,52.0
+2022-04-14,"Sleep (Garmin)",hours,6.6
+2022-04-14,"Weight (Garmin)",kg,81.7
+2022-04-15,"Sleep (Garmin)",hours,9.88333
+2022-04-15,"Heart Rate (Garmin)",bpm,51.0
+2022-04-15,"Weight (Garmin)",kg,83.0
+2022-04-16,"Sleep (Garmin)",hours,7.11667
+2022-04-16,"Heart Rate (Garmin)",bpm,56.0
+2022-04-16,"Weight (Garmin)",kg,82.9
+2022-04-17,"Heart Rate (Garmin)",bpm,53.0
+2022-04-17,"Sleep (Garmin)",hours,7.66667
+2022-04-17,"Weight (Garmin)",kg,82.9
+2022-04-18,"Heart Rate (Garmin)",bpm,53.0
+2022-04-18,"Sleep (Garmin)",hours,8.81667
+2022-04-18,"Weight (Garmin)",kg,82.6
+2022-04-19,"Heart Rate (Garmin)",bpm,52.0
+2022-04-19,"Sleep (Garmin)",hours,6.26667
+2022-04-20,"Heart Rate (Garmin)",bpm,52.0
+2022-04-20,"Sleep (Garmin)",hours,9.56667
+2022-04-20,"Weight (Garmin)",kg,82.3
+2022-04-21,"Heart Rate (Garmin)",bpm,57.0
+2022-04-21,"Sleep (Garmin)",hours,4.5
+2022-04-21,"Weight (Garmin)",kg,82.4
+2022-04-22,"Sleep (Garmin)",hours,8.05
+2022-04-22,"Heart Rate (Garmin)",bpm,61.0
+2022-04-22,"Weight (Garmin)",kg,83.5
+2022-04-23,"Heart Rate (Garmin)",bpm,55.0
+2022-04-23,"Sleep (Garmin)",hours,8.41667
+2022-04-24,"Sleep (Garmin)",hours,8.01667
+2022-04-24,"Heart Rate (Garmin)",bpm,56.0
+2022-04-25,"Sleep (Garmin)",hours,8.56667
+2022-04-25,"Heart Rate (Garmin)",bpm,58.0
+2022-04-26,"Sleep (Garmin)",hours,8.85
+2022-04-26,"Heart Rate (Garmin)",bpm,54.0
+2022-04-27,"Sleep (Garmin)",hours,6.83333
+2022-04-27,"Heart Rate (Garmin)",bpm,55.0
+2022-04-28,"Heart Rate (Garmin)",bpm,53.0
+2022-04-28,"Sleep (Garmin)",hours,7.51667
+2022-04-29,"Sleep (Garmin)",hours,8.71667
+2022-04-29,"Heart Rate (Garmin)",bpm,62.0
+2022-04-29,"Weight (Garmin)",kg,83.9
+2022-04-30,"Sleep (Garmin)",hours,5.71667
+2022-04-30,"Heart Rate (Garmin)",bpm,57.0
+2022-04-30,"Weight (Garmin)",kg,83.7
+2022-05-01,"Sleep (Garmin)",hours,7.55
+2022-05-01,"Heart Rate (Garmin)",bpm,59.0
+2022-05-01,"Weight (Garmin)",kg,83.2
+2022-05-02,"Heart Rate (Garmin)",bpm,53.0
+2022-05-02,"Sleep (Garmin)",hours,8.26667
+2022-05-02,"Weight (Garmin)",kg,84.0
+2022-05-03,"Heart Rate (Garmin)",bpm,58.0
+2022-05-03,"Sleep (Garmin)",hours,7.93333
+2022-05-03,"Weight (Garmin)",kg,83.5
+2022-05-04,"Heart Rate (Garmin)",bpm,54.0
+2022-05-04,"Sleep (Garmin)",hours,7.81667
+2022-05-04,"Weight (Garmin)",kg,83.9
+2022-05-05,"Sleep (Garmin)",hours,4.11667
+2022-05-05,"Heart Rate (Garmin)",bpm,61.0
+2022-05-06,"Sleep (Garmin)",hours,7.05
+2022-05-06,"Heart Rate (Garmin)",bpm,57.0
+2022-05-06,"Weight (Garmin)",kg,83.5
+2022-05-07,"Heart Rate (Garmin)",bpm,53.0
+2022-05-07,"Sleep (Garmin)",hours,6.98333
+2022-05-08,"Heart Rate (Garmin)",bpm,56.0
+2022-05-08,"Sleep (Garmin)",hours,10.7333
+2022-05-09,"Heart Rate (Garmin)",bpm,60.0
+2022-05-09,"Sleep (Garmin)",hours,6.68333
+2022-05-09,"Weight (Garmin)",kg,83.0
+2022-05-10,"Heart Rate (Garmin)",bpm,54.0
+2022-05-10,"Sleep (Garmin)",hours,5.8
+2022-05-10,"Weight (Garmin)",kg,83.6
+2022-05-11,"Heart Rate (Garmin)",bpm,60.0
+2022-05-11,"Sleep (Garmin)",hours,11.75
+2022-05-12,"Heart Rate (Garmin)",bpm,62.0
+2022-05-12,"Sleep (Garmin)",hours,7.53333
+2022-05-12,"Weight (Garmin)",kg,83.1
+2022-05-13,"Heart Rate (Garmin)",bpm,57.0
+2022-05-13,"Sleep (Garmin)",hours,8.66667
+2022-05-13,"Weight (Garmin)",kg,84.0
+2022-05-14,"Sleep (Garmin)",hours,9.41667
+2022-05-14,"Heart Rate (Garmin)",bpm,56.0
+2022-05-14,"Weight (Garmin)",kg,83.5
+2022-05-15,"Sleep (Garmin)",hours,9.45
+2022-05-15,"Heart Rate (Garmin)",bpm,59.0
+2022-05-15,"Weight (Garmin)",kg,83.2
+2022-05-16,"Sleep (Garmin)",hours,8.08333
+2022-05-16,"Heart Rate (Garmin)",bpm,53.0
+2022-05-16,"Weight (Garmin)",kg,83.6
+2022-05-17,"Sleep (Garmin)",hours,7.23333
+2022-05-17,"Heart Rate (Garmin)",bpm,53.0
+2022-05-17,"Weight (Garmin)",kg,83.6
+2022-05-18,"Sleep (Garmin)",hours,7.08333
+2022-05-18,"Heart Rate (Garmin)",bpm,51.0
+2022-05-19,"Heart Rate (Garmin)",bpm,54.0
+2022-05-19,"Sleep (Garmin)",hours,7.63333
+2022-05-20,"Sleep (Garmin)",hours,9.03333
+2022-05-20,"Heart Rate (Garmin)",bpm,56.0
+2022-05-20,"Weight (Garmin)",kg,83.9
+2022-05-21,"Sleep (Garmin)",hours,3.06667
+2022-05-21,"Heart Rate (Garmin)",bpm,50.0
+2022-05-21,"Weight (Garmin)",kg,84.4
+2022-05-22,"Sleep (Garmin)",hours,8.8
+2022-05-22,"Heart Rate (Garmin)",bpm,51.0
+2022-05-23,"Sleep (Garmin)",hours,8.0
+2022-05-23,"Heart Rate (Garmin)",bpm,52.0
+2022-05-23,"Weight (Garmin)",kg,83.4
+2022-05-24,"Heart Rate (Garmin)",bpm,52.0
+2022-05-24,"Sleep (Garmin)",hours,9.68333
+2022-05-24,"Weight (Garmin)",kg,83.8
+2022-05-25,"Sleep (Garmin)",hours,5.75
+2022-05-25,"Heart Rate (Garmin)",bpm,52.0
+2022-05-25,"Weight (Garmin)",kg,83.4
+2022-05-26,"Heart Rate (Garmin)",bpm,54.0
+2022-05-26,"Sleep (Garmin)",hours,7.95
+2022-05-26,"Weight (Garmin)",kg,83.7
+2022-05-27,"Sleep (Garmin)",hours,7.45
+2022-05-27,"Heart Rate (Garmin)",bpm,56.0
+2022-05-28,"Sleep (Garmin)",hours,7.68333
+2022-05-28,"Heart Rate (Garmin)",bpm,56.0
+2022-05-29,"Heart Rate (Garmin)",bpm,50.0
+2022-05-29,"Sleep (Garmin)",hours,7.26667
+2022-05-29,"Weight (Garmin)",kg,83.4
+2022-05-30,"Sleep (Garmin)",hours,9.65
+2022-05-30,"Heart Rate (Garmin)",bpm,50.0
+2022-05-30,"Weight (Garmin)",kg,83.2
