@@ -11,6 +11,8 @@ client = mfp.Client("calrkarnold")
 day_delta = timedelta(1)
 yesterday = datetime.today().date() - day_delta
 
+# Food Summary ----------------------------------------------------------------
+
 #%%
 """
 Check if a file exists for the food summary. If it does, load the data and set
@@ -18,11 +20,11 @@ the start date to the last date in the file + 1 day, otherwise start at the
 beginning of 2015.
 """
 try:
-    food_summary = pq.read_table("mfp_food-summary.parquet").to_pandas()
-    start_date = food_summary["date"].max() + day_delta
+    food_summary = pq.read_table("data/MFP/mfp_food-summary.parquet").to_pandas()
+    food_start_date = food_summary["date"].max() + day_delta
 
 except EnvironmentError:
-    start_date = datetime(2015, 1, 1)
+    food_start_date = datetime(2015, 1, 1)
     food_summary = pd.DataFrame()
 
 #%%
@@ -60,7 +62,7 @@ def download_food_summary_dataframe(start_date: datetime, end_date: datetime):
         return new_food_summary_clean
 
 #%%
-new_food_summary_clean = download_food_summary_dataframe(start_date, yesterday)
+new_food_summary_clean = download_food_summary_dataframe(food_start_date, yesterday)
 
 #%%
 def update_food_summary_dataframe(old_data: pd.DataFrame, new_data: pd.DataFrame):
@@ -82,6 +84,6 @@ updated_food_summary = update_food_summary_dataframe(food_summary, new_food_summ
 # Write the updated data to a parquet file
 pq.write_table(
     pa.Table.from_pandas(updated_food_summary),
-    "mfp_food-summary.parquet"
+    "data/MFP/mfp_food-summary.parquet"
     )
 # %%
