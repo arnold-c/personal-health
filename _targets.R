@@ -13,7 +13,8 @@ tar_option_set(
     "fable",
     "fabletools",
     "feasts",
-    "highcharter"
+    "highcharter",
+    "arrow"
   )
 )
 
@@ -23,36 +24,42 @@ cleaning_targets <- list(
   # Load Cronometer ----
   tar_target(
     cron_biometrics_raw_file,
-    here::here("data/Cronometer", "biometrics.csv"),
+    here::here("data/Cronometer", "cron_biometrics.csv"),
     format = "file"
   ),
   tar_target(
     cron_biometrics_raw,
     read_csv(cron_biometrics_raw_file) %>%
       janitor::clean_names() %>%
-      rename(date = day)
+      rename(date = day) %>%
+      mutate(date = as_date(date)) %>%
+      drop_na()
   ),
   tar_target(
     cron_nutrition_raw_file,
-    here::here("data/Cronometer", "dailySummary.csv"),
+    here::here("data/Cronometer", "cron_daily-nutrition.csv"),
     format = "file"
   ),
   tar_target(
     cron_nutrition_raw,
     read_csv(cron_nutrition_raw_file, guess_max = 5000) %>%
       janitor::clean_names() %>%
-      rename(calories = energy_kcal, carbohydrates_g = carbs_g)
+      rename(calories = energy_kcal, carbohydrates_g = carbs_g) %>%
+      mutate(date = as_date(date)) %>%
+      drop_na()
   ),
   tar_target(
     cron_exercise_raw_file,
-    here::here("data/Cronometer", "exercises.csv"),
+    here::here("data/Cronometer", "cron_exercises.csv"),
     format = "file"
   ),
   tar_target(
     cron_exercise_raw,
     read_csv(cron_exercise_raw_file) %>%
       janitor::clean_names() %>%
-      rename(date = day)
+      rename(date = day) %>%
+      mutate(date = as_date(date)) %>%
+      drop_na()
   ),
 
   # Load MFP ----
@@ -65,17 +72,22 @@ cleaning_targets <- list(
     mfp_biometrics_raw,
     read_csv(mfp_biometrics_raw_file) %>%
       janitor::clean_names() %>%
-      rename(weight = weightkg)
+      rename(weight = weightkg) %>%
+      mutate(date = as_date(date)) %>%
+      drop_na()
   ),
   tar_target(
     mfp_nutrition_raw_file,
-    here::here("data/MFP", "Nutrition-Summary-2015-04-08-to-2021-05-17.csv"),
+    here::here("data/MFP", "mfp_daily-nutrition.parquet"),
     format = "file"
   ),
   tar_target(
     mfp_nutrition_raw,
-    read_csv(mfp_nutrition_raw_file) %>%
-      janitor::clean_names()
+    read_parquet(mfp_nutrition_raw_file) %>%
+      janitor::clean_names() %>%
+      rename_with(~paste0(., "_g"), .cols = -c(date, calories)) %>%
+      mutate(date = as_date(date)) %>%
+      drop_na()
   ),
   tar_target(
     mfp_exercise_raw_file,
@@ -85,7 +97,9 @@ cleaning_targets <- list(
   tar_target(
     mfp_exercise_raw,
     read_csv(mfp_exercise_raw_file) %>%
-      janitor::clean_names()
+      janitor::clean_names() %>%
+      mutate(date = as_date(date)) %>%
+      drop_na()
   ),
 
   # Cronometer totals ----
@@ -96,10 +110,6 @@ cleaning_targets <- list(
   ),
 
   # MFP totals ----
-  tar_target(
-    mfp_nutrition_totals,
-    calculate_daily_totals(mfp_nutrition_raw, calories:iron)
-  ),
   tar_target(
     mfp_exercise_totals,
     calculate_daily_totals(mfp_exercise_raw, exercise_calories:exercise_minutes)
@@ -117,7 +127,7 @@ cleaning_targets <- list(
     join_all_data(
       mfp_body_measures = mfp_biometrics_raw,
       wide_cron_body_measures = cron_body_measures,
-      mfp_nutrition_totals = mfp_nutrition_totals,
+      mfp_nutrition_totals = mfp_nutrition_raw,
       cron_nutrition = cron_nutrition_raw,
       mfp_exercise_totals = mfp_exercise_totals,
       cron_exercise_totals = cron_exercise_totals

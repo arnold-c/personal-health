@@ -968,6 +968,37 @@ packaging = "*"
 test = ["pytest-qt", "pytest-cov (>=3.0.0)", "pytest (>=6,!=7.0.0,!=7.0.1)"]
 
 [[package]]
+name = "radian"
+version = "0.6.3"
+description = "A 21 century R console"
+category = "main"
+optional = false
+python-versions = ">=3.6"
+
+[package.dependencies]
+prompt_toolkit = ">=3.0.15,<3.1"
+pygments = ">=2.5.0"
+rchitect = ">=0.3.36,<0.4.0"
+
+[package.extras]
+test = ["coverage", "pytest", "pyte (>=0.8.0)", "pexpect", "ptyprocess"]
+
+[[package]]
+name = "rchitect"
+version = "0.3.36"
+description = "Mapping R API to Python"
+category = "main"
+optional = false
+python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*"
+
+[package.dependencies]
+cffi = ">=1.10.0"
+six = ">=1.9.0"
+
+[package.extras]
+test = ["pytest", "pytest-mock", "pytest-cov"]
+
+[[package]]
 name = "requests"
 version = "2.28.1"
 description = "Python HTTP for Humans."
@@ -1171,7 +1202,7 @@ notebook = ">=4.4.1"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.10"
-content-hash = "b3b66b693c6f973d3cf5422af018e98d00f4bfbf6dd4e1e35d106269847b005b"
+content-hash = "3d0d1aa64d87b75b5fcacc0fc4ec492f4ac15f12d39a5aa372fd293171e31e20"
 
 [metadata.files]
 ansicon = []
@@ -1269,6 +1300,8 @@ pywinpty = []
 pyzmq = []
 qtconsole = []
 qtpy = []
+radian = []
+rchitect = []
 requests = []
 rich = []
 secretstorage = [

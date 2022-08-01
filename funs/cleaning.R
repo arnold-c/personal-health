@@ -35,7 +35,7 @@ join_all_data <- function(
       wide_cron_body_measures,
       by = "date",
       suffix = c(".mfp", ".cron")
-    ) %>% 
+    ) %>%
     full_join(mfp_nutrition_totals, by = "date") %>% 
     full_join(
       cron_nutrition,
@@ -47,7 +47,8 @@ join_all_data <- function(
       cron_exercise_totals,
       by = "date",
       suffix = c(".mfp", ".cron")
-    )
+    ) %>%
+    arrange(date)
 }
 
 clean_joined_data_vars <- function(data) {

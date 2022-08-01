@@ -23,7 +23,7 @@ the start date to the last date in the file + 1 day, otherwise start at the
 beginning of 2015.
 """
 try:
-    food_summary = pq.read_table("data/MFP/mfp_food-summary.parquet").to_pandas()
+    food_summary = pq.read_table("data/MFP/mfp_daily-nutrition.parquet").to_pandas()
     food_start_date = food_summary["date"].max() + day_delta
 
 except EnvironmentError:
@@ -87,6 +87,6 @@ updated_food_summary = update_food_summary_dataframe(food_summary, new_food_summ
 # Write the updated data to a parquet file
 pq.write_table(
     pa.Table.from_pandas(updated_food_summary),
-    "data/MFP/mfp_food-summary.parquet"
+    "data/MFP/mfp_daily-nutrition.parquet"
     )
 # %%
