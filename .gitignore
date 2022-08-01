@@ -2,3 +2,15 @@
 .Rhistory
 .RData
 .Ruserdata
+*.csv
+*.parquet
+*.json
+*.xlsx
+*.xls
+*.rds
+*.html
+
+_targets/*
+renv/*
+
+.DS_Store
