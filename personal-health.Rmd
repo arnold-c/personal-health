@@ -271,21 +271,6 @@ all_totals_ts %>%
 #### Moving Averages
 
 
-# Golden Cheetah File Output
-
-Golden Cheetah requires particular headings for file imports, so let's create 
-them here.
-
-```{r}
-all_totals_ts %>% 
-  select(date, weight) %>% 
-  rename(weightkg = weight) %>% 
-  as_tibble() %>% 
-  mutate(date = as_datetime(date)) %>% 
-  filter(!is.na(weightkg)) %>% 
-  write_csv(here::here("out", "GC-weight.csv"))
-```
-
 
 # Regression
 ## Weight vs Gross Calories
