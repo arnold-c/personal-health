@@ -78,12 +78,12 @@ cleaning_targets <- list(
   ),
   tar_target(
     mfp_nutrition_raw_file,
-    here::here("data/MFP", "mfp_daily-nutrition.parquet"),
+    here::here("data/MFP", "mfp_daily-nutrition.csv"),
     format = "file"
   ),
   tar_target(
     mfp_nutrition_raw,
-    read_parquet(mfp_nutrition_raw_file) %>%
+    read_csv(mfp_nutrition_raw_file) %>%
       janitor::clean_names() %>%
       rename_with(~paste0(., "_g"), .cols = -c(date, calories)) %>%
       mutate(date = as_date(date)) %>%
