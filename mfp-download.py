@@ -1,7 +1,7 @@
 #%%
 import myfitnesspal as mfp
 from datetime import datetime, timedelta
-import keyring
+# import keyring
 import pandas as pd
 import pyarrow as pa
 import pyarrow.parquet as pq
@@ -9,8 +9,8 @@ import pyarrow.parquet as pq
 
 #%%
 # Set up user and days difference for date range
-mfp_username = keyring.get_password("mfp", "mfp_username")
-client = mfp.Client(mfp_username)
+# mfp_username = keyring.get_password("mfp", "mfp_username")
+client = mfp.Client()
 day_delta = timedelta(1)
 yesterday = datetime.today().date() - day_delta
 
@@ -27,7 +27,7 @@ try:
     food_start_date = food_summary["date"].max() + day_delta
 
 except EnvironmentError:
-    food_start_date = datetime(2015, 1, 1)
+    food_start_date = datetime(2015, 1, 1).date()
     food_summary = pd.DataFrame()
 
 #%%
@@ -83,10 +83,5 @@ def update_food_summary_dataframe(old_data: pd.DataFrame, new_data: pd.DataFrame
 #%%
 updated_food_summary = update_food_summary_dataframe(food_summary, new_food_summary_clean)
 
-#%%
-# Write the updated data to a parquet file
-pq.write_table(
-    pa.Table.from_pandas(updated_food_summary),
-    "data/MFP/mfp_daily-nutrition.parquet"
-    )
 # %%
+updated_food_summary.to_csv("data/MFP/mfp_daily-nutrition.csv")
